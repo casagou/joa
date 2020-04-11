@@ -9,11 +9,31 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * C = Mediocre (50%-69%)
 * D = Crap (0%-49%)
 
+
+# 2020
+
+## A
+Parasite
+
+## B-
+Sonic The Hedgehog
+
+## C
+1917
+
+#2019
+
+## A
+Ford v Ferrari
+
+## B+
+Marriage Story
+Once Upon a Time in Hollywood
+
 # 2013
 
 ## A+
 Gravity
-
 
 ## A
 Blue Jasmine
@@ -73,37 +93,46 @@ The Incredible Burt Wonderstone
 Spring Breakers
 Movie 43
 
+----
 
-Mike Scale !
-A
+## Mike Scale !
+
+### A
+
 Schindler's List
-B
+
+### B
+
 Captain Phillips
-C
+
+### C
+
 Gravity
-D
 
 
 
-2012
+# 2012
 
+1. Zero Dark Thirty
+2. Django Unchained
+3. Life of Pi
+4. Argo
+5. Amour
+6. Intouchables
+7. Les Misérables
+8. The Dark Knight Rises
+9. Silver Linings Playbook
 
-Zero Dark Thirty
-Django Unchained
-Life of Pi
-Argo
-Amour
-Intouchables
-Les Misérables
-The Dark Knight Rises
-Silver Linings Playbook
-A
+## A
+
 Zero Dark Thirty
 Life of Pi
 Argo
 The Perks of Being a Wallflower
 Intouchables
-B
+
+## B
+
 Les Misérables
 The Master
 The Queen of Versailles
@@ -145,7 +174,9 @@ On the Road
 Prometheus
 Safety Not Guaranteed
 The Sessions
-C
+
+## C
+
 The Amazing Spider-Man
 John Carter
 The Avengers
@@ -189,29 +220,40 @@ Lawless
 Red Lights
 Silent House
 The Vow
-D
+
+## D
+
 Going Down in La La Land
 Haywire
 October Baby
 Premium Rush
 Hick
-Mike Scale !
-A
-B
-C
+
+----
+
+## Mike Scale !
+
+### C
+
 Skyfall
-D
-2011
-Midnight in Paris
-The Descendants
-Hugo
-The Artist
-Moneyball
-War Horse
-Crazy, Stupid, Love.
-Super 8
-Drive
-A
+
+
+
+# 2011
+
+1. Midnight in Paris 
+2. The Descendants 
+3. Hugo 
+4. The Artist 
+5. Moneyball 
+6. War Horse
+7. Crazy, Stupid, Love. 
+8. Super 8 
+9. Drive
+
+
+## A
+
 Drive
 Midnight in Paris
 Young Adult
@@ -222,10 +264,8 @@ Hanna
 The Ides of March
 Tinker Tailor Soldier Spy
 
+## B
 
-
-
-B
 The Artist
 Bad Teacher
 Certified Copy
@@ -282,7 +322,9 @@ Romeos
 Source Code
 Water for Elephants
 Win Win
-C
+
+## C
+
 Harry Potter and the Deathly Hallows
 The Adventures of Tintin
 Pirates of the Caribbean: On Stranger Tides
@@ -317,8 +359,8 @@ Sarah's Key
 Take Me Home Tonight
 Your Highness
 
+## D
 
-D
 Thor
 Arthur
 Ceremony
@@ -334,18 +376,20 @@ The Dilemma
 The Green Hornet
 Green Lantern
 Priest
-The Hangover Part II,
+The Hangover Part II
 The Rite
 
 
-2010
-Black Swan
-Inception
-The Fighter
-127 Hours
-Winter's Bone
-The King's Speech
-Toy Story 3
-The Social Network
-True Grit
-The Kids Are All Right
+
+# 2010
+
+1. Black Swan
+2. Inception
+3. The Fighter
+4. 127 Hours
+5. Winter's Bone
+6. The King's Speech
+7. Toy Story 3
+8. The Social Network
+9. True Grit
+10. The Kids Are All Right

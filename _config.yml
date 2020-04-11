@@ -1,1 +1,80 @@
-theme: jekyll-theme-minimal
+site: Joachim Agou | Mechanical Aerospace Engineer | Canada
+url: http://joa.im
+title: Joachim Agou
+description: Mechanical Aerospace Engineer. Jet Engine Specialist. Designer. Maker. Explorer.
+twitter:
+  username: casagou
+  card: summary
+  creator: #yourusername
+author:
+  twitter: casagou
+  name: #yourusername
+  avatar:
+  email: joa@joa.im
+  url: http://joa.im
+permalink: pretty
+
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github:
+  instagram: instagram.com/casagou
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+
+baseurl: ""
+
+#highlighter: none
+
+exclude:
+  - .jekyll-cache
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

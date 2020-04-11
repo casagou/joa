@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<section class="posts">
+<ul>
+  <p> This blog features mechanical & aerospace engineering technology news, reviews around consumer technology, digital inspirations, travel & food reviews and everything else that enhances personal productivity.</p><br>
+{% for post in site.posts %}
+<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
+{% endfor %}
+</ul>
+</section>

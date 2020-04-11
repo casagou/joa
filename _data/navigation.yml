@@ -11,8 +11,8 @@ links:
   url: https://cv.joa.im
 - title: Aero Consulting
   url: http://joa.aero
-- title: Notes
-  url: /notes
+- title: My Notes
+  url: https://notes.joa.im
 - title: Photo
   url: /photo
 - title: Music
@@ -21,6 +21,10 @@ links:
   url: http://mag.joa.im
 - title: Programming
   url: http://github.joa.im
+- title: Pin's
+  url: http://pin.joa.im
+ - title: JOA & Mister DogeKing
+  url: https://www.youtube.com/channel/UCrKG87gWJVJk09ci3-OlKsA/
 - title: The Bucket List
   url: /list
 - title: Movie Reviews

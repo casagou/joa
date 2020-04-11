@@ -4,11 +4,11 @@ links:
 - title: Download Resume
   url: /download
 - title: Instagram
-  url: https://www.instagram.com/casagou/
+  url: https://insta.joa.im
 - title: Twitter
-  url: https://twitter.com/casagou
+  url: https://twitter.joa.im
 - title: LinkedIn
-  url: https://www.linkedin.com/in/joachimagou/
+  url: https://cv.joa.im
 - title: Aero Consulting
   url: http://joa.aero
 - title: Notes
@@ -18,7 +18,9 @@ links:
 - title: Music
   url: /music
 - title: Magazine
-  url: https://flipboard.com/section/casagou-mag-bWXF9u
+  url: http://mag.joa.im
+ - title: Programming
+  url: http://github.joa.im
 - title: The Bucket List
   url: /list
 - title: Movie Reviews

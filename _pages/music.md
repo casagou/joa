@@ -2,7 +2,7 @@
 layout: page
 title: Music
 ---
-## What I'm listening...
+## What I'm listening (spotify stats!)...
 
 Last.fm audioscrobbler aggregates music from several platforms to build stats and music references.
 
@@ -30,13 +30,14 @@ Top tracks:
 
 ----
 
-## Drafts on Soundcloud
+## Audio recorded on Garageband
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/10280617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/10280617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 
 ----
 
-## Playlist on Spotify
+## My Playlists on Spotify
 
 ### Casagou Feels Good Inc.
 

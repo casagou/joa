@@ -21,14 +21,28 @@ Sonic The Hedgehog
 ## C
 1917
 
-#2019
+
+
+# 2019
 
 ## A
 Ford v Ferrari
+Rocketman
 
 ## B+
 Marriage Story
 Once Upon a Time in Hollywood
+
+## B
+Star Wars: The Rise of Skywalker
+
+## C+
+The Lion King
+
+## D
+La Reine Des Neige 2
+
+
 
 # 2013
 
@@ -48,10 +62,10 @@ Oblivion
 This Is the End
 
 ## B
-Don Jon
-Elysium
-Now You See Me
-In a World
+Don Jon  
+Elysium  
+Now You See Me  
+In a World  
 World War Z
 Lee Daniels' The Butler
 Kill Your Darlings

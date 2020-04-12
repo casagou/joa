@@ -12,56 +12,89 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 # 2020
 
-## A
+### A
 * Parasite
 
-## B-
-* onic The Hedgehog
+### B-
+* Sonic The Hedgehog
 
-## C
+### C
 * 1917
+* Bad Boys for Life
 
-
+----
 
 # 2019
 
-## A
+### A
 * Ford v Ferrari
+
+### A-
 * Rocketman
 
-## B+
-* Marriage Story
+### B+
 * Once Upon a Time in Hollywood
+* El Camino: A Breaking Bad Movie
 
-## B
+### B
+* Marriage Story
 * Star Wars: The Rise of Skywalker
+* American Factory
 
-## C+
+### B-
+* Bombshell
+* Aladdin
+
+### C+
 * The Lion King
 
-## D
+### D
 * La Reine Des Neige 2
 
+----
 
+# 2018
+
+### A+
+* First Man
+
+### A
+* A Star is Born
+* Bohemian Rhapsody
+* Vice
+
+### A-
+* Mission: Impossible – Fallout
+
+### B
+* Ant-Man and the Wasp
+* Ready Player One
+* Jurassic World: Fallen Kingdom 
+* Game Night
+
+### C+
+* Avengers: Infinity War
+
+----
 
 # 2013
 
-## A+
+### A+
 * Gravity
 
-## A
+### A
 * Blue Jasmine
 
-## A-
+### A-
 * Before Midnight
 
-## B+
+### B+
 * Captain Phillips
 * Rush
 * Oblivion
 * This Is the End
 
-## B
+### B
 * Don Jon
 * Elysium
 * Now You See Me
@@ -71,14 +104,14 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * Kill Your Darlings
 * Prisoners
 
-## B-
+### B-
 * Escape Plan
 * Kick-Ass 2
 * In a World
 * Fast & Furious 6
 * Mud
 
-## C
+### C
 * The Great Gatsby
 * RED 2
 * Dead Man Down
@@ -94,7 +127,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * Pain & Gain
 * The Bling Ring
 
-## D
+### D
 * 2 Guns
 * Jobs
 * The Lone Ranger
@@ -107,23 +140,22 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * Spring Breakers
 * Movie 43
 
+
+> ## Mike Scale !
+> 
+> ### A
+> 
+> * Schindler's List
+> 
+> ### B
+> 
+> * Captain Phillips
+> 
+> ### C
+> 
+> * Gravity
+
 ----
-
-## Mike Scale !
-
-### A
-
-* Schindler's List
-
-### B
-
-* Captain Phillips
-
-### C
-
-* Gravity
-
-
 
 # 2012
 
@@ -137,7 +169,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 8. The Dark Knight Rises
 9. Silver Linings Playbook
 
-## A
+### A
 
 * Zero Dark Thirty
 * Life of Pi
@@ -145,7 +177,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * The Perks of Being a Wallflower
 * Intouchables
 
-## B
+### B
 
 * Les Misérables
 * The Master
@@ -189,7 +221,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * Safety Not Guaranteed
 * The Sessions
 
-## C
+### C
 
 * The Amazing Spider-Man
 * John Carter
@@ -235,7 +267,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * Silent House
 * The Vow
 
-## D
+### D
 
 * Going Down in La La Land
 * Haywire
@@ -243,15 +275,13 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * Premium Rush
 * Hick
 
+> ## Mike Scale !
+> 
+> ### C
+> 
+> * Skyfall
+
 ----
-
-## Mike Scale !
-
-### C
-
-* Skyfall
-
-
 
 # 2011
 
@@ -266,7 +296,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 9. Drive
 
 
-## A
+### A
 
 * Drive
 * Midnight in Paris
@@ -278,7 +308,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * The Ides of March
 * Tinker Tailor Soldier Spy
 
-## B
+### B
 
 * The Artist
 * Bad Teacher
@@ -337,7 +367,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * Water for Elephants
 * Win Win
 
-## C
+### C
 
 * Harry Potter and the Deathly Hallows
 * The Adventures of Tintin
@@ -373,7 +403,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * Take Me Home Tonight
 * Your Highness
 
-## D
+### D
 
 * Thor
 * Arthur
@@ -393,7 +423,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * The Hangover Part II
 * The Rite
 
-
+----
 
 # 2010
 

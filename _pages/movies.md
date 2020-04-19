@@ -121,8 +121,23 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 ### A+
 * La la Land
 
+### A-
+* Moana
+
 ### B
 * Deadpool
+* Finding Dory
+* Sausage Party
+
+### C+
+* Batman v Superman: Dawn of Justice
+
+### C
+* Sully
+* X-Men: Apocalypse
+
+### D
+* Captain America: Civil War
 
 ----
 

@@ -157,6 +157,33 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 ----
 
+## 2014
+
+### A+
+* Interstellar
+
+### A
+* Edge of Tomorrow
+* The Imitation Game
+
+### B+
+* Birdman or (The Unexpected Virtue of Ignorance)
+* Nightcrawler 
+
+### B
+* The Lego Movie
+
+### B-
+* X-Men: Days of Future Past
+* Captain America: The Winter Soldier
+* American Sniper
+
+### C+
+* Godzilla
+* 22 Jump Street
+
+----
+
 ## 2013
 
 ### A+

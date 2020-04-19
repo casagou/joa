@@ -2,6 +2,25 @@
 layout: page
 title: Movies
 ---
+
+# Top 10 Greatest movies of all times
+
+|    	| Joa                           	| Mike                      	|
+|----	|-------------------------------	|---------------------------	|
+| 1  	| Les Visiteurs (1993)             	| Gladiator (2000)          	|
+| 2  	| Back to The Future (1985)        	| Schindler's List (1993)   	|
+| 3  	| Interstellar (2014)              	| Collateral (2004)         	|
+| 4  	| Forrest Gump (1994)              	| Miami Vice (2006)         	|
+| 5  	| Good Will Hunting (1997)      	| Casino Royale (2006)      	|
+| 6  	| The Dark Knight (2008)        	| The Dark Knight (2008)     	|
+| 7  	| Amelie Poulain (2001)         	| Spectre (2015)            	|
+| 8  	| Inception (2010)              	|                           	|
+| 9  	| Miami Vice (2006)             	|                           	|
+| 10 	| Leon: the Professional (1994) 	|                           	|
+|    	| The Wolf of Wallstreet (2013) 	| Sonic The Hedgehog (2020) 	|
+
+
+
 Here are the movies I've watched and reviewed the past few years – it’s a work in progress and subject to change based on future circumstances.
 
 * A = Exceptional (90%+)
@@ -84,12 +103,14 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 
 > ## Mike Scale !
-> 
+>
+> ### A
+> * Spectre
+>
 > ### B
-> 
 > * The Martian
 
-—-—-
+----
 
 # 2013
 
@@ -158,15 +179,12 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 > ## Mike Scale !
 > 
 > ### A
-> 
 > * Schindler's List
 > 
 > ### B
-> 
 > * Captain Phillips
 > 
 > ### C
-> 
 > * Gravity
 
 ----
@@ -184,7 +202,6 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 9. Silver Linings Playbook
 
 ### A
-
 * Zero Dark Thirty
 * Life of Pi
 * Argo
@@ -192,7 +209,6 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * Intouchables
 
 ### B
-
 * Les Misérables
 * The Master
 * The Queen of Versailles
@@ -236,7 +252,6 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * The Sessions
 
 ### C
-
 * The Amazing Spider-Man
 * John Carter
 * The Avengers
@@ -282,7 +297,6 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * The Vow
 
 ### D
-
 * Going Down in La La Land
 * Haywire
 * October Baby
@@ -291,9 +305,8 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 > ## Mike Scale !
 > 
-> ### C
-> 
-> * Skyfall
+> ### B
+> * Skyfall (was C)
 
 ----
 
@@ -311,7 +324,6 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 
 ### A
-
 * Drive
 * Midnight in Paris
 * Young Adult
@@ -323,7 +335,6 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * Tinker Tailor Soldier Spy
 
 ### B
-
 * The Artist
 * Bad Teacher
 * Certified Copy
@@ -382,7 +393,6 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * Win Win
 
 ### C
-
 * Harry Potter and the Deathly Hallows
 * The Adventures of Tintin
 * Pirates of the Caribbean: On Stranger Tides
@@ -418,7 +428,6 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * Your Highness
 
 ### D
-
 * Thor
 * Arthur
 * Ceremony
@@ -452,35 +461,43 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 9. True Grit
 10. The Kids Are All Right
 
-———-
+----
 
 # 2008
 
-
 > ## Mike Scale !
 > 
 > ### A
-> 
 > * The Dark Knight 
+>
+> ### C
+> * Quantum of Solace
 
-———-
-
-# 2006
-
-
-> ## Mike Scale !
-> 
-> ### A
-> 
-> * Miami Vice 
-
-———-
+----
 
 # 2006
 
 > ## Mike Scale !
 > 
 > ### A
+> * Miami Vice
+> * Casino Royale
+
+----
+
+# 2004
+
+> ## Mike Scale !
 > 
-> * Gladiator 
+> ### A
+> * Collateral
+
+----
+
+# 2000
+
+> ## Mike Scale !
+> 
+> ### A
+> * Gladiator
 

@@ -96,6 +96,36 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 ----
 
+## 2017
+
+### A
+* The Shape of Water
+
+### B+
+* Star Wars: The Last Jedi
+* Baby Driver
+
+### B
+* Logan
+* Baby Driver
+* The LEGO Batman Movie
+
+### C+
+* Dunkirk
+* Blade Runner 2049
+
+----
+
+## 2016
+
+### A+
+* La la Land
+
+### B
+* Deadpool
+
+----
+
 ## 2015
 
 ### A

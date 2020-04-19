@@ -6,7 +6,7 @@ title: Movies
 # Top 10 Greatest movies of all times
 
 |    	| Joa                           	| Mike                      	|
-|----	|-------------------------------	|---------------------------	|
+|:----:	|:-----------------------------:	|:-------------------------:	|
 | 1  	| Les Visiteurs (1993)             	| Gladiator (2000)          	|
 | 2  	| Back to The Future (1985)        	| Schindler's List (1993)   	|
 | 3  	| Interstellar (2014)              	| Collateral (2004)         	|
@@ -19,7 +19,7 @@ title: Movies
 | 10 	| Leon: the Professional (1994) 	|                           	|
 |    	| The Wolf of Wallstreet (2013) 	| Sonic The Hedgehog (2020) 	|
 
-
+# Movie reviews per year
 
 Here are the movies I've watched and reviewed the past few years – it’s a work in progress and subject to change based on future circumstances.
 
@@ -29,7 +29,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * D = Crap (0%-49%)
 
 
-# 2020
+## 2020
 
 ### A
 * Parasite
@@ -43,7 +43,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 ----
 
-# 2019
+## 2019
 
 ### A
 * Ford v Ferrari
@@ -72,7 +72,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 ----
 
-# 2018
+## 2018
 
 ### A+
 * First Man
@@ -96,7 +96,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 ----
 
-# 2015
+## 2015
 
 ### A
 * The Martian
@@ -112,7 +112,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 ----
 
-# 2013
+## 2013
 
 ### A+
 * Gravity
@@ -175,7 +175,6 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 * Spring Breakers
 * Movie 43
 
-
 > ## Mike Scale !
 > 
 > ### A
@@ -189,7 +188,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 ----
 
-# 2012
+## 2012
 
 1. Zero Dark Thirty
 2. Django Unchained
@@ -306,11 +305,13 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 > ## Mike Scale !
 > 
 > ### B
-> * Skyfall (was C)
+> * Skyfall[^1]
+
+[^1]: Revised from C to B.
 
 ----
 
-# 2011
+## 2011
 
 1. Midnight in Paris 
 2. The Descendants 
@@ -448,7 +449,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 ----
 
-# 2010
+## 2010
 
 1. Black Swan
 2. Inception
@@ -463,7 +464,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 ----
 
-# 2008
+## 2008
 
 > ## Mike Scale !
 > 
@@ -475,7 +476,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 ----
 
-# 2006
+## 2006
 
 > ## Mike Scale !
 > 
@@ -485,7 +486,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 ----
 
-# 2004
+## 2004
 
 > ## Mike Scale !
 > 
@@ -494,7 +495,7 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 
 ----
 
-# 2000
+## 2000
 
 > ## Mike Scale !
 > 

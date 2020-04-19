@@ -165,10 +165,14 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 ### A
 * Edge of Tomorrow
 * The Imitation Game
+* Unbroken
+
+### A-
+* Citizenfour
 
 ### B+
 * Birdman or (The Unexpected Virtue of Ignorance)
-* Nightcrawler 
+* Nightcrawler
 
 ### B
 * The Lego Movie
@@ -181,6 +185,10 @@ Here are the movies I've watched and reviewed the past few years – it’s a wo
 ### C+
 * Godzilla
 * 22 Jump Street
+
+### D
+* Lucy
+* Noah
 
 ----
 

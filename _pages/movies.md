@@ -9,15 +9,15 @@ title: Movies
 |:----:	|:-----------------------------:	|:-------------------------:	|
 | 1  	| Les Visiteurs (1993)             	| Gladiator (2000)          	|
 | 2  	| Back to The Future (1985)        	| Schindler's List (1993)   	|
-| 3  	| Interstellar (2014)              	| Collateral (2004)         	|
+| 3  	| Interstellar (2014)              	| Home Alone (1990)         	|
 | 4  	| Forrest Gump (1994)              	| Miami Vice (2006)         	|
 | 5  	| Good Will Hunting (1997)      	| Casino Royale (2006)      	|
 | 6  	| The Dark Knight (2008)        	| The Dark Knight (2008)     	|
 | 7  	| Amelie Poulain (2001)         	| Spectre (2015)            	|
-| 8  	| Inception (2010)              	|                           	|
-| 9  	| Miami Vice (2006)             	|                           	|
-| 10 	| Leon: the Professional (1994) 	|                           	|
-|    	| The Wolf of Wallstreet (2013) 	| Sonic The Hedgehog (2020) 	|
+| 8  	| Inception (2010)              	| Titanic (1998)            	|
+| 9  	| Miami Vice (2006)             	| The Thin Red Line (1998)  	|
+| 10 	| Leon: the Professional (1994) 	| Saving Private Ryan       	|
+| joker	| The Wolf of Wallstreet (2013) 	| Collateral (2004)         	|
 
 # Movie reviews per year
 

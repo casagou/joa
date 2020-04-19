@@ -16,7 +16,7 @@ title: Movies
 | 7  	| Amelie Poulain (2001)         	| Spectre (2015)            	|
 | 8  	| Inception (2010)              	| Titanic (1998)            	|
 | 9  	| Miami Vice (2006)             	| The Thin Red Line (1998)  	|
-| 10 	| Leon: the Professional (1994) 	| Saving Private Ryan       	|
+| 10 	| Leon: the Professional (1994) 	| Saving Private Ryan (1998)	|
 | joker	| The Wolf of Wallstreet (2013) 	| Collateral (2004)         	|
 
 # Movie reviews per year

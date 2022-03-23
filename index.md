@@ -5,9 +5,9 @@ title: Joachim Agou
 
 ### Mechanical Aerospace Engineer | Systems Integration | Project Engineering | Project Management
 
-Experienced mechanical aerospace engineer with a combined 10+ years of dedication and proven ability in project engineering, prototype design/development, systems integration, quality assurance, and manufacturing methodologies.
-Throughout my various positions and projects in Aerospace and Energy industry, I always had pleasure forming trust-based relationships, solving complex customer problems, and leading teams to achieve challenging goals.
-My guiding principles are simple: work hard, lead by example and deliver a positive impact on every professional and personal engagement.
+Experienced mechanical aerospace engineer with a combined 10+ years of dedication and proven ability in project engineering, product design/development, system engineering and integration, design supervision, and commissioning process.
+Throughout my various positions and projects in the Aerospace and Energy industry, I always enjoyed forming trust-based relationships, solving complex customer problems, and leading teams to achieve challenging goals.
+My guiding principles are simple: work hard, lead by example, and positively impact every professional and personal engagement.
 
 ----
 

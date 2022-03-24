@@ -14,34 +14,84 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 
 # EXPERIENCE
 
+
+## Senior Systems/ Project Engineer
+
+### MDA | Brampton (ON), Canada | February 2022 — Present
+
+* Performs systems engineering functions and acts as project authority for on-orbit and planetary robotic systems to conduct space operations.
+* Lead and coordinate day-to-day execution of the multi-disciplinary project team, in support of the Program Manager, to meet technical, schedule requirements and budget constraints.
+* Ensure ongoing project team coordination and communication, especially across disciplines, to ensure full buy-in to project objectives. Work to resolve any issues and ensure team buy-in.
+* Develop high-level system requirements based on end-user needs and stated requirements.
+* Apply engineering knowledge to large and complex projects in the design, development, test, integration, verification, validation and operation of complex, specialized products and technologies;
+* Analyze and decompose systems-level requirements and allocate requirements and design margin across subsystem elements.
+* Advocate for design to cost, design for test, and design for manufacture approach throughout the organization for effective productization of commercial space systems.
+* Drive the development of system architecture, design and interface documentation.
+* Develop and ensure proper documentation of technical and interface requirements throughout all project phases.
+* Develop and ensure proper documentation of high-level system and subsystem design.
+* Perform trade studies, analyses, and modelling to support requirements and system development.
+* Create and maintain system budgets.
+* Identify, assess and handle project risks.
+* Provide technical leadership and review support.
+* Develop test plans and procedures for verification and validation of system requirements.
+* Coordinate and support integration and testing activities.
+* Develop verification and test plans.
+* Understand and assess design issues, determine appropriate resolutions, and work with the team to address them.
+* Troubleshoot system behaviour anomalies, determine root cause, and the appropriate technical resolution.
+* Review, analyze, and interpret telemetry from deployed systems with context and understanding of the systems development life cycle.
+* Collaborate with project managers and business stakeholders to maintain project schedules and budgets while accomplishing project deliverables.
+* Support project managers and the business development team with cost estimation and proposals.
+
+
 ## Gas Turbine Applications Engineer (Systems Integrator)
 
-### MDS Aero Support Corporation | Ottawa (ON), Canada | December 2013 — Present
+### MDS Aero Support Corporation | Ottawa (ON), Canada | December 2013 — February 2022
 
-* Develop and deploy engine test facilities and test systems for aviation and industrial Gas Turbines with emphasis on Instrumentation and Software integration.
+* Developed and deployed custom-built test facilities and test systems for aviation, industrial, and marine Gas Turbine (GT) engines, emphasizing the following areas:
+	+ Data Acquisition System (DAS) applications and software development
+	+ Instrumentation and control systems
+	+ Mechanical static and dynamic systems (including rotor-dynamics)
+	+ Aerodynamic and acoustics design
+	+ Environmental engineering
+	+ Manufacturing, fabrication, production, and assembly
+	+ Facilities planning and construction
+	
 * A few projects I worked on:
-	+ Maintenance, Repair, and Overhaul (MRO) facilities:
-		- Air France Industries KLM Engineering & Maintenance (France) – CFM56, GE90, GP7200, GEnx
-		- GKN Aerospace (Sweden) – Volvo RM12 (Gripen fighter jet)
-		- Vector Aerospace (Canada) – P&WC JT15D (multiple variants)
-		- Lockheed Martin Commercial Engine Solutions (Canada) – CFM56 (multiple variants)
+	Maintenance, Repair, and Overhaul (MRO) facilities:
+		- Air France Industries KLM Engineering & Maintenance (France) – CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, GEnx-2B
+		- GKN Aerospace (Sweden) – Volvo RM12 and RM16 (Gripen fighter jet)
+		- Standard Aero (formerly Vector Aerospace) (Canada) – P&WC JT15D (multiple variants)
+		- Lockheed Martin Commercial Engine Solutions (Canada) – CFM56-2A, CFM56-2B, CFM56-2C, CFM56-3, CFM56-5A, CFM56-5B, CFM56-5C, CFM56-7B, GE CF6-50C2
 		- Safran Aircraft Engine Services Morocco (Morocco) – CFM56 (multiple variants)
-	+ Research and Development (R&D) facilities:
+		- Rolls-Royce (UK) – Console
+		- GA Telesis Engine Services (Finland) – CFM56-5B, CFM56-7B, GE CF6-80C2
+	Research and Development (R&D) facilities:
 		- Rolls-Royce/ NASA Stennis Space Center (USA) – Outdoor Jet Engine Test Facility (development and certification testing)
-		- Safran Aircraft Engines (formerly Snecma) (France) – CFM LEAP (certification testing), CFM56 (endurance testing)
+		- Safran Aircraft Engines (formerly Snecma) (France) – CFM LEAP-1A (certification testing), CFM56 (endurance testing)
 		- MAN Energy Solutions (Germany) – Industrial Gas Turbine MGT6000-2S, MG8000-1S
+		- Siemens (Canada) – Industrial RB211
 		- MDS AeroTest/ GLACIER Test Facility (Canada) – Emissions system support
 		- AVIC Commercial Aircraft Engines (ACAE) / Aeroengine Corporation of China (AECC) (China) – Fan, Booster, HPC, and Turbine (development testing)
+		- Shanghai Electric Blower Works Co (China) – Compressor (development testing)
 
-* Define the relevant engine and facility parameters to be measured and calculated by the Data Acquisition System (DAS) for engine turbine testing.
-* Configure Data Acquisition System (DAS), prepare post-analysis report templates, create real-time display pages, and automate test sequences to meet customer needs.
-* Design the customer's operations consoles and the integration of HMI to control and monitor the DAS and facility equipment.
-* Support customer's operations of engine testing during and beyond the commissioning phase (Field Service Representative) for extended periods (6+ months).
-* Prepare and review technical documents: Engineering Specifications (ES), Design Briefs (DB), drawings (GA), Purchase Requests (PR), and Engineering Coordination Memos (ECM) for data acquisition software components, control/test systems, console design, and customer support.
-* Write and run in-house and on-site Acceptance Test Procedures (ATP) to validate deliverables comply with contract technical and commercial requirements.
-* Participate in on-site installation and commissioning of the Data Acquisition System (DAS), including performing on-site Acceptance Test Procedures (ATP) with clients.
-* Use knowledge gained in the test cell environment to guide other engineering departments in the interpretation of customer requirements, and the design solutions required to meet those needs.
-* Provide on-site and remote customer training in collaboration with Customer Service.
+* Interpreted contract technical requirements based on end-user needs and used these to develop project specifications, organize work breakdown structures, generate requirements matrices, and execute system-level project plans.
+* Maintained accountability through design, procurement, manufacturing, assembly, installation, commissioning and testing activities by maintaining tight liaison throughout their completion.
+* Developed execution strategies and communicated technical direction for the project's entire technical effort to achieve objectives defined by Management. Monitored activities and the generation of deliverables required to achieve the objectives and ensured any roadblocks were resolved.
+* Planned and managed the interfaces between the various subsystems that make up the project scope of work as well as between the various internal/external stakeholders on the individual subsystems.
+* Monitored test systems schedule, budget, and technical compliance. Identified, assessed, analyzed, and supported the design team with any related risks, nonconformances, change orders, or concerns.
+* Integrated multi-disciplinary knowledge of engineering to achieve the best overall product and service within the project's technical, cost and schedule constraints. Reviewed engineering team designs to ensure conformance and own multi-disciplinary.
+* Participated in the vendor selection process and liaised with the procurement Point of Contact to monitor vendor progress.
+* Planed the high-level engineering deliverable structure to support the smooth interface with the company Enterprise Resource Planning (ERP) system and procurement process.
+* Liaised with the production planner to track, monitor and manage the progress of work orders for materials ad subcontracts through the ERP system.
+* Traveled to customer sites worldwide to attend design reviews and monitor progress at the critical points of installation and commissioning.
+* Configured Data Acquisition System (DAS), prepared post-analysis report templates, created real-time display interfaces and automated test sequences to meet customer needs.
+* Defined the relevant engine and facility parameters to be measured and calculated by the Data Acquisition System (DAS) for engine turbine testing.
+* Designed the customer's operations consoles and the integration of HMI to control and monitor the DAS and facility equipment.
+* Prepared/Supervised and reviewed technical documents: Engineering Specifications (ES), Design Briefs (DB), drawings (GA), Purchase Requests (PR), and Engineering Coordination Memos (ECM) for data acquisition software components, control/test systems, console design, and customer support.
+* Developed verification and test plans. Wrote and ran in-house and on-site Acceptance Test Procedures (ATP) with customers to validate deliverables that comply with contract technical and commercial requirements.
+* Supported customer's operations of GT engine testing during and beyond the commissioning phase (Field Service Representative) for extended periods (6+ months). Troubleshoot system behaviour anomalies, determine root cause, and the appropriate technical resolution.
+* Provided on-site and remote customer training in collaboration with Customer Service.
+* Supported and prepared bids, proposals or tenders.
 
 
 ## Combustion & Pollutant Emissions Engineer - Aerothermal (intern)
@@ -225,18 +275,28 @@ Engineering Sciences.
 
 * Aerial Lifts & Aerial Work Platforms, Worksite Safety Compliance Center, Certificate 156AWP-64
 * Airport Security Awareness Training Certificate, Butterfly Aero Training, License GB81580A20140623
+* AODA Customer Service Training, MDS Aero Support Corporation
+* AODA Training, MDA
+* COVID-19 Employee Health and Safety Training, MDS Aero Support Corporation
+* Electrical Safety Awareness, MDA
 * Elevated Work Platform - Safety Training, CRS Contractors Rental Supply
 * Emergency First Aid – Cardiopulmonary resuscitation (CPR) and automated external defibrillator (AED), Canadian Red Cross, Jennifer Sybrandy, Certificate 30200842
-* AODA Customer Service Training, MDS Aero Support Corporation
+* ESD (Electrostatic Discharge) Control, MDA
 * Fall Protection - Safety Training, CRS Contractors Rental Supply
 * Instant HR - Workplace Hazards Training, MDS Aero Support Corporation
+* IT Risk and Cybersecurity Training for Employees, MDS Aero Support Corporation
 * Laser Safety Certificate, Université Laval, License CAN/CSA E-60825-1:03; IEC 60825-1
+* Laser Safety Training, MDA
 * Lockout/Tagout - Control of Hazardous Energy Training, MDS Aero Support Corporation
 * NEXUS, Canada Border Services Agency
 * Occupational Health and Safety Awareness Training for Workers in Ontario, MDS Aero Support Corporation
+* Standard First Aid and CPR level C and AED, Ottawa Paramedic Service Headquarters
+* Task Area Awareness, MDA
 * WHMIS Training, MDS Aero Support Corporation
 * WHMIS (Workplace Hazardous Materials Information System), Université Laval
+* WHMIS 2015 New Hire Assessement, MDA
 * Working at Heights Training, Safety Training Ottawa, Debbie Desaulniers
+* Working at Heights Training, LaborTek Personnel, WAH-34595
 
 ----
 
@@ -256,7 +316,7 @@ Melbourne, FL**
 # GROUPS & ASSOCIATIONS
 
 * American Society of Mechanical Engineers (ASME), Member #102114839
-* Society of Automotive Engineers International (SAE), Member since 2009
+* Society of Automotive Engineers International (SAE), Member #6153388042 since 2009
 * Professional Engineers and Geoscientists Newfoundland & Labrador (PEGNL)
 
 ----
@@ -273,23 +333,64 @@ Cinema, Music (DJ), Photography & Graphic Design, Traveling, High-Tech, Innovati
 
 # REFERENCES
 
-	John Perrin
-	Manager of nxDAS group
+	Jean-Luc Dicaire
+	Manager of Applications
 	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-	Phone: +1 (613) 744-5794 x2358
-	E-mail: john.perrin@mdsaero.com
+	Phone: +1 (613) 744-5794 x2210
+	Phone: +1 (438) 483-8082
+	E-mail: Jean-Luc.Dicaire@mdsaero.com
 
 	Qing Li
-	Software Specialist, Manager of Applications group
+	Chief Technical Support Engineer – Asia
 	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
 	Phone: +1 (613) 744-5794 x2284
-	E-mail: qing.li@mdsaero.com
+	E-mail: Qing.Li@mdsaero.com
 
-	Christian Bourgeois
+	Robert Schroeder
+	Chief Software Engineer
+	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+	Phone: +1 (613) 744-5794 x2477
+	E-mail: Robert.Schroeder@mdsaero.com
+
+	William Corbett
+	Technical Director
+	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+	Phone: +1 (613) 299-2968
+	E-mail: William.Corbett@mdsaero.com
+
+	Patrick Mullington
+	Systems Engineer
+	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+	Phone: +1 (613) 744-5794 x2493
+	E-mail: Patrick.Mullington@mdsaero.com
+
+	Denis Stang
+	Test Systems Site Integrator
+	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+	Phone: +1 (613) 744-5794 x2014
+	E-mail: Denis.Stang@mdsaero.com
+
+	Aleksander Wisniewski
+	Gas Turbine Applications Engineer
+	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+	Phone: +1 (514) 707-0724
+	E-mail: Aleksander.Wisniewski@mdsaero.com
+
+	Dionne Barwise
 	Director of Measurement Engineering
 	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-	Phone: +1 (613) 744-5794 x2233
-	E-mail: christian.bourgeois@mdsaero.com
+	Phone: +1 (613) 744-5794 x2230
+	E-mail: Dionne.Barwise@mdsaero.com
+
+	Michael Ambacher
+	Flight Simulator Test Specialist
+	CAE Inc., 8585 Chem. de la Côte-de-Liesse, Saint-Laurent, QC H4T 1G6
+	Phone: +1 (514) 627-9005
+
+	Mina Youssef
+	Test Engineer
+	Nova Bus - Volvo, 1000 Bd Industriel, Saint-Eustache, QC J7R 5A5, Canada
+	Phone: +1 (514) 967-4100
 
 	Dr. Alain de Champlain
 	Director & Professor, Head of Combustion Research Laboratory.
@@ -317,13 +418,12 @@ Cinema, Music (DJ), Photography & Graphic Design, Traveling, High-Tech, Innovati
 	Phone: +33 (0) 4 93 95 44 03
 	E-mail: yan.grasselli@skema.edu
 
+----
+
 
 
 Personal references available upon request.
 
+online version available on LinkedIn <https://www.linkedin.com/in/joachimagou/>
 
-
-online version available on LinkedIn <https://linkedin.com/in/joachimagou/>
-
-
-updated February 2019	Joachim Agou
+updated March 2022	Joachim Agou

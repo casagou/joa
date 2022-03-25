@@ -105,16 +105,16 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 * Compared biofuels with baseline fuels to examine the benefits while maintaining an acceptable overall combustion performance.
 
 
-## Research & Teaching Assistant — with Dr. Alain De Champlain
+## Graduate Research And Teaching Assistant — with Dr. Alain De Champlain
 
-### Combustion Engineering Research Laboratory at Laval University | Quebec City (QC), Canada | January 2011 — December 2012
+### Combustion Engineering Research Laboratory at Laval University | Quebec City (QC), Canada | January 2011 — May 2013
 
 * Developed biofuels (liquid & gaseous) applications for Gas Turbine and aircraft propulsion.
 * Operated combustion gas emissions monitoring of swirl combustor via FTIR (Fourier Transformation Infrared) – spectroscopy technology.
 * Executed experimental tests of spray using PIV (Particle Image Velocimetry).
-* Computed fluid dynamics prediction (CFD) of biodiesel spray including swirler configurations with emphasis on penetration depth, droplet size, velocity and spreading.
+* Computed fluid dynamics prediction (CFD) of biodiesel spray, including swirler configurations, emphasizing penetration depth, droplet size, velocity, and spreading.
 * Designed and assembled experimental apparatus, conducted experiments, trained, and supervised international summer interns.
-* Hands on work like soldering electrical circuits, wiring instruments, and assembling process equipment (mass flow controllers, piping, pumps, pressure chambers, heaters, valves, injectors, and heat exchangers).
+* Hands-on work like soldering electrical circuits, wiring instruments, and assembling process equipment (mass flow controllers, piping, pumps, pressure chambers, heaters, valves, injectors, and heat exchangers).
 * Deployed Data Acquisition System (DAS), calibrated instrumentation, performed tests, and troubleshot problems.
 * Compiled VBA program to collate and analyze a large volume of experimental data.
 * Critically analyzed data after tests and correlated it with empirical evidence.

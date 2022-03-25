@@ -14,7 +14,7 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 
 # EXPERIENCE
 
-## Senior Systems/ Project Engineer
+## Senior Systems/ Project Engineer — Robotics & Space Operations
 
 ### MDA | Brampton (ON), Canada | February 2022 — Present
 
@@ -44,7 +44,7 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 
 ## Gas Turbine Applications Engineer (Systems Integrator)
 
-### MDS Aero Support Corporation | Ottawa (ON), Canada | December 2013 — February 2022
+### MDS Gas Turbine Engine Solutions | Ottawa (ON), Canada | December 2013 — February 2022
 
 * Developed and deployed custom-built test facilities and test systems for aviation, industrial, and marine Gas Turbine (GT) engines, emphasizing the following areas:
 	+ Data Acquisition System (DAS) applications and software development
@@ -53,25 +53,25 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 	+ Aerodynamic and acoustics design
 	+ Environmental engineering
 	+ Manufacturing, fabrication, production, and assembly
-	 Facilities planning and construction
+	+ Facilities planning and construction
 
 * A few projects I worked on:
 	+ Maintenance, Repair, and Overhaul (MRO) facilities:
-		- Air France Industries KLM Engineering & Maintenance (France) – CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, GEnx-2B
-		- GKN Aerospace (Sweden) – Volvo RM12 and RM16 (Gripen fighter jet)
-		- Standard Aero (formerly Vector Aerospace) (Canada) – P&WC JT15D (multiple variants)
-		- Lockheed Martin Commercial Engine Solutions (Canada) – CFM56-2A, CFM56-2B, CFM56-2C, CFM56-3, CFM56-5A, CFM56-5B, CFM56-5C, CFM56-7B, GE CF6-50C2
-		- Safran Aircraft Engine Services Morocco (Morocco) – CFM56 (multiple variants)
-		- Rolls-Royce (UK) – Console
-		- GA Telesis Engine Services (Finland) – CFM56-5B, CFM56-7B, GE CF6-80C2
+		- Air France Industries KLM Engineering & Maintenance (France) — CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, GEnx-2B
+		- GKN Aerospace (Sweden) — Volvo RM12 and RM16 (Gripen fighter jet)
+		- Standard Aero (formerly Vector Aerospace) (Canada) — P&WC JT15D (multiple variants)
+		- Lockheed Martin Commercial Engine Solutions (Canada) — CFM56-2A, CFM56-2B, CFM56-2C, CFM56-3, CFM56-5A, CFM56-5B, CFM56-5C, CFM56-7B, GE CF6-50C2
+		- Safran Aircraft Engine Services Morocco (Morocco) — CFM56 (multiple variants)
+		- Rolls-Royce (UK) — Consoles
+		- GA Telesis Engine Services (Finland) — CFM56-5B, CFM56-7B, GE CF6-80C2
 	+ Research and Development (R&D) facilities:
-		- Rolls-Royce/ NASA Stennis Space Center (USA) – Outdoor Jet Engine Test Facility (development and certification testing)
-		- Safran Aircraft Engines (formerly Snecma) (France) – CFM LEAP-1A (certification testing), CFM56 (endurance testing)
-		- MAN Energy Solutions (Germany) – Industrial Gas Turbine MGT6000-2S, MG8000-1S
-		- Siemens (Canada) – Industrial RB211
-		- MDS AeroTest/ GLACIER Test Facility (Canada) – Emissions system support
-		- AVIC Commercial Aircraft Engines (ACAE) / Aeroengine Corporation of China (AECC) (China) – Fan, Booster, HPC, and Turbine (development testing)
-		- Shanghai Electric Blower Works Co (China) – Compressor (development testing)
+		- Rolls-Royce/ NASA Stennis Space Center (USA) — Outdoor Jet Engine Test Facility (development and certification testing)
+		- Safran Aircraft Engines (formerly Snecma) (France) — CFM LEAP-1A (certification testing), CFM56 (endurance testing)
+		- MAN Energy Solutions (Germany) — Industrial Gas Turbine MGT6000-2S, MG8000-1S
+		- Siemens (Canada) — Industrial RB211
+		- MDS AeroTest/ GLACIER Test Facility (Canada) — Emissions analyser system support
+		- AVIC Commercial Aircraft Engines (ACAE) / Aeroengine Corporation of China (AECC) (China) — Fan, Booster, HPC, and Turbine (development testing)
+		- Shanghai Electric Blower Works Co. (China) — Compressor (development testing)
 
 * Interpreted contract technical requirements based on end-user needs and used these to develop project specifications, organize work breakdown structures, generate requirements matrices, and execute system-level project plans.
 * Maintained accountability through design, procurement, manufacturing, assembly, installation, commissioning and testing activities by maintaining tight liaison throughout their completion.
@@ -86,16 +86,16 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 * Configured Data Acquisition System (DAS), prepared post-analysis report templates, created real-time display interfaces and automated test sequences to meet customer needs.
 * Defined the relevant engine and facility parameters to be measured and calculated by the Data Acquisition System (DAS) for engine turbine testing.
 * Designed the customer's operations consoles and the integration of HMI to control and monitor the DAS and facility equipment.
-* Prepared/Supervised and reviewed technical documents: Engineering Specifications (ES), Design Briefs (DB), drawings (GA), Purchase Requests (PR), and Engineering Coordination Memos (ECM) for data acquisition software components, control/test systems, console design, and customer support.
 * Developed verification and test plans. Wrote and ran in-house and on-site Acceptance Test Procedures (ATP) with customers to validate deliverables that comply with contract technical and commercial requirements.
+* Prepared/Supervised and reviewed technical documents: Engineering Specifications (ES), Design Briefs (DB), drawings (GA), Purchase Requests (PR), and Engineering Coordination Memos (ECM) for data acquisition software components, control/test systems, console design, and customer support.
 * Supported customer's operations of GT engine testing during and beyond the commissioning phase (Field Service Representative) for extended periods (6+ months). Troubleshoot system behaviour anomalies, determine root cause, and the appropriate technical resolution.
 * Provided on-site and remote customer training in collaboration with Customer Service.
 * Supported and prepared bids, proposals or tenders.
 
 
-## Combustion & Pollutant Emissions Engineer - Aerothermal (intern)
+## Combustion & Pollutant Emissions Engineer — Aerothermal (intern)
 
-### Siemens Canada (formerly Rolls-Royce Canada), Research and Technology | Montreal (QC), Canada | January 2013 — August 2013
+### Siemens Canada (formerly Rolls-Royce Canada) — Research and Technology | Montreal (QC), Canada | January 2013 — December 2013
 
 * Operated pollutants measurements with gas analyzers - FTIR/FID/O2 CEMS (Continuous Emission Monitoring Systems) - on Gas Turbine testbeds.
 * Improved emissions data processing and analysis of non-conventional pollutants emissions.
@@ -105,9 +105,9 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 * Compared biofuels with baseline fuels to examine the benefits while maintaining an acceptable overall combustion performance.
 
 
-## Research & Teaching Assistant with Dr. Alain De Champlain
+## Research & Teaching Assistant — with Dr. Alain De Champlain
 
-### Combustion Research Laboratory at Laval University | Quebec City (QC), Canada | January 2011 — December 2012
+### Combustion Engineering Research Laboratory at Laval University | Quebec City (QC), Canada | January 2011 — December 2012
 
 * Developed biofuels (liquid & gaseous) applications for Gas Turbine and aircraft propulsion.
 * Operated combustion gas emissions monitoring of swirl combustor via FTIR (Fourier Transformation Infrared) – spectroscopy technology.
@@ -124,14 +124,14 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 * Prepared MAE Thermodynamics lectures, showed demonstrations of experiential exercises, supervised laboratory lectures, and evaluated laboratory reports.
 
 
-## Independent Study in Mechanical Engineering with Dr. Razvan Rusovici
+## Independent Study in Mechanical Engineering — with Dr. Razvan Rusovici
 
 ### Florida Institute of Technology | Melbourne (FL), USA | January 2010 — June 2010
 
 * Developed adaptive structures research and finite element analysis in fluid dynamics and acoustic via CAD and CAE software (Pro/E, ANSYS, and CFX).
 
 
-## Formula SAE Series with Stephanie Hopper and Dr. Youngsik Choi
+## Formula SAE Series — with Stephanie Hopper and Dr. Youngsik Choi
 
 ### Florida Tech Motorsports (FIT) | Melbourne (FL) & Michigan International Speedway (MI), USA | November 2008 — May 2009
 
@@ -148,7 +148,7 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 * Overhauled mechanical, plumbing, and electrical devices.
 
 
-## Military Experience (volunteer): Sar El Program
+## Military Experience (volunteer) — Sar El Program
 
 ### Tsahal, Israeli Army Training Program | Hatzerim Air Force Base, Israel | July — August 2005
 
@@ -157,17 +157,19 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 
 # SKILLS & ABILITIES
 
-+ Industry Knowledge:  System Integration,  Systems Engineering, Project Engineering, Project Management, Aerospace Engineering , Business Strategy, Testing and Simulations
++ Industry Knowledge:  System Integration,  Systems Engineering, Project Engineering, Project Management, Aerospace Engineering, Business Strategy, Testing and Simulations
 
-+ Domain Expertise:  Turbomachinery, Gas Turbines/ Jet Engines/Propulsion, Data Acquisition
-Systems, Aerodynamics, Thermodynamics, Combustion, Fluid Dynamics
++ Domain Expertise:  Turbomachinery, Gas Turbines/ Jet Engines/Propulsion, Data Acquisition Systems, Aerodynamics, Thermodynamics, Combustion, Fluid Dynamics, Energy and Climate Change, Blockchain and Cryptocurrency Technologies
 
 + Tools & Technologies
-	- Computational Fluid Dynamics (CFD):  ANSYS FLUENT, CFX, ANSYS ICEM CFD (Mesh Generation), GAMBIT.
-	- Solid Modeling (CAD)/ Finite Element Analysis (FEA):  AutoCAD, SolidWorks, Pro/ENGINEER & Creo, CATIA, ANSYS Workbench Platform, ANSYS Parametric Design Language (APDL), Cosmos Design, Solid Concepts, CNC Software/Mastercam.
-	- Data Acquisition (DAQ):  NI LabVIEW, proDAS (MDS Aero Support Corp), LaVision FlowMaster (PIV).
-	- Development Tools:  Matlab, Java, MS Excel/VBA, SQL, HTML Programming, LaTex, Mediawiki, Wi-Fi security and pentesting (Kali Linux).
-	- Computer Skills:  Microsoft Office, NetBeans, MATLAB, Mathcad, Maple, Adobe Dreamweaver, Adobe Photoshop/ Lightroom, Adobe Premiere Pro, VMWare (Virtualization), Linux.
+	- Computational Fluid Dynamics (CFD):  ANSYS FLUENT, CFX, ANSYS ICEM CFD (Mesh Generation), GAMBIT
+	- Solid Modeling (CAD)/ Finite Element Analysis (FEA):  AutoCAD, SolidWorks, Pro/ENGINEER & Creo, CATIA, ANSYS Workbench Platform, ANSYS Parametric Design Language (APDL), Cosmos Design, Solid Concepts, CNC Software/Mastercam
+	- Data Acquisition (DAQ):  NI LabVIEW, proDAS and nxDAS (MDS Aero Support Corp), iDDS (instrumentation Data Distribution Service), LaVision FlowMaster (PIV)
+	- Development Tools:  MS Excel/VBA, Python, MATLAB, Java, SQL database, HTML CSS programming, XML, Apache, LaTex, Mediawiki
+	- Computer Skills:  Microsoft Office 365, Unix/Linux architecture (e.g CentOS, Red Hat, Ubuntu), Computer networking, G Suite, NetBeans, MATLAB, Mathcad, Maple, Adobe Photoshop, Adobe Lightroom, Adobe XD, Adobe Premiere Pro, computer virtualization (e.g. VMware), Wi-Fi security and penetration testing (e.g. Kali Linux), source code repositories (e.g. Git, Subversion) and bug tracking systems (e.g. Bugzilla, JIRA)
+	- Hardware skills:  Network configuration, Tech support and troubleshooting, WAN/LAN and routers
+	- Product Lifecycle Management (PLM) software:  PTC Windchill, Omnify Empower
+	
 
 + Interpersonal Skills:  Problem Solving, Team Leadership, Engineering Management, Training, Teaching, Negotiation
 
@@ -272,31 +274,31 @@ Engineering Sciences.
 
 # CERTIFICATIONS & TRAININGS
 
-* Aerial Lifts & Aerial Work Platforms, Worksite Safety Compliance Center, Certificate 156AWP-64
-* Airport Security Awareness Training Certificate, Butterfly Aero Training, License GB81580A20140623
-* AODA Customer Service Training, MDS Aero Support Corporation
-* AODA Training, MDA
-* COVID-19 Employee Health and Safety Training, MDS Aero Support Corporation
-* Electrical Safety Awareness, MDA
+* Aerial Lifts & Aerial Work Platforms [Mar 2017], Worksite Safety Compliance Center, Certificate 156AWP-64
+* Airport Security Awareness Training Certificate [Jun 2014], Butterfly Aero Training, License GB81580A20140623
+* AODA Customer Service Training [Sep 2014], MDS Gas Turbine Engine Solutions
+* AODA Training [Feb 2022], MDA
+* COVID-19 Employee Health and Safety Training [Jun 2020], MDS Gas Turbine Engine Solutions
+* Electrical Safety Awareness [Feb 2022], MDA
 * Elevated Work Platform - Safety Training, CRS Contractors Rental Supply
 * Emergency First Aid – Cardiopulmonary resuscitation (CPR) and automated external defibrillator (AED), Canadian Red Cross, Jennifer Sybrandy, Certificate 30200842
-* ESD (Electrostatic Discharge) Control, MDA
+* ESD (Electrostatic Discharge) Control [Feb 2022], MDA
 * Fall Protection - Safety Training, CRS Contractors Rental Supply
-* Instant HR - Workplace Hazards Training, MDS Aero Support Corporation
-* IT Risk and Cybersecurity Training for Employees, MDS Aero Support Corporation
-* Laser Safety Certificate, Université Laval, License CAN/CSA E-60825-1:03; IEC 60825-1
-* Laser Safety Training, MDA
-* Lockout/Tagout - Control of Hazardous Energy Training, MDS Aero Support Corporation
-* NEXUS, Canada Border Services Agency
-* Occupational Health and Safety Awareness Training for Workers in Ontario, MDS Aero Support Corporation
-* PMP® Exam Prep Seminar, Instructingcom, LLC
-* Standard First Aid and CPR level C and AED, Ottawa Paramedic Service Headquarters
-* Task Area Awareness, MDA
-* WHMIS Training, MDS Aero Support Corporation
+* Instant HR - Workplace Hazards Training, MDS Gas Turbine Engine Solutions
+* IT Risk and Cybersecurity Training for Employees [Aug 2019], MDS Gas Turbine Engine Solutions
+* Laser Safety Certificate [May 2011], Université Laval, License CAN/CSA E-60825-1:03; IEC 60825-1
+* Laser Safety Training [Feb 2022], MDA
+* Lockout/Tagout - Control of Hazardous Energy Training, MDS Gas Turbine Engine Solutions
+* NEXUS [Jan 2019], Canada Border Services Agency
+* Occupational Health and Safety Awareness Training for Workers in Ontario, MDS Gas Turbine Engine Solutions
+* PMP® Exam Prep Seminar [Nov 2018], Instructingcom, LLC, ID 109EPSWB
+* Standard First Aid and CPR level C and AED [Jul 2021], Ottawa Paramedic Service Headquarters
+* Task Area Awareness [Feb 2022], MDA
+* WHMIS Training [Jan 2015], MDS Gas Turbine Engine Solutions
 * WHMIS (Workplace Hazardous Materials Information System), Université Laval
-* WHMIS 2015 New Hire Assessement, MDA
-* Working at Heights Training, Safety Training Ottawa, Debbie Desaulniers
-* Working at Heights Training, LaborTek Personnel, WAH-34595
+* WHMIS 2015 New Hire Assessement [Feb 2022], MDA
+* Working at Heights Training [Aug 2019], Safety Training Ottawa, Debbie Desaulniers, WAH-34633
+* Working at Heights Training [Jul 2016], LaborTek Personnel, WAH-34595
 
 ----
 
@@ -333,90 +335,90 @@ Cinema, Music (DJ), Photography & Graphic Design, Traveling, High-Tech, Innovati
 
 # REFERENCES
 
-	Jean-Luc Dicaire
-	Manager of Applications
-	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-	Phone: +1 (613) 744-5794 x2210
-	Phone: +1 (438) 483-8082
-	E-mail: Jean-Luc.Dicaire@mdsaero.com
+Jean-Luc Dicaire
+Manager of Applications
+MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+Phone: +1 (613) 744-5794 x2210
+Phone: +1 (438) 483-8082
+E-mail: Jean-Luc.Dicaire@mdsaero.com
 
-	Qing Li
-	Chief Technical Support Engineer – Asia
-	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-	Phone: +1 (613) 744-5794 x2284
-	E-mail: Qing.Li@mdsaero.com
+Qing Li
+Chief Technical Support Engineer – Asia
+MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+Phone: +1 (613) 744-5794 x2284
+E-mail: Qing.Li@mdsaero.com
 
-	Robert Schroeder
-	Chief Software Engineer
-	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-	Phone: +1 (613) 744-5794 x2477
-	E-mail: Robert.Schroeder@mdsaero.com
+Robert Schroeder
+Chief Software Engineer
+MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+Phone: +1 (613) 744-5794 x2477
+E-mail: Robert.Schroeder@mdsaero.com
 
-	William Corbett
-	Technical Director
-	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-	Phone: +1 (613) 299-2968
-	E-mail: William.Corbett@mdsaero.com
+William Corbett
+Technical Director
+MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+Phone: +1 (613) 299-2968
+E-mail: William.Corbett@mdsaero.com
 
-	Patrick Mullington
-	Systems Engineer
-	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-	Phone: +1 (613) 744-5794 x2493
-	E-mail: Patrick.Mullington@mdsaero.com
+Patrick Mullington
+Systems Engineer
+MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+Phone: +1 (613) 744-5794 x2493
+E-mail: Patrick.Mullington@mdsaero.com
 
-	Denis Stang
-	Test Systems Site Integrator
-	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-	Phone: +1 (613) 744-5794 x2014
-	E-mail: Denis.Stang@mdsaero.com
+Denis Stang
+Test Systems Site Integrator
+MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+Phone: +1 (613) 744-5794 x2014
+E-mail: Denis.Stang@mdsaero.com
 
-	Aleksander Wisniewski
-	Gas Turbine Applications Engineer
-	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-	Phone: +1 (514) 707-0724
-	E-mail: Aleksander.Wisniewski@mdsaero.com
+Aleksander Wisniewski
+Gas Turbine Applications Engineer
+MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+Phone: +1 (514) 707-0724
+E-mail: Aleksander.Wisniewski@mdsaero.com
 
-	Dionne Barwise
-	Director of Measurement Engineering
-	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-	Phone: +1 (613) 744-5794 x2230
-	E-mail: Dionne.Barwise@mdsaero.com
+Dionne Barwise
+Director of Measurement Engineering
+MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+Phone: +1 (613) 744-5794 x2230
+E-mail: Dionne.Barwise@mdsaero.com
 
-	Michael Ambacher
-	Flight Simulator Test Specialist
-	CAE Inc., 8585 Chem. de la Côte-de-Liesse, Saint-Laurent, QC H4T 1G6
-	Phone: +1 (514) 627-9005
+Michael Ambacher
+Flight Simulator Test Specialist
+CAE Inc., 8585 Chem. de la Côte-de-Liesse, Saint-Laurent, QC H4T 1G6
+Phone: +1 (514) 627-9005
 
-	Mina Youssef
-	Test Engineer
-	Nova Bus - Volvo, 1000 Bd Industriel, Saint-Eustache, QC J7R 5A5, Canada
-	Phone: +1 (514) 967-4100
+Mina Youssef
+Test Engineer
+Nova Bus - Volvo, 1000 Bd Industriel, Saint-Eustache, QC J7R 5A5, Canada
+Phone: +1 (514) 967-4100
 
-	Dr. Alain de Champlain
-	Director & Professor, Head of Combustion Research Laboratory.
-	Department of Mechanical & Aerospace Engineering
-	Laval University, 1065 Avenue de la Médecine, Quebec City, Quebec, G1V 0A6, Canada
-	Phone: +1 (438) 656-2131 x2198
-	E-mail: alain.dechamplain@gmc.ulaval.ca
+Dr. Alain de Champlain
+Director & Professor, Head of Combustion Research Laboratory.
+Department of Mechanical & Aerospace Engineering
+Laval University, 1065 Avenue de la Médecine, Quebec City, Quebec, G1V 0A6, Canada
+Phone: +1 (438) 656-2131 x2198
+E-mail: alain.dechamplain@gmc.ulaval.ca
 
-	Bernard Paquet
-	Research Engineer, Supervisor of Combustion Research Laboratory.
-	Department of Mechanical & Aerospace Engineering
-	Laval University, 1065 Avenue de la Médecine, Quebec City, Quebec, G1V 0A6, Canada
-	Phone: +1 (438) 656-2131 x6809
-	E-mail: bernard.paquet@gmc.ulaval.ca
+Bernard Paquet
+Research Engineer, Supervisor of Combustion Research Laboratory.
+Department of Mechanical & Aerospace Engineering
+Laval University, 1065 Avenue de la Médecine, Quebec City, Quebec, G1V 0A6, Canada
+Phone: +1 (438) 656-2131 x6809
+E-mail: bernard.paquet@gmc.ulaval.ca
 
-	Dr. Robert Gordon
-	Combustion Specialist, Team Leader of Research & Technology division.
-	Rolls-Royce Canada, 9500 Côte de Liesse, Montreal, Quebec, H8T 1A2, Canada
-	Phone: +1 (514) 636-0964 x7316
-	E-mail: robert.gordon2@rolls-royce.com
+Dr. Robert Gordon
+Combustion Specialist, Team Leader of Research & Technology division.
+Rolls-Royce Canada, 9500 Côte de Liesse, Montreal, Quebec, H8T 1A2, Canada
+Phone: +1 (514) 636-0964 x7316
+E-mail: robert.gordon2@rolls-royce.com
 
-	Dr. Yan Grasselli
-	Academic Head of Bachelor programs and Head of the Environmental and Marine Sciences Bachelor department.
-	SKEMA Business School, 60 rue Dostoïevski, 06902 Sophia Antipolis, France
-	Phone: +33 (0) 4 93 95 44 03
-	E-mail: yan.grasselli@skema.edu
+Dr. Yan Grasselli
+Academic Head of Bachelor programs and Head of the Environmental and Marine Sciences Bachelor department.
+SKEMA Business School, 60 rue Dostoïevski, 06902 Sophia Antipolis, France
+Phone: +33 (0) 4 93 95 44 03
+E-mail: yan.grasselli@skema.edu
 
 ----
 

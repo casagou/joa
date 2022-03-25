@@ -14,7 +14,6 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 
 # EXPERIENCE
 
-
 ## Senior Systems/ Project Engineer
 
 ### MDA | Brampton (ON), Canada | February 2022 — Present
@@ -54,10 +53,10 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 	+ Aerodynamic and acoustics design
 	+ Environmental engineering
 	+ Manufacturing, fabrication, production, and assembly
-	+ Facilities planning and construction
-	
+	 Facilities planning and construction
+
 * A few projects I worked on:
-	Maintenance, Repair, and Overhaul (MRO) facilities:
+	+ Maintenance, Repair, and Overhaul (MRO) facilities:
 		- Air France Industries KLM Engineering & Maintenance (France) – CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, GEnx-2B
 		- GKN Aerospace (Sweden) – Volvo RM12 and RM16 (Gripen fighter jet)
 		- Standard Aero (formerly Vector Aerospace) (Canada) – P&WC JT15D (multiple variants)
@@ -65,7 +64,7 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 		- Safran Aircraft Engine Services Morocco (Morocco) – CFM56 (multiple variants)
 		- Rolls-Royce (UK) – Console
 		- GA Telesis Engine Services (Finland) – CFM56-5B, CFM56-7B, GE CF6-80C2
-	Research and Development (R&D) facilities:
+	+ Research and Development (R&D) facilities:
 		- Rolls-Royce/ NASA Stennis Space Center (USA) – Outdoor Jet Engine Test Facility (development and certification testing)
 		- Safran Aircraft Engines (formerly Snecma) (France) – CFM LEAP-1A (certification testing), CFM56 (endurance testing)
 		- MAN Energy Solutions (Germany) – Industrial Gas Turbine MGT6000-2S, MG8000-1S
@@ -290,6 +289,7 @@ Engineering Sciences.
 * Lockout/Tagout - Control of Hazardous Energy Training, MDS Aero Support Corporation
 * NEXUS, Canada Border Services Agency
 * Occupational Health and Safety Awareness Training for Workers in Ontario, MDS Aero Support Corporation
+* PMP® Exam Prep Seminar, Instructingcom, LLC
 * Standard First Aid and CPR level C and AED, Ottawa Paramedic Service Headquarters
 * Task Area Awareness, MDA
 * WHMIS Training, MDS Aero Support Corporation

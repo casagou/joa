@@ -335,90 +335,90 @@ Cinema, Music (DJ), Photography & Graphic Design, Traveling, High-Tech, Innovati
 
 # REFERENCES
 
-Jean-Luc Dicaire
-Manager of Applications
-MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-Phone: +1 (613) 744-5794 x2210
-Phone: +1 (438) 483-8082
-E-mail: Jean-Luc.Dicaire@mdsaero.com
+	Jean-Luc Dicaire
+	Manager of Applications
+	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+	Phone: +1 (613) 744-5794 x2210
+	Phone: +1 (438) 483-8082
+	E-mail: Jean-Luc.Dicaire@mdsaero.com
 
-Qing Li
-Chief Technical Support Engineer – Asia
-MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-Phone: +1 (613) 744-5794 x2284
-E-mail: Qing.Li@mdsaero.com
+	Qing Li
+	Chief Technical Support Engineer – Asia
+	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+	Phone: +1 (613) 744-5794 x2284
+	E-mail: Qing.Li@mdsaero.com
 
-Robert Schroeder
-Chief Software Engineer
-MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-Phone: +1 (613) 744-5794 x2477
-E-mail: Robert.Schroeder@mdsaero.com
+	Robert Schroeder
+	Chief Software Engineer
+	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+	Phone: +1 (613) 744-5794 x2477
+	E-mail: Robert.Schroeder@mdsaero.com
 
-William Corbett
-Technical Director
-MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-Phone: +1 (613) 299-2968
-E-mail: William.Corbett@mdsaero.com
+	William Corbett
+	Technical Director
+	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+	Phone: +1 (613) 299-2968
+	E-mail: William.Corbett@mdsaero.com
 
-Patrick Mullington
-Systems Engineer
-MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-Phone: +1 (613) 744-5794 x2493
-E-mail: Patrick.Mullington@mdsaero.com
+	Patrick Mullington
+	Systems Engineer
+	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+	Phone: +1 (613) 744-5794 x2493
+	E-mail: Patrick.Mullington@mdsaero.com
 
-Denis Stang
-Test Systems Site Integrator
-MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-Phone: +1 (613) 744-5794 x2014
-E-mail: Denis.Stang@mdsaero.com
+	Denis Stang
+	Test Systems Site Integrator
+	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+	Phone: +1 (613) 744-5794 x2014
+	E-mail: Denis.Stang@mdsaero.com
 
-Aleksander Wisniewski
-Gas Turbine Applications Engineer
-MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-Phone: +1 (514) 707-0724
-E-mail: Aleksander.Wisniewski@mdsaero.com
+	Aleksander Wisniewski
+	Gas Turbine Applications Engineer
+	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+	Phone: +1 (514) 707-0724
+	E-mail: Aleksander.Wisniewski@mdsaero.com
 
-Dionne Barwise
-Director of Measurement Engineering
-MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
-Phone: +1 (613) 744-5794 x2230
-E-mail: Dionne.Barwise@mdsaero.com
+	Dionne Barwise
+	Director of Measurement Engineering
+	MDS Aero Support Corporation, Suite 200, 1220 Old Innes Road, Ottawa, Ontario, K1B 3V3, Canada
+	Phone: +1 (613) 744-5794 x2230
+	E-mail: Dionne.Barwise@mdsaero.com
 
-Michael Ambacher
-Flight Simulator Test Specialist
-CAE Inc., 8585 Chem. de la Côte-de-Liesse, Saint-Laurent, QC H4T 1G6
-Phone: +1 (514) 627-9005
+	Michael Ambacher
+	Flight Simulator Test Specialist
+	CAE Inc., 8585 Chem. de la Côte-de-Liesse, Saint-Laurent, QC H4T 1G6
+	Phone: +1 (514) 627-9005
 
-Mina Youssef
-Test Engineer
-Nova Bus - Volvo, 1000 Bd Industriel, Saint-Eustache, QC J7R 5A5, Canada
-Phone: +1 (514) 967-4100
+	Mina Youssef
+	Test Engineer
+	Nova Bus - Volvo, 1000 Bd Industriel, Saint-Eustache, QC J7R 5A5, Canada
+	Phone: +1 (514) 967-4100
 
-Dr. Alain de Champlain
-Director & Professor, Head of Combustion Research Laboratory.
-Department of Mechanical & Aerospace Engineering
-Laval University, 1065 Avenue de la Médecine, Quebec City, Quebec, G1V 0A6, Canada
-Phone: +1 (438) 656-2131 x2198
-E-mail: alain.dechamplain@gmc.ulaval.ca
+	Dr. Alain de Champlain
+	Director & Professor, Head of Combustion Research Laboratory.
+	Department of Mechanical & Aerospace Engineering
+	Laval University, 1065 Avenue de la Médecine, Quebec City, Quebec, G1V 0A6, Canada
+	Phone: +1 (438) 656-2131 x2198
+	E-mail: alain.dechamplain@gmc.ulaval.ca
 
-Bernard Paquet
-Research Engineer, Supervisor of Combustion Research Laboratory.
-Department of Mechanical & Aerospace Engineering
-Laval University, 1065 Avenue de la Médecine, Quebec City, Quebec, G1V 0A6, Canada
-Phone: +1 (438) 656-2131 x6809
-E-mail: bernard.paquet@gmc.ulaval.ca
+	Bernard Paquet
+	Research Engineer, Supervisor of Combustion Research Laboratory.
+	Department of Mechanical & Aerospace Engineering
+	Laval University, 1065 Avenue de la Médecine, Quebec City, Quebec, G1V 0A6, Canada
+	Phone: +1 (438) 656-2131 x6809
+	E-mail: bernard.paquet@gmc.ulaval.ca
 
-Dr. Robert Gordon
-Combustion Specialist, Team Leader of Research & Technology division.
-Rolls-Royce Canada, 9500 Côte de Liesse, Montreal, Quebec, H8T 1A2, Canada
-Phone: +1 (514) 636-0964 x7316
-E-mail: robert.gordon2@rolls-royce.com
+	Dr. Robert Gordon
+	Combustion Specialist, Team Leader of Research & Technology division.
+	Rolls-Royce Canada, 9500 Côte de Liesse, Montreal, Quebec, H8T 1A2, Canada
+	Phone: +1 (514) 636-0964 x7316
+	E-mail: robert.gordon2@rolls-royce.com
 
-Dr. Yan Grasselli
-Academic Head of Bachelor programs and Head of the Environmental and Marine Sciences Bachelor department.
-SKEMA Business School, 60 rue Dostoïevski, 06902 Sophia Antipolis, France
-Phone: +33 (0) 4 93 95 44 03
-E-mail: yan.grasselli@skema.edu
+	Dr. Yan Grasselli
+	Academic Head of Bachelor programs and Head of the Environmental and Marine Sciences Bachelor department.
+	SKEMA Business School, 60 rue Dostoïevski, 06902 Sophia Antipolis, France
+	Phone: +33 (0) 4 93 95 44 03
+	E-mail: yan.grasselli@skema.edu
 
 ----
 

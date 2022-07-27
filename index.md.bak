@@ -93,7 +93,7 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 * Supported and prepared bids, proposals or tenders.
 
 
-## Combustion & Pollutant Emissions Engineer — Aerothermal (intern)
+## Combustion & Pollutant Emissions Engineer — Aerothermal
 
 ### Siemens Canada (formerly Rolls-Royce Canada) — Research and Technology | Montreal (QC), Canada | January 2013 — December 2013
 

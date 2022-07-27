@@ -42,7 +42,7 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 * Support project managers and the business development team with cost estimation and proposals.
 
 
-## Gas Turbine Applications Engineer (Systems Integrator)
+## Gas Turbine Applications Engineer — Systems Integrator
 
 ### MDS Gas Turbine Engine Solutions | Ottawa (ON), Canada | December 2013 — February 2022
 

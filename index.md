@@ -18,23 +18,23 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 
 ### MDA | Brampton (ON), Canada | February 2022 — February 2023
 
-* __Space Systems Expertise__ — Oversaw systems engineering for on-orbit and planetary robotic systems, conducting space operations.
-* ** Project Management ** — Coordinated day-to-day execution of the multi-disciplinary project teams, ensuring alignment with technical, budgetary, and scheduling goals.
-* **Requirements Architecture** — Established high-level system requirements from end-user needs and analyzed and decomposed systems-level requirements across subsystems, ensuring cohesiveness and clarity.
-* ** Engineering Innovation ** — Applied engineering insights for the design, development, test, integration, verification, validation and operation of cutting-edge space products and technologies.
-* ** Design Strategy ** — Advocated for design methodologies such as 'design to cost', 'design for test', and 'design for manufacture', optimizing commercial space system productions.
-* ** Documentation ** — Ensured comprehensive documentation of system architecture, interface requirements, and system/subsystem designs.
-* ** Analysis and Modeling ** — Led rigorous trade studies and modelling endeavours to provide a deeper understanding of system requirements and their progressive evolution.
-* ** Test & Verification Leadership ** — Ctafted meticulous test plans and procedures, coordinated integration & testing activities, and assessed rigorous system requirements verification & validation.
-* ** Problem Resolution ** — Troubleshot system anomalies, diagnosed root causes, and collaborated on technical resolutions, frequently involving a deep dive into telemetry analysis.
-* ** Business Synergy ** — Worked alongside project managers and stakeholders to keep projects on track and aided in cost estimation and proposals.
+- **Space Systems Expertise** — Oversaw systems engineering for on-orbit and planetary robotic systems, conducting space operations.
+- **Project Management** — Coordinated day-to-day execution of the multi-disciplinary project teams, ensuring alignment with technical, budgetary, and scheduling goals.
+- **Requirements Architecture** — Established high-level system requirements from end-user needs and analyzed and decomposed systems-level requirements across subsystems, ensuring cohesiveness and clarity.
+- **Engineering Innovation** — Applied engineering insights for the design, development, test, integration, verification, validation and operation of cutting-edge space products and technologies.
+- **Design Strategy** — Advocated for design methodologies such as 'design to cost', 'design for test', and 'design for manufacture', optimizing commercial space system productions.
+- **Documentation** — Ensured comprehensive documentation of system architecture, interface requirements, and system/subsystem designs.
+- **Analysis and Modeling** — Led rigorous trade studies and modelling endeavours to provide a deeper understanding of system requirements and their progressive evolution.
+- **Test & Verification Leadership** — Ctafted meticulous test plans and procedures, coordinated integration & testing activities, and assessed rigorous system requirements verification & validation.
+- **Problem Resolution** — Troubleshot system anomalies, diagnosed root causes, and collaborated on technical resolutions, frequently involving a deep dive into telemetry analysis.
+- **Business Synergy** — Worked alongside project managers and stakeholders to keep projects on track and aided in cost estimation and proposals.
 
 
 ## Gas Turbine Applications Engineer — Systems Integrator
 
 ### MDS Gas Turbine Engine Solutions | Ottawa (ON), Canada | December 2013 — February 2022
 
-* Developed and deployed custom-built turbine test facilities to accommodate complete aero-mechanical testing for aviation, industrial, and marine Gas Turbine (GT) engines, emphasizing the following areas:
+- Developed and deployed custom-built turbine test facilities to accommodate complete aero-mechanical testing for aviation, industrial, and marine Gas Turbine (GT) engines, emphasizing the following areas:
 	+ Data Acquisition System (DAS) applications and software development
 	+ Instrumentation and control systems
 	+ Mechanical static and dynamic systems (including rotor-dynamics)
@@ -43,7 +43,7 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 	+ Production, assembly, integration, and test
 	+ Facilities planning and construction
 
-* Project Highlights: Delivered intricate projects for Maintenance, Repair, and Overhaul (MRO) and Research and Development (R&D) sectors. Significant contributions include:
+- Project Highlights: Delivered intricate projects for Maintenance, Repair, and Overhaul (MRO) and Research and Development (R&D) sectors. Significant contributions include:
 	+ MRO facilities:
 		- Air France Industries KLM Engineering & Maintenance (France) — CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, GEnx-2B
 		- GKN Aerospace (Sweden) — Volvo RM12 and RM16 (Gripen fighter jet)

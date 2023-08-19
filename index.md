@@ -45,89 +45,89 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 
 - Project Highlights: Delivered intricate projects for Maintenance, Repair, and Overhaul (MRO) and Research and Development (R&D) sectors. Significant contributions include:
 	+ MRO facilities:
-		- Air France Industries KLM Engineering & Maintenance (France) — CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, GEnx-2B
-		- GKN Aerospace (Sweden) — Volvo RM12 and RM16 (Gripen fighter jet)
-		- Standard Aero (formerly Vector Aerospace) (Canada) — P&WC JT15D (multiple variants)
-		- Lockheed Martin Commercial Engine Solutions (Canada) — CFM56-2A, CFM56-2B, CFM56-2C, CFM56-3, CFM56-5A, CFM56-5B, CFM56-5C, CFM56-7B, GE CF6-50C2
-		- Safran Aircraft Engine Services Morocco (Morocco) — CFM56 (multiple variants)
-		- Rolls-Royce (UK) — Consoles
-		- GA Telesis Engine Services (Finland) — CFM56-5B, CFM56-7B, GE CF6-80C2
+		* Air France Industries KLM Engineering & Maintenance (France) — CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, GEnx-2B
+		* GKN Aerospace (Sweden) — Volvo RM12 and RM16 (Gripen fighter jet)
+		* Standard Aero (formerly Vector Aerospace) (Canada) — P&WC JT15D (multiple variants)
+		* Lockheed Martin Commercial Engine Solutions (Canada) — CFM56-2A, CFM56-2B, CFM56-2C, CFM56-3, CFM56-5A, CFM56-5B, CFM56-5C, CFM56-7B, GE CF6-50C2
+		* Safran Aircraft Engine Services Morocco (Morocco) — CFM56 (multiple variants)
+		* Rolls-Royce (UK) — Consoles
+		* GA Telesis Engine Services (Finland) — CFM56-5B, CFM56-7B, GE CF6-80C2
 	+ R&D facilities:
-		- Rolls-Royce/ NASA Stennis Space Center (USA) — Outdoor Jet Engine Test Facility (development and certification testing)
-		- Safran Aircraft Engines (formerly Snecma) (France) — CFM LEAP-1A (certification testing), CFM56 (endurance testing)
-		- MAN Energy Solutions (Germany) — Industrial Gas Turbine MGT6000-2S, MG8000-1S
-		- Siemens (Canada) — Industrial RB211
-		- MDS AeroTest/ GLACIER Test Facility (Canada) — Emissions analyser system support
-		- AVIC Commercial Aircraft Engines (ACAE) / Aeroengine Corporation of China (AECC) (China) — Fan, Booster, HPC, and Turbine (development testing)
-		- Shanghai Electric Blower Works Co. (China) — Compressor (development testing)
+		* Rolls-Royce/ NASA Stennis Space Center (USA) — Outdoor Jet Engine Test Facility (development and certification testing)
+		* Safran Aircraft Engines (formerly Snecma) (France) — CFM LEAP-1A (certification testing), CFM56 (endurance testing)
+		* MAN Energy Solutions (Germany) — Industrial Gas Turbine MGT6000-2S, MG8000-1S
+		* Siemens (Canada) — Industrial RB211
+		* MDS AeroTest/ GLACIER Test Facility (Canada) — Emissions analyser system support
+		* AVIC Commercial Aircraft Engines (ACAE) / Aeroengine Corporation of China (AECC) (China) — Fan, Booster, HPC, and Turbine (development testing)
+		* Shanghai Electric Blower Works Co. (China) — Compressor (development testing)
 
-* Technical Leadership — Interpreted and translated client requirements into project specifications, organized work breakdown structures, generated requirements matrices, and executed comprehensive project plans. Steered design, procurement, manufacturing, assembly, installation, commissioning and testing activities while mitigating risks, managing budgets, and ensuring compliance.
-* Systems Integration — Oversaw the synergy of multi-disciplinary subsystems while coordinating with internal and external stakeholders. Reviewed engineering designs to ensure holistic conformance.
-* Procurement Oversight — Played an active role in vendor selection, oversaw procurement stages, and managed ERP system interfaces, ensuring seamless procurement processes.
-* Global Client Engagements — Represented the company globally for design consultations, on-site inspections, and commissioning. Conducted in-depth Acceptance Test Procedures (ATP) with clients and provided post-deployment support and training.
-* Data Systems Mastery — Tailored Data Acquisition System (DAS) and measuring instruments, prepared post-analysis report templates, created real-time display interfaces, and automated test sequences to meet customer needs.
-* Gas Turbine Expertise — Defined the relevant engine and facility metrics to be measured and calculated by the Data Acquisition System (DAS) for engine turbine testing, designed operational consoles integrating HMI controls, and developed comprehensive verification and test plans.
-* Documentation — Authored and supervised technical documents like Engineering Specifications (ES), Design Briefs (DB), drawings (GA), Purchase Requests (PR), and Engineering Coordination Memos (ECM) for data acquisition software components, control/test systems, console design, and customer support.
-* Customer Support — Administered extensive client training, both on-site and remotely. Supported customer's operations of GT engine testing during and beyond the commissioning phase (Field Service Representative) for extended periods (6+ months). Troubleshot system behaviour anomalies and determined the root causes and the appropriate technical resolutions.
-* Business Development Involvement — Actively contributed to the company's growth, crafting compelling bids, proposals, and tenders.
+- **Technical Leadership** — Interpreted and translated client requirements into project specifications, organized work breakdown structures, generated requirements matrices, and executed comprehensive project plans. Steered design, procurement, manufacturing, assembly, installation, commissioning and testing activities while mitigating risks, managing budgets, and ensuring compliance.
+- **Systems Integration** — Oversaw the synergy of multi-disciplinary subsystems while coordinating with internal and external stakeholders. Reviewed engineering designs to ensure holistic conformance.
+- **Procurement Oversight** — Played an active role in vendor selection, oversaw procurement stages, and managed ERP system interfaces, ensuring seamless procurement processes.
+- **Global Client Engagements** — Represented the company globally for design consultations, on-site inspections, and commissioning. Conducted in-depth Acceptance Test Procedures (ATP) with clients and provided post-deployment support and training.
+- **Data Systems Mastery** — Tailored Data Acquisition System (DAS) and measuring instruments, prepared post-analysis report templates, created real-time display interfaces, and automated test sequences to meet customer needs.
+- **Gas Turbine Expertise** — Defined the relevant engine and facility metrics to be measured and calculated by the Data Acquisition System (DAS) for engine turbine testing, designed operational consoles integrating HMI controls, and developed comprehensive verification and test plans.
+- **Documentation** — Authored and supervised technical documents like Engineering Specifications (ES), Design Briefs (DB), drawings (GA), Purchase Requests (PR), and Engineering Coordination Memos (ECM) for data acquisition software components, control/test systems, console design, and customer support.
+- **Customer Support** — Administered extensive client training, both on-site and remotely. Supported customer's operations of GT engine testing during and beyond the commissioning phase (Field Service Representative) for extended periods (6+ months). Troubleshot system behaviour anomalies and determined the root causes and the appropriate technical resolutions.
+- **Business Development Involvement** — Actively contributed to the company's growth, crafting compelling bids, proposals, and tenders.
 
 
 ## Combustion & Pollutant Emissions Engineer — Aerothermal
 
 ### Siemens Canada (formerly Rolls-Royce Canada) — Research and Technology | Montreal (QC), Canada | January 2013 — December 2013
 
-* Pollutant Monitoring — Operated pollutant measurements on Gas Turbine testbeds using sophisticated gas analyzers such as FTIR, FID, and O2 CEMS (Continuous Emission Monitoring Systems).
-* Emissions Analysis — Enhanced data processing techniques for non-traditional pollutant emissions, ensuring more accurate results.
-* Biofuel Assessment — Evaluated and characterized promising liquid (biodiesel blends) and gaseous (syngas blends) biofuels. Examined their impact on smoke & emissions, lean blowout, and potential to reduce greenhouse gases and operational costs.
-* Combustion Modeling — Developed a comprehensive numerical model for predicting biofuel injection and combustion using Computational Fluid Dynamics (CFD).
-* Performance Analysis — Compared biofuels with baseline fuels to examine the benefits while maintaining an acceptable overall combustion performance.
+- **Pollutant Monitoring** — Operated pollutant measurements on Gas Turbine testbeds using sophisticated gas analyzers such as FTIR, FID, and O2 CEMS (Continuous Emission Monitoring Systems).
+- **Emissions Analysis** — Enhanced data processing techniques for non-traditional pollutant emissions, ensuring more accurate results.
+- **Biofuel Assessment** — Evaluated and characterized promising liquid (biodiesel blends) and gaseous (syngas blends) biofuels. Examined their impact on smoke & emissions, lean blowout, and potential to reduce greenhouse gases and operational costs.
+- **Combustion Modeling** — Developed a comprehensive numerical model for predicting biofuel injection and combustion using Computational Fluid Dynamics (CFD).
+- **Performance Analysis** — Compared biofuels with baseline fuels to examine the benefits while maintaining an acceptable overall combustion performance.
 
 
 ## Graduate Research And Teaching Assistant — with Dr. Alain De Champlain
 
 ### Combustion Engineering Research Laboratory at Laval University | Quebec City (QC), Canada | January 2011 — May 2013
 
-* Biofuel Research — Developed applications of liquid and gaseous biofuels for Gas Turbines and aircraft propulsion.
-* Emissions Analysis — Oparated cutting-edge FTIR (Fourier Transformation Infrared) spectroscopy technology for a detailed combustion gas emissions study within swirl combustors.
-* Spray Analysis — Carried out in-depth experimental spray tests, leveraging Particle Image Velocimetry (PIV) and Computational Fluid Dynamics (CFD) techniques. The focus was predicting biodiesel spray attributes such as droplet size, velocity, and penetration.
-* Experimental Setup — Designed and set up equipment for experiments, calibrated instrumentation, optimized data collection methods, and established benchmarks for test results. Executed hands-on tasks, including soldering, wiring, and the assembly of process equipment (mass flow controllers, piping, pumps, pressure chambers, heaters, valves, injectors, and heat exchangers).
-* Data Management — Launched a comprehensive Data Acquisition System (DAS), tailored a VBA program for extensive data interpretation, and contrasted test findings against empirical evidence.
-* Mentorship — Trained and supervised international summer interns and managed the team's technical proficiency.
-* Documentation — Authored detailed technical reports, documenting test protocols, safety measures, and research findings.
-* Safety Training — Rigorously completed WHMIS and WORKSMART training modules, ensuring the lab environment upheld paramount safety standards.
-* Teaching Duties — Crafted lectures on MAE Thermodynamics, directed laboratory sessions, and critically assessed student submissions in the form of lab reports ensuring academic rigour and understanding.
+- **Biofuel Research** — Developed applications of liquid and gaseous biofuels for Gas Turbines and aircraft propulsion.
+- **Emissions Analysis** — Oparated cutting-edge FTIR (Fourier Transformation Infrared) spectroscopy technology for a detailed combustion gas emissions study within swirl combustors.
+- **Spray Analysis** — Carried out in-depth experimental spray tests, leveraging Particle Image Velocimetry (PIV) and Computational Fluid Dynamics (CFD) techniques. The focus was predicting biodiesel spray attributes such as droplet size, velocity, and penetration.
+- **Experimental Setup** — Designed and set up equipment for experiments, calibrated instrumentation, optimized data collection methods, and established benchmarks for test results. Executed hands-on tasks, including soldering, wiring, and the assembly of process equipment (mass flow controllers, piping, pumps, pressure chambers, heaters, valves, injectors, and heat exchangers).
+- **Data Management** — Launched a comprehensive Data Acquisition System (DAS), tailored a VBA program for extensive data interpretation, and contrasted test findings against empirical evidence.
+- **Mentorship** — Trained and supervised international summer interns and managed the team's technical proficiency.
+- **Documentation** — Authored detailed technical reports, documenting test protocols, safety measures, and research findings.
+- **Safety Training** — Rigorously completed WHMIS and WORKSMART training modules, ensuring the lab environment upheld paramount safety standards.
+- **Teaching Duties** — Crafted lectures on MAE Thermodynamics, directed laboratory sessions, and critically assessed student submissions in the form of lab reports ensuring academic rigour and understanding.
 
 
 ## Independent Study in Mechanical Engineering — with Dr. Razvan Rusovici
 
 ### Florida Institute of Technology | Melbourne (FL), USA | January 2010 — June 2010
 
-* Research Focus — Explored adaptive structures, emphasizing finite element analysis in fluid dynamics and acoustics.
-* Technical Tools — Utilized CAD and CAE software, specifically Pro/E, ANSYS, and CFX, for in-depth analysis.
+- **Research Focus** — Explored adaptive structures, emphasizing finite element analysis in fluid dynamics and acoustics.
+- **Technical Tools** — Utilized CAD and CAE software, specifically Pro/E, ANSYS, and CFX, for in-depth analysis.
 
 
 ## Formula SAE Series — with Stephanie Hopper and Dr. Youngsik Choi
 
 ### Florida Tech Motorsports (FIT) | Melbourne (FL) & Michigan International Speedway (MI), USA | November 2008 — May 2009
 
-* Powertrain Leadership — Supervised the powertrain division, delving into engine management, differential dynamics, simulation, rigorous testing, and holistic optimization. This involved extensive application of industry-standard CAD and CAE platforms, including SolidWorks, Cosmos Design, and ANSYS.
-* Composite Craftsmanship — Conceived and executed the design for the vehicle's composite bodywork, emphasizing durability, aerodynamics, and aesthetics.
-* Digital Engagement — Pioneered and developed the Florida Tech Motorsports website, creating an online presence and platform for sharing team achievements, updates, and engagements
+- **Powertrain Leadership** — Supervised the powertrain division, delving into engine management, differential dynamics, simulation, rigorous testing, and holistic optimization. This involved extensive application of industry-standard CAD and CAE platforms, including SolidWorks, Cosmos Design, and ANSYS.
+- **Composite Craftsmanship** — Conceived and executed the design for the vehicle's composite bodywork, emphasizing durability, aerodynamics, and aesthetics.
+- **Digital Engagement** — Pioneered and developed the Florida Tech Motorsports website, creating an online presence and platform for sharing team achievements, updates, and engagements
 
 
 ## Service Engineer (intern)
 
 ### Prestige Dentaire | Nice, France | June — July 2006
 
-* Executed maintenance of dental equipment.
-* Overhauled mechanical, plumbing, and electrical devices.
+- Executed maintenance of dental equipment.
+- Overhauled mechanical, plumbing, and electrical devices.
 
 
 ## Military Experience (volunteer) — Sar El Program
 
 ### Tsahal, Israeli Army Training Program | Hatzerim Air Force Base, Israel | July — August 2005
 
-* Contributed to the Israeli Army's training program, volunteering at the Hatzerim Air Force Base as part of the esteemed Sar El initiative.
+- Contributed to the Israeli Army's training program, volunteering at the Hatzerim Air Force Base as part of the esteemed Sar El initiative.
 
 ----
 

@@ -43,7 +43,7 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 	+ Production, assembly, integration, and test
 	+ Facilities planning and construction
 
-- Project Highlights: Delivered intricate projects for Maintenance, Repair, and Overhaul (MRO) and Research and Development (R&D) sectors. Significant contributions include:
+- **Project Highlights** — Delivered intricate projects for Maintenance, Repair, and Overhaul (MRO) and Research and Development (R&D) sectors. Significant contributions include:
 	+ MRO facilities:
 		* Air France Industries KLM Engineering & Maintenance (France) — CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, GEnx-2B
 		* GKN Aerospace (Sweden) — Volvo RM12 and RM16 (Gripen fighter jet)

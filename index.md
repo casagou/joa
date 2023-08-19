@@ -88,7 +88,7 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 ### Combustion Engineering Research Laboratory at Laval University | Quebec City (QC), Canada | January 2011 — May 2013
 
 - **Biofuel Research** — Developed applications of liquid and gaseous biofuels for Gas Turbines and aircraft propulsion.
-- **Emissions Analysis** — Oparated cutting-edge FTIR (Fourier Transformation Infrared) spectroscopy technology for a detailed combustion gas emissions study within swirl combustors.
+- **Emissions Analysis** — Operated cutting-edge FTIR (Fourier Transformation Infrared) spectroscopy technology for a detailed combustion gas emissions study within swirl combustors.
 - **Spray Analysis** — Carried out in-depth experimental spray tests, leveraging Particle Image Velocimetry (PIV) and Computational Fluid Dynamics (CFD) techniques. The focus was predicting biodiesel spray attributes such as droplet size, velocity, and penetration.
 - **Experimental Setup** — Designed and set up equipment for experiments, calibrated instrumentation, optimized data collection methods, and established benchmarks for test results. Executed hands-on tasks, including soldering, wiring, and the assembly of process equipment (mass flow controllers, piping, pumps, pressure chambers, heaters, valves, injectors, and heat exchangers).
 - **Data Management** — Launched a comprehensive Data Acquisition System (DAS), tailored a VBA program for extensive data interpretation, and contrasted test findings against empirical evidence.

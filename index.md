@@ -229,14 +229,14 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 
 ### Summer Program, Mechanical Engineering | Summer 2012 | Ottawa (ON), Canada
 
-* Experimental tests of spray using PIV (Particle Image Velocimetry) and PDPA (Phase Doppler Particle Analyzer).
+* Conducted experimental tests using PIV (Particle Image Velocimetry) and PDPA (Phase Doppler Particle Analyzer).
 
 
 ## Florida Institute of Technology
 
 ### Bachelor of Science, Mechanical Engineering (transfer student) | May 2010 | Melbourne (FL), USA
 
-* Formula SAE member. Powertrain Division and Bodywork designer.
+* Contributed as a Powertrain Division member and Bodywork designer for Formula SAE.
 * Relevant courses completed:
 	- Computer-Aided Engineering
 	- Aerodynamics and Flight Mechanics
@@ -453,8 +453,8 @@ Cinema, Music (DJ), Photography & Graphic Design, Traveling, High-Tech, Innovati
 
 
 
-Personal references available upon request.
+Personal references are available upon request.
 
 online version available on LinkedIn <https://www.linkedin.com/in/joachimagou/>
 
-updated March 2022	Joachim Agou
+updated March 2023	Joachim Agou

@@ -20,7 +20,7 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 
 * __Space Systems Expertise__ — Oversaw systems engineering for on-orbit and planetary robotic systems, conducting space operations.
 * ** Project Management ** — Coordinated day-to-day execution of the multi-disciplinary project teams, ensuring alignment with technical, budgetary, and scheduling goals.
-* ** Requirements Architecture ** — Established high-level system requirements from end-user needs and analyzed and decomposed systems-level requirements across subsystems, ensuring cohesiveness and clarity.
+* **Requirements Architecture** — Established high-level system requirements from end-user needs and analyzed and decomposed systems-level requirements across subsystems, ensuring cohesiveness and clarity.
 * ** Engineering Innovation ** — Applied engineering insights for the design, development, test, integration, verification, validation and operation of cutting-edge space products and technologies.
 * ** Design Strategy ** — Advocated for design methodologies such as 'design to cost', 'design for test', and 'design for manufacture', optimizing commercial space system productions.
 * ** Documentation ** — Ensured comprehensive documentation of system architecture, interface requirements, and system/subsystem designs.

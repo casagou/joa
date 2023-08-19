@@ -18,68 +18,21 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 
 ### MDA | Brampton (ON), Canada | February 2022 — February 2023
 
-* Space Systems Expertise — Oversaw systems engineering for on-orbit and planetary robotic systems, conducting space operations.
-* Project Management — Coordinated day-to-day execution of the multi-disciplinary project teams, ensuring alignment with technical, budgetary, and scheduling goals.
-* Requirements Architecture — Established high-level system requirements from end-user needs and analyzed and decomposed systems-level requirements across subsystems, ensuring cohesiveness and clarity.
-* Engineering Innovation — Applied engineering insights for the design, development, test, integration, verification, validation and operation of cutting-edge space products and technologies.
-* Design Strategy — Advocated for design methodologies such as 'design to cost', 'design for test', and 'design for manufacture', optimizing commercial space system productions.
-* Documentation — Ensured comprehensive documentation of system architecture, interface requirements, and system/subsystem designs.
-* Analysis and Modeling — Led rigorous trade studies and modelling endeavours to provide a deeper understanding of system requirements and their progressive evolution.
-* Test & Verification Leadership — Ctafted meticulous test plans and procedures, coordinated integration & testing activities, and assessed rigorous system requirements verification & validation.
-* Problem Resolution — Troubleshot system anomalies, diagnosed root causes, and collaborated on technical resolutions, frequently involving a deep dive into telemetry analysis.
-* Business Synergy — Worked alongside project managers and stakeholders to keep projects on track and aided in cost estimation and proposals.
+* ** Space Systems Expertise ** — Oversaw systems engineering for on-orbit and planetary robotic systems, conducting space operations.
+* ** Project Management ** — Coordinated day-to-day execution of the multi-disciplinary project teams, ensuring alignment with technical, budgetary, and scheduling goals.
+* ** Requirements Architecture ** — Established high-level system requirements from end-user needs and analyzed and decomposed systems-level requirements across subsystems, ensuring cohesiveness and clarity.
+* ** Engineering Innovation ** — Applied engineering insights for the design, development, test, integration, verification, validation and operation of cutting-edge space products and technologies.
+* ** Design Strategy ** — Advocated for design methodologies such as 'design to cost', 'design for test', and 'design for manufacture', optimizing commercial space system productions.
+* ** Documentation ** — Ensured comprehensive documentation of system architecture, interface requirements, and system/subsystem designs.
+* ** Analysis and Modeling ** — Led rigorous trade studies and modelling endeavours to provide a deeper understanding of system requirements and their progressive evolution.
+* ** Test & Verification Leadership ** — Ctafted meticulous test plans and procedures, coordinated integration & testing activities, and assessed rigorous system requirements verification & validation.
+* ** Problem Resolution ** — Troubleshot system anomalies, diagnosed root causes, and collaborated on technical resolutions, frequently involving a deep dive into telemetry analysis.
+* ** Business Synergy ** — Worked alongside project managers and stakeholders to keep projects on track and aided in cost estimation and proposals.
 
 
 ## Gas Turbine Applications Engineer — Systems Integrator
 
 ### MDS Gas Turbine Engine Solutions | Ottawa (ON), Canada | December 2013 — February 2022
-
-* Developed and deployed custom-built test facilities and test systems for aviation, industrial, and marine Gas Turbine (GT) engines, emphasizing the following areas:
-	+ Data Acquisition System (DAS) applications and software development
-	+ Instrumentation and control systems
-	+ Mechanical static and dynamic systems (including rotor-dynamics)
-	+ Aerodynamic and acoustics design
-	+ Environmental engineering
-	+ Manufacturing, fabrication, production, and assembly
-	+ Facilities planning and construction
-
-* A few projects I worked on:
-	+ Maintenance, Repair, and Overhaul (MRO) facilities:
-		- Air France Industries KLM Engineering & Maintenance (France) — CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, GEnx-2B
-		- GKN Aerospace (Sweden) — Volvo RM12 and RM16 (Gripen fighter jet)
-		- Standard Aero (formerly Vector Aerospace) (Canada) — P&WC JT15D (multiple variants)
-		- Lockheed Martin Commercial Engine Solutions (Canada) — CFM56-2A, CFM56-2B, CFM56-2C, CFM56-3, CFM56-5A, CFM56-5B, CFM56-5C, CFM56-7B, GE CF6-50C2
-		- Safran Aircraft Engine Services Morocco (Morocco) — CFM56 (multiple variants)
-		- Rolls-Royce (UK) — Consoles
-		- GA Telesis Engine Services (Finland) — CFM56-5B, CFM56-7B, GE CF6-80C2
-	+ Research and Development (R&D) facilities:
-		- Rolls-Royce/ NASA Stennis Space Center (USA) — Outdoor Jet Engine Test Facility (development and certification testing)
-		- Safran Aircraft Engines (formerly Snecma) (France) — CFM LEAP-1A (certification testing), CFM56 (endurance testing)
-		- MAN Energy Solutions (Germany) — Industrial Gas Turbine MGT6000-2S, MG8000-1S
-		- Siemens (Canada) — Industrial RB211
-		- MDS AeroTest/ GLACIER Test Facility (Canada) — Emissions analyser system support
-		- AVIC Commercial Aircraft Engines (ACAE) / Aeroengine Corporation of China (AECC) (China) — Fan, Booster, HPC, and Turbine (development testing)
-		- Shanghai Electric Blower Works Co. (China) — Compressor (development testing)
-
-* Interpreted contract technical requirements based on end-user needs and used these to develop project specifications, organize work breakdown structures, generate requirements matrices, and execute system-level project plans.
-* Maintained accountability through design, procurement, manufacturing, assembly, installation, commissioning and testing activities by maintaining tight liaison throughout their completion.
-* Developed execution strategies and communicated technical direction for the project's entire technical effort to achieve objectives defined by Management. Monitored activities and the generation of deliverables required to achieve the objectives and ensured any roadblocks were resolved.
-* Planned and managed the interfaces between the various subsystems that make up the project scope of work as well as between the various internal/external stakeholders on the individual subsystems.
-* Monitored test systems schedule, budget, and technical compliance. Identified, assessed, analyzed, and supported the design team with any related risks, nonconformances, change orders, or concerns.
-* Integrated multi-disciplinary knowledge of engineering to achieve the best overall product and service within the project's technical, cost and schedule constraints. Reviewed engineering team designs to ensure conformance and own multi-disciplinary.
-* Participated in the vendor selection process and liaised with the procurement Point of Contact to monitor vendor progress.
-* Planed the high-level engineering deliverable structure to support the smooth interface with the company Enterprise Resource Planning (ERP) system and procurement process.
-* Liaised with the production planner to track, monitor and manage the progress of work orders for materials ad subcontracts through the ERP system.
-* Traveled to customer sites worldwide to attend design reviews and monitor progress at the critical points of installation and commissioning.
-* Configured Data Acquisition System (DAS), prepared post-analysis report templates, created real-time display interfaces and automated test sequences to meet customer needs.
-* Defined the relevant engine and facility parameters to be measured and calculated by the Data Acquisition System (DAS) for engine turbine testing.
-* Designed the customer's operations consoles and the integration of HMI to control and monitor the DAS and facility equipment.
-* Developed verification and test plans. Wrote and ran in-house and on-site Acceptance Test Procedures (ATP) with customers to validate deliverables that comply with contract technical and commercial requirements.
-* Prepared/Supervised and reviewed technical documents: Engineering Specifications (ES), Design Briefs (DB), drawings (GA), Purchase Requests (PR), and Engineering Coordination Memos (ECM) for data acquisition software components, control/test systems, console design, and customer support.
-* Supported customer's operations of GT engine testing during and beyond the commissioning phase (Field Service Representative) for extended periods (6+ months). Troubleshoot system behaviour anomalies, determine root cause, and the appropriate technical resolution.
-* Provided on-site and remote customer training in collaboration with Customer Service.
-* Supported and prepared bids, proposals or tenders.
-
 
 * Developed and deployed custom-built turbine test facilities to accommodate complete aero-mechanical testing for aviation, industrial, and marine Gas Turbine (GT) engines, emphasizing the following areas:
 	+ Data Acquisition System (DAS) applications and software development

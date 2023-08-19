@@ -5,8 +5,8 @@ title: Joachim Agou
 
 ### Mechanical Aerospace Engineer | Systems Integration | Project Engineering | Project Management
 
-Experienced mechanical aerospace engineer with a combined 10+ years of dedication and proven ability in project engineering, product design/development, system engineering and integration, design supervision, and commissioning process.
-Throughout my various positions and projects in the Aerospace and Energy industry, I always enjoyed forming trust-based relationships, solving complex customer problems, and leading teams to achieve challenging goals.
+Experienced mechanical aerospace engineer with over a decade of expertise spanning project engineering, product design/development, system engineering and integration, design supervision, and commissioning process.
+Throughout my tenure in the Aerospace and Energy sectors, I've consistently cultivated trust-based relationships, navigated intricate customer challenges, and spearheaded teams toward achieving ambitious targets.
 My guiding principles are simple: work hard, lead by example, and positively impact every professional and personal engagement.
 
 ----
@@ -16,30 +16,18 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 
 ## Senior Systems/ Project Engineer — Robotics & Space Operations
 
-### MDA | Brampton (ON), Canada | February 2022 — Present
+### MDA | Brampton (ON), Canada | February 2022 — February 2023
 
-* Performs systems engineering functions and acts as project authority for on-orbit and planetary robotic systems to conduct space operations.
-* Lead and coordinate day-to-day execution of the multi-disciplinary project team, in support of the Program Manager, to meet technical, schedule requirements and budget constraints.
-* Ensure ongoing project team coordination and communication, especially across disciplines, to ensure full buy-in to project objectives. Work to resolve any issues and ensure team buy-in.
-* Develop high-level system requirements based on end-user needs and stated requirements.
-* Apply engineering knowledge to large and complex projects in the design, development, test, integration, verification, validation and operation of complex, specialized products and technologies;
-* Analyze and decompose systems-level requirements and allocate requirements and design margin across subsystem elements.
-* Advocate for design to cost, design for test, and design for manufacture approach throughout the organization for effective productization of commercial space systems.
-* Drive the development of system architecture, design and interface documentation.
-* Develop and ensure proper documentation of technical and interface requirements throughout all project phases.
-* Develop and ensure proper documentation of high-level system and subsystem design.
-* Perform trade studies, analyses, and modelling to support requirements and system development.
-* Create and maintain system budgets.
-* Identify, assess and handle project risks.
-* Provide technical leadership and review support.
-* Develop test plans and procedures for verification and validation of system requirements.
-* Coordinate and support integration and testing activities.
-* Develop verification and test plans.
-* Understand and assess design issues, determine appropriate resolutions, and work with the team to address them.
-* Troubleshoot system behaviour anomalies, determine root cause, and the appropriate technical resolution.
-* Review, analyze, and interpret telemetry from deployed systems with context and understanding of the systems development life cycle.
-* Collaborate with project managers and business stakeholders to maintain project schedules and budgets while accomplishing project deliverables.
-* Support project managers and the business development team with cost estimation and proposals.
+* Space Systems Expertise — Oversaw systems engineering for on-orbit and planetary robotic systems, conducting space operations.
+* Project Management — Coordinated day-to-day execution of the multi-disciplinary project teams, ensuring alignment with technical, budgetary, and scheduling goals.
+* Requirements Architecture — Established high-level system requirements from end-user needs and analyzed and decomposed systems-level requirements across subsystems, ensuring cohesiveness and clarity.
+* Engineering Innovation — Applied engineering insights for the design, development, test, integration, verification, validation and operation of cutting-edge space products and technologies.
+* Design Strategy — Advocated for design methodologies such as 'design to cost', 'design for test', and 'design for manufacture', optimizing commercial space system productions.
+* Documentation — Ensured comprehensive documentation of system architecture, interface requirements, and system/subsystem designs.
+* Analysis and Modeling — Led rigorous trade studies and modelling endeavours to provide a deeper understanding of system requirements and their progressive evolution.
+* Test & Verification Leadership — Ctafted meticulous test plans and procedures, coordinated integration & testing activities, and assessed rigorous system requirements verification & validation.
+* Problem Resolution — Troubleshot system anomalies, diagnosed root causes, and collaborated on technical resolutions, frequently involving a deep dive into telemetry analysis.
+* Business Synergy — Worked alongside project managers and stakeholders to keep projects on track and aided in cost estimation and proposals.
 
 
 ## Gas Turbine Applications Engineer — Systems Integrator
@@ -93,51 +81,85 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 * Supported and prepared bids, proposals or tenders.
 
 
+* Developed and deployed custom-built turbine test facilities to accommodate complete aero-mechanical testing for aviation, industrial, and marine Gas Turbine (GT) engines, emphasizing the following areas:
+	+ Data Acquisition System (DAS) applications and software development
+	+ Instrumentation and control systems
+	+ Mechanical static and dynamic systems (including rotor-dynamics)
+	+ Aerodynamic and acoustics design
+	+ Environmental engineering
+	+ Production, assembly, integration, and test
+	+ Facilities planning and construction
+
+* Project Highlights: Delivered intricate projects for Maintenance, Repair, and Overhaul (MRO) and Research and Development (R&D) sectors. Significant contributions include:
+	+ MRO facilities:
+		- Air France Industries KLM Engineering & Maintenance (France) — CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, GEnx-2B
+		- GKN Aerospace (Sweden) — Volvo RM12 and RM16 (Gripen fighter jet)
+		- Standard Aero (formerly Vector Aerospace) (Canada) — P&WC JT15D (multiple variants)
+		- Lockheed Martin Commercial Engine Solutions (Canada) — CFM56-2A, CFM56-2B, CFM56-2C, CFM56-3, CFM56-5A, CFM56-5B, CFM56-5C, CFM56-7B, GE CF6-50C2
+		- Safran Aircraft Engine Services Morocco (Morocco) — CFM56 (multiple variants)
+		- Rolls-Royce (UK) — Consoles
+		- GA Telesis Engine Services (Finland) — CFM56-5B, CFM56-7B, GE CF6-80C2
+	+ R&D facilities:
+		- Rolls-Royce/ NASA Stennis Space Center (USA) — Outdoor Jet Engine Test Facility (development and certification testing)
+		- Safran Aircraft Engines (formerly Snecma) (France) — CFM LEAP-1A (certification testing), CFM56 (endurance testing)
+		- MAN Energy Solutions (Germany) — Industrial Gas Turbine MGT6000-2S, MG8000-1S
+		- Siemens (Canada) — Industrial RB211
+		- MDS AeroTest/ GLACIER Test Facility (Canada) — Emissions analyser system support
+		- AVIC Commercial Aircraft Engines (ACAE) / Aeroengine Corporation of China (AECC) (China) — Fan, Booster, HPC, and Turbine (development testing)
+		- Shanghai Electric Blower Works Co. (China) — Compressor (development testing)
+
+* Technical Leadership — Interpreted and translated client requirements into project specifications, organized work breakdown structures, generated requirements matrices, and executed comprehensive project plans. Steered design, procurement, manufacturing, assembly, installation, commissioning and testing activities while mitigating risks, managing budgets, and ensuring compliance.
+* Systems Integration — Oversaw the synergy of multi-disciplinary subsystems while coordinating with internal and external stakeholders. Reviewed engineering designs to ensure holistic conformance.
+* Procurement Oversight — Played an active role in vendor selection, oversaw procurement stages, and managed ERP system interfaces, ensuring seamless procurement processes.
+* Global Client Engagements — Represented the company globally for design consultations, on-site inspections, and commissioning. Conducted in-depth Acceptance Test Procedures (ATP) with clients and provided post-deployment support and training.
+* Data Systems Mastery — Tailored Data Acquisition System (DAS) and measuring instruments, prepared post-analysis report templates, created real-time display interfaces, and automated test sequences to meet customer needs.
+* Gas Turbine Expertise — Defined the relevant engine and facility metrics to be measured and calculated by the Data Acquisition System (DAS) for engine turbine testing, designed operational consoles integrating HMI controls, and developed comprehensive verification and test plans.
+* Documentation — Authored and supervised technical documents like Engineering Specifications (ES), Design Briefs (DB), drawings (GA), Purchase Requests (PR), and Engineering Coordination Memos (ECM) for data acquisition software components, control/test systems, console design, and customer support.
+* Customer Support — Administered extensive client training, both on-site and remotely. Supported customer's operations of GT engine testing during and beyond the commissioning phase (Field Service Representative) for extended periods (6+ months). Troubleshot system behaviour anomalies and determined the root causes and the appropriate technical resolutions.
+* Business Development Involvement — Actively contributed to the company's growth, crafting compelling bids, proposals, and tenders.
+
+
 ## Combustion & Pollutant Emissions Engineer — Aerothermal
 
 ### Siemens Canada (formerly Rolls-Royce Canada) — Research and Technology | Montreal (QC), Canada | January 2013 — December 2013
 
-* Operated pollutants measurements with gas analyzers - FTIR/FID/O2 CEMS (Continuous Emission Monitoring Systems) - on Gas Turbine testbeds.
-* Improved emissions data processing and analysis of non-conventional pollutants emissions.
-* Evaluated the combustion performance of liquid (biodiesel blends) and gaseous (syngas blends) biofuels in terms of smoke & emissions and lean blow out.
-* Characterized promising liquid and gaseous novel biofuels for use in industrial Gas Turbines to reduce greenhouse gases and potentially operation costs.
-* Developed a robust numerical model for biofuels injection and combustion prediction (CFD).
-* Compared biofuels with baseline fuels to examine the benefits while maintaining an acceptable overall combustion performance.
+* Pollutant Monitoring — Operated pollutant measurements on Gas Turbine testbeds using sophisticated gas analyzers such as FTIR, FID, and O2 CEMS (Continuous Emission Monitoring Systems).
+* Emissions Analysis — Enhanced data processing techniques for non-traditional pollutant emissions, ensuring more accurate results.
+* Biofuel Assessment — Evaluated and characterized promising liquid (biodiesel blends) and gaseous (syngas blends) biofuels. Examined their impact on smoke & emissions, lean blowout, and potential to reduce greenhouse gases and operational costs.
+* Combustion Modeling — Developed a comprehensive numerical model for predicting biofuel injection and combustion using Computational Fluid Dynamics (CFD).
+* Performance Analysis — Compared biofuels with baseline fuels to examine the benefits while maintaining an acceptable overall combustion performance.
 
 
 ## Graduate Research And Teaching Assistant — with Dr. Alain De Champlain
 
 ### Combustion Engineering Research Laboratory at Laval University | Quebec City (QC), Canada | January 2011 — May 2013
 
-* Developed biofuels (liquid & gaseous) applications for Gas Turbine and aircraft propulsion.
-* Operated combustion gas emissions monitoring of swirl combustor via FTIR (Fourier Transformation Infrared) – spectroscopy technology.
-* Executed experimental tests of spray using PIV (Particle Image Velocimetry).
-* Computed fluid dynamics prediction (CFD) of biodiesel spray, including swirler configurations, emphasizing penetration depth, droplet size, velocity, and spreading.
-* Designed and assembled experimental apparatus, conducted experiments, trained, and supervised international summer interns.
-* Hands-on work like soldering electrical circuits, wiring instruments, and assembling process equipment (mass flow controllers, piping, pumps, pressure chambers, heaters, valves, injectors, and heat exchangers).
-* Deployed Data Acquisition System (DAS), calibrated instrumentation, performed tests, and troubleshot problems.
-* Compiled VBA program to collate and analyze a large volume of experimental data.
-* Critically analyzed data after tests and correlated it with empirical evidence.
-* Optimized the testing process to enhance data collection and established a benchmark for quantifying test results.
-* Authored comprehensive technical reports to document test protocol, safety procedures, equipment laboratory, and findings.
-* Successfully completed WHMIS and WORKSMART health and safety training programs.
-* Prepared MAE Thermodynamics lectures, showed demonstrations of experiential exercises, supervised laboratory lectures, and evaluated laboratory reports.
+* Biofuel Research — Developed applications of liquid and gaseous biofuels for Gas Turbines and aircraft propulsion.
+* Emissions Analysis — Oparated cutting-edge FTIR (Fourier Transformation Infrared) spectroscopy technology for a detailed combustion gas emissions study within swirl combustors.
+* Spray Analysis — Carried out in-depth experimental spray tests, leveraging Particle Image Velocimetry (PIV) and Computational Fluid Dynamics (CFD) techniques. The focus was predicting biodiesel spray attributes such as droplet size, velocity, and penetration.
+* Experimental Setup — Designed and set up equipment for experiments, calibrated instrumentation, optimized data collection methods, and established benchmarks for test results. Executed hands-on tasks, including soldering, wiring, and the assembly of process equipment (mass flow controllers, piping, pumps, pressure chambers, heaters, valves, injectors, and heat exchangers).
+* Data Management — Launched a comprehensive Data Acquisition System (DAS), tailored a VBA program for extensive data interpretation, and contrasted test findings against empirical evidence.
+* Mentorship — Trained and supervised international summer interns and managed the team's technical proficiency.
+* Documentation — Authored detailed technical reports, documenting test protocols, safety measures, and research findings.
+* Safety Training — Rigorously completed WHMIS and WORKSMART training modules, ensuring the lab environment upheld paramount safety standards.
+* Teaching Duties — Crafted lectures on MAE Thermodynamics, directed laboratory sessions, and critically assessed student submissions in the form of lab reports ensuring academic rigour and understanding.
 
 
 ## Independent Study in Mechanical Engineering — with Dr. Razvan Rusovici
 
 ### Florida Institute of Technology | Melbourne (FL), USA | January 2010 — June 2010
 
-* Developed adaptive structures research and finite element analysis in fluid dynamics and acoustic via CAD and CAE software (Pro/E, ANSYS, and CFX).
+* Research Focus — Explored adaptive structures, emphasizing finite element analysis in fluid dynamics and acoustics.
+* Technical Tools — Utilized CAD and CAE software, specifically Pro/E, ANSYS, and CFX, for in-depth analysis.
 
 
 ## Formula SAE Series — with Stephanie Hopper and Dr. Youngsik Choi
 
 ### Florida Tech Motorsports (FIT) | Melbourne (FL) & Michigan International Speedway (MI), USA | November 2008 — May 2009
 
-* Supervised the powertrain division, dealing with engine management, differential, simulation, testing and optimization via CAD and CAE software (SolidWorks, Cosmos Design, and ANSYS).
-* Designed and fabricated the composite bodywork.
-* Created the Florida Tech Motorsports website.
+* Powertrain Leadership — Supervised the powertrain division, delving into engine management, differential dynamics, simulation, rigorous testing, and holistic optimization. This involved extensive application of industry-standard CAD and CAE platforms, including SolidWorks, Cosmos Design, and ANSYS.
+* Composite Craftsmanship — Conceived and executed the design for the vehicle's composite bodywork, emphasizing durability, aerodynamics, and aesthetics.
+* Digital Engagement — Pioneered and developed the Florida Tech Motorsports website, creating an online presence and platform for sharing team achievements, updates, and engagements
 
 
 ## Service Engineer (intern)
@@ -152,28 +174,35 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 
 ### Tsahal, Israeli Army Training Program | Hatzerim Air Force Base, Israel | July — August 2005
 
+* Contributed to the Israeli Army's training program, volunteering at the Hatzerim Air Force Base as part of the esteemed Sar El initiative.
+
 ----
 
 
 # SKILLS & ABILITIES
 
-+ Industry Knowledge:  System Integration,  Systems Engineering, Project Engineering, Project Management, Aerospace Engineering, Business Strategy, Testing and Simulations
++ Industry Knowledge:
+	- Systems Integration, Systems Engineering, Project Engineering, Project Management
+	- Aerospace Engineering, Business Strategy, Testing, and Simulations
 
-+ Domain Expertise:  Turbomachinery, Gas Turbines/ Jet Engines/Propulsion, Data Acquisition Systems, Aerodynamics, Thermodynamics, Combustion, Fluid Dynamics, Energy and Climate Change, Blockchain and Cryptocurrency Technologies
++ Domain Expertise:
+	- Turbomachinery, Gas Turbines/Jet Engines/Propulsion, Data Acquisition Systems
+	- Aerodynamics, Thermodynamics, Combustion, Fluid Dynamics, Energy and Climate Change
+	- Blockchain and Cryptocurrency Technologies
 
-+ Tools & Technologies
-	- Computational Fluid Dynamics (CFD):  ANSYS FLUENT, CFX, ANSYS ICEM CFD (Mesh Generation), GAMBIT
-	- Solid Modeling (CAD)/ Finite Element Analysis (FEA):  AutoCAD, SolidWorks, Pro/ENGINEER & Creo, CATIA, ANSYS Workbench Platform, ANSYS Parametric Design Language (APDL), Cosmos Design, Solid Concepts, CNC Software/Mastercam
-	- Data Acquisition (DAQ):  NI LabVIEW, proDAS and nxDAS (MDS Aero Support Corp), iDDS (instrumentation Data Distribution Service), LaVision FlowMaster (PIV)
-	- Development Tools:  MS Excel/VBA, Python, MATLAB, Java, SQL database, HTML CSS programming, XML, Apache, LaTex, Mediawiki
-	- Computer Skills:  Microsoft Office 365, Unix/Linux architecture (e.g CentOS, Red Hat, Ubuntu), Computer networking, G Suite, NetBeans, MATLAB, Mathcad, Maple, Adobe Photoshop, Adobe Lightroom, Adobe XD, Adobe Premiere Pro, computer virtualization (e.g. VMware), Wi-Fi security and penetration testing (e.g. Kali Linux), source code repositories (e.g. Git, Subversion) and bug tracking systems (e.g. Bugzilla, JIRA)
-	- Hardware skills:  Network configuration, Tech support and troubleshooting, WAN/LAN and routers
-	- Product Lifecycle Management (PLM) software:  PTC Windchill, Omnify Empower
-	
++ Tools & Technologies:
+	- CFD Tools: Ansys Fluent, Ansys CFX, Ansys ICEM CFD, GAMBIT
+	- CAD/FEA: AutoCAD, SolidWorks, Pro/ENGINEER & Creo, CATIA, ANSYS Workbench & APDL, Cosmos Design, CNC Software/Mastercam
+	- Data Acquisition: NI LabVIEW, proDAS/nxDAS, iDDS, LaVision FlowMaster
+	- Software & Development: MS Excel/VBA, Python, MATLAB, Java, SQL, HTML/CSS, XML, Apache, LaTex, Mediawiki
+	- Computer Skills: MS Office 365, Unix/Linux (CentOS, Red Hat, Ubuntu), Networking, G Suite, MATLAB, Adobe Suite (Photoshop, Lightroom, XD, Premiere Pro), VMware, Wi-Fi Security (e.g., Kali Linux), Git/Subversion, Bug Tracking (e.g., Bugzilla, JIRA)
+	- Hardware Skills: Network Configuration, Tech Support, WAN/LAN and Routers
+	- Product Lifecycle Management: PTC Windchill, Omnify Empower
 
 + Interpersonal Skills:  Problem Solving, Team Leadership, Engineering Management, Training, Teaching, Negotiation
 
-+ Languages: English (Bilingual), French (Native), Spanish (Limited working), Italian (Elementary), Hebrew (Elementary)
++ Languages:  English (Bilingual), French (Native), Spanish (Limited working proficiency), Italian (Elementary), Hebrew (Elementary)
+
 
 ----
 

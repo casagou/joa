@@ -18,7 +18,7 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 
 ### MDA | Brampton (ON), Canada | February 2022 — February 2023
 
-* ** Space Systems Expertise ** — Oversaw systems engineering for on-orbit and planetary robotic systems, conducting space operations.
+* __Space Systems Expertise__ — Oversaw systems engineering for on-orbit and planetary robotic systems, conducting space operations.
 * ** Project Management ** — Coordinated day-to-day execution of the multi-disciplinary project teams, ensuring alignment with technical, budgetary, and scheduling goals.
 * ** Requirements Architecture ** — Established high-level system requirements from end-user needs and analyzed and decomposed systems-level requirements across subsystems, ensuring cohesiveness and clarity.
 * ** Engineering Innovation ** — Applied engineering insights for the design, development, test, integration, verification, validation and operation of cutting-edge space products and technologies.

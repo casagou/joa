@@ -25,7 +25,7 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 - **Design Strategy** — Advocated for design methodologies such as 'design to cost', 'design for test', and 'design for manufacture', optimizing commercial space system productions.
 - **Documentation** — Ensured comprehensive documentation of system architecture, interface requirements, and system/subsystem designs.
 - **Analysis and Modeling** — Led rigorous trade studies and modelling endeavours to provide a deeper understanding of system requirements and their progressive evolution.
-- **Test & Verification Leadership** — Ctafted meticulous test plans and procedures, coordinated integration & testing activities, and assessed rigorous system requirements verification & validation.
+- **Test & Verification Leadership** — Crafted meticulous test plans and procedures, coordinated integration & testing activities, and assessed rigorous system requirements verification & validation.
 - **Problem Resolution** — Troubleshot system anomalies, diagnosed root causes, and collaborated on technical resolutions, frequently involving a deep dive into telemetry analysis.
 - **Business Synergy** — Worked alongside project managers and stakeholders to keep projects on track and aided in cost estimation and proposals.
 
@@ -57,7 +57,7 @@ My guiding principles are simple: work hard, lead by example, and positively imp
 		* Safran Aircraft Engines (formerly Snecma) (France) — CFM LEAP-1A (certification testing), CFM56 (endurance testing)
 		* MAN Energy Solutions (Germany) — Industrial Gas Turbine MGT6000-2S, MG8000-1S
 		* Siemens (Canada) — Industrial RB211
-		* MDS AeroTest/ GLACIER Test Facility (Canada) — Emissions analyser system support
+		* MDS AeroTest/ GLACIER Test Facility (Canada) — Emissions analyzer system support
 		* AVIC Commercial Aircraft Engines (ACAE) / Aeroengine Corporation of China (AECC) (China) — Fan, Booster, HPC, and Turbine (development testing)
 		* Shanghai Electric Blower Works Co. (China) — Compressor (development testing)
 

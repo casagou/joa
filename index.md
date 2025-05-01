@@ -22,20 +22,38 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 ### Sarah Mae Ives Inc. | Vancouver (BC), Canada | August 2024 — now
 
 - **Financial Operations Management** — Oversaw daily financial workflows, including invoicing for over 1,000 clients, processing contractor payments for 10–20 individuals, and managing student account activities using platforms such as Kajabi, Stripe, Dubsado, and PayPal.
-
 - **Contractor Payment Coordination** — Ensured timely and accurate payments through RBC PayEdge, conducting weekly transaction reconciliations to maintain financial integrity.
-
 - **Data Infrastructure Development** — Designed and maintained a comprehensive Google Sheets database to track student enrollments, subscription statuses, payment histories, and sales activities, enhancing data accessibility and accuracy.
-
 - **Cross-Functional Collaboration** — Partnered with the CEO and a 3–5 member administrative team to streamline workflow efficiencies and refine reporting processes, contributing to improved organizational performance.
-
 - **Strategic Reporting** — Generated actionable reports and dashboards to support strategic planning and informed decision-making across departments.
-
 - **Customer Support & Issue Resolution** — Delivered responsive customer service via email and Slack, addressing account access issues, troubleshooting payment problems, and following up on failed transactions to ensure client satisfaction.
-
 - **Process Standardization** — Assisted in structuring and enforcing standardized procedures for contracts, payments, and data integrity, promoting consistency and compliance across the organization.
 
 
+## Self-Employed – Entrepreneurship
+
+### Victoria, BC, Canada | May 2023 – Present
+
+- **Aerial Photography & Videography** — Specialized in drone-based imaging services for real estate, tourism, and music videos. Delivered high-quality visuals that significantly enhanced client marketing and promotional efforts. ​
+- **Live Streaming Production** — Produced live video streaming projects for a variety of events. Tailored services to meet the specific needs of each project, ensuring affordable, high-quality broadcasts. ​
+- **Industrial Consulting** — Offered expert consulting in the installation of industrial ovens and the deployment of power backup systems for a production plant. Provided comprehensive solutions from conceptual design to implementation, focusing on efficiency, reliability, and safety to optimize operational performance.
+
+
+## Restaurant Operations Manager – New Location Development
+
+### Victoria, BC, Canada | March 2024 – August 2024
+
+- **Location Acquisition** — Led the search, negotiation, and purchase of a prime location for a new vegetarian restaurant in Victoria, BC.
+
+- **Operational Leadership** — Managed the operational setup of the restaurant, including staffing, supply chain management, setting operational standards, and ensuring regulatory compliance.
+
+- **Recipe and Menu Development** — Collaborated with chefs to create and refine food recipes, ensuring alignment with health-conscious and farm-to-table principles.
+
+- **Quality Assurance** — Established standards for food preparation, kitchen operations, and customer service to guarantee consistent, high-quality experiences for guests.
+
+- **Staff Training** — Recruited and trained staff on operational procedures, customer service, and compliance with health and safety regulations.
+
+- **Supply Chain Management** — Organized and maintained relationships with suppliers, ensuring fresh, organic produce for the restaurant's menu.
 
 ## Senior Systems/ Project Engineer — Robotics & Space Operations
 

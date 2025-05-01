@@ -12,6 +12,7 @@ Beyond engineering, I've channeled my passion for technology and creativity into
 
 Whether integrating advanced systems in space robotics or delivering high-quality visual content for diverse clients, I bring precision, adaptability, and a relentless focus on execution to every project.
 
+
 ----
 
 

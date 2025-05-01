@@ -3,16 +3,39 @@ layout: page
 title: Joachim Agou
 ---
 
-### Mechanical Aerospace Engineer | Systems Integration | Project Engineering | Project Management
+### Mechanical Aerospace Engineer | Entrepreneur | Project Management | Systems Integration
 
-Experienced mechanical aerospace engineer with over a decade of expertise spanning project engineering, product design/development, system engineering and integration, design supervision, and commissioning process.
-Throughout my tenure in the Aerospace and Energy sectors, I've consistently cultivated trust-based relationships, navigated intricate customer challenges, and spearheaded teams toward achieving ambitious targets.
-My guiding principles are simple: work hard, lead by example, and positively impact every professional and personal engagement.
+
+I am a mechanical and aerospace engineer with over a decade of experience leading complex engineering projects in the aerospace and energy sectors. My career has been defined by a commitment to innovation, precision, and delivering results under pressure.​
+
+Beyond engineering, I've channeled my passion for technology and creativity into founding and operating multiple ventures in Victoria, BC. These include a marketing agency, a drone-based aerial photography and video production company, a live-streaming production service, and an industrial consulting firm. These entrepreneurial endeavors have honed my skills in business development, operational management, and strategic planning.​
+
+Whether integrating advanced systems in space robotics or delivering high-quality visual content for diverse clients, I bring precision, adaptability, and a relentless focus on execution to every project.
 
 ----
 
 
 # EXPERIENCE
+
+## Administrator Accounting
+
+### Sarah Mae Ives Inc. | Vancouver (BC), Canada | August 2024 — now
+
+- **Financial Operations Management** — Oversaw daily financial workflows, including invoicing for over 1,000 clients, processing contractor payments for 10–20 individuals, and managing student account activities using platforms such as Kajabi, Stripe, Dubsado, and PayPal.
+
+- **Contractor Payment Coordination** — Ensured timely and accurate payments through RBC PayEdge, conducting weekly transaction reconciliations to maintain financial integrity.
+
+- **Data Infrastructure Development** — Designed and maintained a comprehensive Google Sheets database to track student enrollments, subscription statuses, payment histories, and sales activities, enhancing data accessibility and accuracy.
+
+- **Cross-Functional Collaboration** — Partnered with the CEO and a 3–5 member administrative team to streamline workflow efficiencies and refine reporting processes, contributing to improved organizational performance.
+
+- **Strategic Reporting** — Generated actionable reports and dashboards to support strategic planning and informed decision-making across departments.
+
+- **Customer Support & Issue Resolution** — Delivered responsive customer service via email and Slack, addressing account access issues, troubleshooting payment problems, and following up on failed transactions to ensure client satisfaction.
+
+- **Process Standardization** — Assisted in structuring and enforcing standardized procedures for contracts, payments, and data integrity, promoting consistency and compliance across the organization.
+
+
 
 ## Senior Systems/ Project Engineer — Robotics & Space Operations
 

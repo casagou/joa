@@ -7,10 +7,6 @@ Get in Touch?
 
 Interested in learning more about me, my work or how we can collaborate on an upcoming project? Feel free to reach out anytime, I would be more than happy to chat.
 
-	1524 Prestwick Drive
-	Orleans, ON  K1E 1S5
-	Canada
-
 	+1 (613) 413-5918
 
 	joachim@agou.ca

@@ -50,8 +50,8 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 ###  Victoria, BC, Canada | February 2023 — May 2023
 
 - **Family Focus & Relocation** — Prioritized family commitments, successfully managing the logistics of relocating from Ontario to British Columbia. This period was dedicated to supporting a significant family transition and demonstrating strong organizational and planning skills.
-- ** Personal Development** — Engaged in continuous learning through online courses and workshops aimed at professional growth and maintaining industry relevance.
-- ** Skill Enhancement** — Utilized the period for self-improvement, including refining time management and adaptability skills, ensuring a smooth transition back into the professional environment with a fresh perspective and renewed focus.
+- **Personal Development** — Engaged in continuous learning through online courses and workshops aimed at professional growth and maintaining industry relevance.
+- **Skill Enhancement** — Utilized the period for self-improvement, including refining time management and adaptability skills, ensuring a smooth transition back into the professional environment with a fresh perspective and renewed focus.
 
 ## Senior Systems/ Project Engineer — Robotics & Space Operations
 

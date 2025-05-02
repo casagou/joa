@@ -8,10 +8,9 @@ title: Joachim Agou
 
 I am a mechanical and aerospace engineer with over a decade of experience leading complex engineering projects in the aerospace and energy sectors. My career has been defined by a commitment to innovation, precision, and delivering results under pressure.​
 
-Beyond engineering, I've channelled my passion for technology and creativity into founding and operating multiple ventures in Victoria, BC. These include a marketing agency, a drone-based aerial photography and video production company, a live-streaming production service, and an industrial consulting firm. These entrepreneurial endeavors have honed my skills in business development, operational management, and strategic planning.​
+Beyond engineering, I've channelled my passion for technology and creativity into founding and operating multiple ventures in Victoria, BC. These include a marketing agency, a drone-based aerial photography and video production company, a live-streaming production service, and an industrial consulting firm. These entrepreneurial endeavours have honed my skills in business development, operational management, and strategic planning.​
 
 Whether integrating advanced systems in space robotics or delivering high-quality visual content for diverse clients, I bring precision, adaptability, and a relentless focus on execution to every project.
-
 
 ----
 
@@ -22,21 +21,21 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 
 ### Sarah Mae Ives Inc. | Vancouver (BC), Canada | August 2024 — now
 
-- **Financial Operations Management** — Oversaw daily financial workflows, including invoicing for over 1,000 clients, processing contractor payments for 10–20 individuals, and managing student account activities using platforms such as Kajabi, Stripe, Dubsado, and PayPal.
-- **Contractor Payment Coordination** — Ensured timely and accurate payments through RBC PayEdge, conducting weekly transaction reconciliations to maintain financial integrity.
-- **Data Infrastructure Development** — Designed and maintained a comprehensive Google Sheets database to track student enrollments, subscription statuses, payment histories, and sales activities, enhancing data accessibility and accuracy.
-- **Team Leadership** — Led a cross-functional administrative team of 4–6 members, including tech support, media support, and moderators. Collaborated closely with the CEO to streamline workflows, enhance reporting processes, and improve overall organizational performance.
-- **Strategic Reporting** — Generated actionable reports and dashboards to support strategic planning and informed department decision-making.
-- **Customer Support & Issue Resolution** — Delivered responsive customer service via email and Slack, addressing account access issues, troubleshooting payment problems, and following up on failed transactions to ensure client satisfaction
-- **Process Standardization** — Assisted in structuring and enforcing standardized procedures for contracts, payments, and data integrity, promoting consistency and compliance across the organization.
+- **Financial Operations Management** — Oversee daily financial workflows, including invoicing for over 1,000 clients, processing contractor payments for 10–20 individuals, and managing student account activities using platforms such as Kajabi, Stripe, Dubsado, and PayPal.
+- **Contractor Payment Coordination** — Ensure timely and accurate payments through RBC PayEdge, conducting weekly transaction reconciliations to maintain financial integrity.
+- **Data Infrastructure Development** — Design and maintained a comprehensive Google Sheets database to track student enrollments, subscription statuses, payment histories, and sales activities, enhancing data accessibility and accuracy.
+- **Team Leadership** — Lead a cross-functional administrative team of 4–6 members, including tech support, media support, and moderators. Collaborated closely with the CEO to streamline workflows, enhance reporting processes, and improve overall organizational performance.
+- **Strategic Reporting** — Generate actionable reports and dashboards to support strategic planning and informed department decision-making.
+- **Customer Support & Issue Resolution** — Deliver responsive customer service via email and Slack, addressing account access issues, troubleshooting payment problems, and following up on failed transactions to ensure client satisfaction
+- **Process Standardization** — Assist in structuring and enforcing standardized procedures for contracts, payments, and data integrity, promoting consistency and compliance across the organization.
 
 
 ## Self-Employed – Entrepreneurship
 
 ### Independent Ventures | Victoria, BC, Canada | May 2023 – Present
 
-- **Aerial Media Production** — Established and operated a drone-based imaging and video production service, delivering high-quality aerial photography and videography for diverse clients. Notable projects include coverage for conferences at the Fairmont Empress Hotel, the University of Victoria, Christ Church Cathedral, and the Alliance Française Victoria. These projects enhanced client marketing efforts and increased audience engagement.​
-- **Live Streaming Services** — Produced and managed live-streaming projects for various events, specializing in remote locations across Vancouver Island. Customized streaming solutions to meet client needs, effectively bridging distances for families and communities, and providing training to remote workers.​
+- **Aerial Media Production** — Establish and operate a drone-based imaging and video production service, delivering high-quality aerial photography and videography for diverse clients. Notable projects include coverage for conferences at the Fairmont Empress Hotel, the University of Victoria, Christ Church Cathedral, and the Alliance Française Victoria. These projects enhanced client marketing efforts and increased audience engagement.​
+- **Live Streaming Services** — Produce and manage live-streaming projects for various events, specializing in remote locations across Vancouver Island. Customized streaming solutions to meet client needs, effectively bridging distances for families and communities, and providing training to remote workers.​
 - **Industrial Engineering Consulting** — Provided expert consulting on the installation of industrial ovens and deployment of power backup systems for production plants. Delivered comprehensive solutions from conceptual design to implementation, focusing on efficiency, reliability, and safety to optimize operational performance.
 
 
@@ -44,12 +43,12 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 
 ### Victoria, BC, Canada | March 2024 – August 2024
 
-- **Location Acquisition** — Led the search, negotiation, and purchase of a prime location for a new vegetarian restaurant in Victoria, BC.
-- **Operational Leadership** — Managed the operational setup of the restaurant, including staffing, supply chain management, setting operational standards, and ensuring regulatory compliance.
-- **Recipe and Menu Development** — Collaborated with chefs to create and refine food recipes, ensuring alignment with health-conscious and farm-to-table principles.
-- **Quality Assurance** — Established standards for food preparation, kitchen operations, and customer service to guarantee consistent, high-quality experiences for guests.
-- **Staff Training** — Recruited and trained staff on operational procedures, customer service, and compliance with health and safety regulations.
-- **Supply Chain Management** — Organized and maintained relationships with suppliers, ensuring fresh, organic produce for the restaurant's menu.
+- **Pre-Launch Execution** — Led the full pre-operational development of a new vegetarian buffet restaurant, including site selection, lease negotiation, permitting, and renovations. Although the launch was ultimately canceled, all planning and execution phases were successfully completed.
+- **Business Planning** — Developed a comprehensive business plan encompassing market analysis, brand positioning, pricing strategy, and financial projections aligned with the buffet service model.
+- **Operations & Regulatory Compliance** — Directed procurement, kitchen layout planning, and workflow design in line with the restaurant concept, while ensuring full adherence to local health, safety, and food service regulations, including FoodSafe certification and municipal inspections.
+- **Menu & Recipe** — Partnered with chefs to create, cost, and test a diverse, buffet-style farm-to-table menu (where feasible), reflecting the brand’s nutritional and seasonal values.
+- **Staffing & Training** — Recruited and onboarded both front-of-house and kitchen staff. Designed training programs focused on operational efficiency, food safety, and consistent customer service delivery.
+- **Supplier & Vendor Management** — Built and maintained a network of local, sustainable suppliers. Negotiated and renewed vendor contracts for produce, kitchen equipment, cleaning services, and buffet infrastructure.
 
 ## Senior Systems/ Project Engineer — Robotics & Space Operations
 
@@ -108,7 +107,6 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 - **Customer Support** — Administered extensive client training, both on-site and remotely. Supported customers' operations of GT engine testing during and beyond the commissioning phase (Field Service Representative) for extended periods (6+ months). Troubleshot system behaviour anomalies and determined the root causes and the appropriate technical resolutions.
 - **Business Development Involvement** — Actively contributed to the company's growth, crafting compelling bids, proposals, and tenders.
 
-
 ## Combustion & Pollutant Emissions Engineer — Aerothermal
 
 ### Siemens Canada (formerly Rolls-Royce Canada) — Research and Technology | Montreal (QC), Canada | January 2013 — December 2013
@@ -116,7 +114,7 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 - **Pollutant Monitoring** — Operated pollutant measurements on Gas Turbine testbeds using sophisticated gas analyzers such as FTIR, FID, and O2 CEMS (Continuous Emission Monitoring Systems).
 - **Emissions Analysis** — Enhanced data processing techniques for non-traditional pollutant emissions, ensuring more accurate results.
 - **Biofuel Assessment** — Evaluated and characterized promising liquid (biodiesel blends) and gaseous (syngas blends) biofuels. Examined their impact on smoke & emissions, lean blowout, and potential to reduce greenhouse gases and operational costs.
-- **Combustion Modeling** — Developed a comprehensive numerical model for predicting biofuel injection and combustion using Computational Fluid Dynamics (CFD).
+- **Combustion Modelling** — Developed a comprehensive numerical model for predicting biofuel injection and combustion using Computational Fluid Dynamics (CFD).
 - **Performance Analysis** — Compared biofuels with baseline fuels to examine the benefits while maintaining an acceptable overall combustion performance.
 
 
@@ -193,7 +191,6 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 
 + Languages:  English (Bilingual), French (Native), Spanish (Limited working proficiency), Italian (Elementary), Hebrew (Elementary)
 
-
 ----
 
 
@@ -233,7 +230,7 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 	- Design of Machine Elements
 	- Mechanical Vibrations
 	- Fluid Mechanics (+Lab)
-	- Heating Ventilation and Air Conditioning (HVAC)
+	- Heating, Ventilation and Air Conditioning (HVAC)
 	- Mechanical Engineering Design 2
 	- Thermal Systems Design
 	- Thermodynamics 2

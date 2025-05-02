@@ -12,9 +12,9 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 
 # EXPERIENCE
 
-## Accounting Administrator
+## Accounting & Operations Administrator
 
-### Sarah Mae Ives Inc. (digital marketing firm) | Vancouver (BC), Canada | August 2024 — now
+### Sarah Mae Ives Inc. (Digital Marketing Firm) | Vancouver (BC), Canada | September 2024 — present
 
 - **Financial Operations Management** — Oversee daily financial workflows, including invoicing for over 100 clients, processing payments for 10–20 contractors, and managing student account activities using platforms such as Kajabi, Stripe, Dubsado, and PayPal.
 - **Team Leadership** — Lead a cross-functional administrative team of 4–6 members, including tech support, media support, and moderators. Collaborate closely with the CEO to streamline workflows, enhance reporting processes, and improve overall organizational performance.
@@ -25,9 +25,18 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 - **Process Standardization** — Assist in structuring and enforcing standardized procedures for contracts, payments, and data integrity, promoting consistency and compliance across the organization.
 
 
+- **Financial Management** — Administer invoicing for 100+ clients, process contractor payments via RBC PayEdge, and manage subscription transactions using Kajabi, Stripe, and PayPal.
+- **Team Coordination** — Lead a cross-functional admin team (4–6 people), including tech/media support and moderators; optimize workflows in collaboration with the CEO.
+- **Data Systems Development** — Designed a centralized Google Sheets database for tracking student enrollment, subscriptions, payments, and sales, enhancing reporting accuracy.
+- **Reporting & Analysis** — Produce weekly dashboards to support strategic planning and data-driven decisions.
+- **Customer Support** — Resolve client access and payment issues through email and Slack; track failed transactions to ensure account integrity.
+- **Process Improvement** — Standardize payment and contract workflows to increase efficiency and enforce compliance.
+
+
+
 ## Self-Employed – Entrepreneurship
 
-### Independent Ventures | Victoria, BC, Canada | May 2023 – Present
+### Founder & Consultant, Independent Ventures | Victoria (BC) Canada | May 2023 – Present
 
 - **Aerial Media Production** — Establish and operate a drone-based imaging and video production service, delivering high-quality aerial photography and videography for diverse clients. Notable projects include coverage for conferences at the Fairmont Empress Hotel, the University of Victoria, Christ Church Cathedral, and the Alliance Française Victoria. These projects enhanced client marketing efforts and increased audience engagement.​
 - **Live Streaming Services** — Produce and manage live-streaming projects for various events, specializing in remote locations across Vancouver Island. Customized streaming solutions to meet client needs, effectively bridging distances for families and communities, and providing training to remote workers.​
@@ -36,7 +45,7 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 
 ## Restaurant Operations Manager – New Location Development
 
-### Victoria, BC, Canada | March 2024 – September 2024
+### Victoria (BC), Canada | March 2024 – September 2024
 
 - **Pre-Launch Execution** — Led the full pre-operational development of a new vegetarian buffet restaurant, including site selection, lease negotiation, permitting, and renovations. Although the launch was ultimately canceled, all planning and execution phases were successfully completed.
 - **Business Planning** — Developed a comprehensive business plan encompassing market analysis, brand positioning, pricing strategy, and financial projections aligned with the buffet service model.
@@ -48,7 +57,7 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 
 ## Career Break — Personal and Family Development
 
-###  Victoria, BC, Canada | February 2023 — May 2023
+###  Victoria (BC), Canada | February 2023 — May 2023
 
 - **Family Focus & Relocation** — Prioritized family commitments, successfully managing the logistics of relocating from Ontario to British Columbia. This period was dedicated to supporting a significant family transition and demonstrating strong organizational and planning skills.
 - **Personal Development** — Engaged in continuous learning through online courses and workshops aimed at professional growth and maintaining industry relevance.
@@ -179,20 +188,19 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 + Domain Expertise:
 	- Turbomachinery, Gas Turbines/Jet Engines/Propulsion, Data Acquisition Systems
 	- Aerodynamics, Thermodynamics, Combustion, Fluid Dynamics, Energy and Climate Change
-	- Blockchain and Cryptocurrency Technologies
 
 + Tools & Technologies:
 	- CFD Tools: Ansys Fluent, Ansys CFX, Ansys ICEM CFD, GAMBIT
 	- CAD/FEA: AutoCAD, SolidWorks, Pro/ENGINEER & Creo, CATIA, ANSYS Workbench & APDL, Cosmos Design, CNC Software/Mastercam
 	- Data Acquisition: NI LabVIEW, proDAS/nxDAS, iDDS, LaVision FlowMaster
 	- Software & Development: MS Excel/VBA, Python, MATLAB, Java, SQL, HTML/CSS, XML, Apache, LaTex, Mediawiki
-	- Computer Skills: MS Office 365, Unix/Linux (CentOS, Red Hat, Ubuntu), Networking, G Suite, MATLAB, Adobe Suite (Photoshop, Lightroom, XD, Premiere Pro), VMware, Wi-Fi Security (e.g., Kali Linux), Git/Subversion, Bug Tracking (e.g., Bugzilla, JIRA)
+	- Computer Skills: MS Office 365, Unix/Linux (CentOS, Red Hat, Ubuntu), Networking, G Suite, Adobe Suite (Photoshop, Lightroom, XD, Premiere Pro), VMware, Wi-Fi Security (e.g., Kali Linux), Git/Subversion, Bug Tracking (e.g., Bugzilla, JIRA)
 	- Hardware Skills: Network Configuration, Tech Support, WAN/LAN and Routers
 	- Product Lifecycle Management: PTC Windchill, Omnify Empower
 
 + Interpersonal Skills:  Problem Solving, Team Leadership, Engineering Management, Training, Teaching, Negotiation
 
-+ Languages:  English (Bilingual), French (Native), Spanish (Limited working proficiency), Italian (Elementary), Hebrew (Elementary)
++ Languages:  English (Fluent), French (Native), Spanish (Limited working proficiency), Italian (Elementary), Hebrew (Elementary)
 
 ----
 

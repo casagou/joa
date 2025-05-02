@@ -69,42 +69,42 @@ Mechanical and aerospace engineer with over 12 years of experience leading multi
 
 ### MDS Gas Turbine Engine Solutions | Ottawa (ON), Canada | December 2013 — February 2022
 
-- **Turnkey Facility Development** — Developed and deployed custom-built turbine test facilities to complete aero-mechanical testing for aviation, industrial, and marine Gas Turbine (GT) engines, emphasizing the following areas:
-	+ Data Acquisition System (DAS) applications and software development
-	+ Instrumentation and control systems
-	+ Mechanical static and dynamic systems (including rotor-dynamics)
-	+ Aerodynamic and acoustics design
-	+ Environmental engineering
-	+ Production, assembly, integration, and test
-	+ Facilities planning and construction
-
-- **Project Highlights** — Delivered intricate projects for Maintenance, Repair, and Overhaul (MRO) and Research and Development (R&D) sectors. Significant contributions include:
+- **Turnkey Facility Development** — Led the design and deployment of custom-built gas turbine test facilities for aviation, industrial, and marine applications. Key areas of focus included:
+	+ Development of Data Acquisition Systems (DAS) and associated software development
+	+ Design of instrumentation and control systems
+	+ Engineering of mechanical systems, encompassing both static and dynamic components, including rotor-dynamics
+	+ Aerodynamic and acoustic design considerations
+	+ Environmental engineering to meet regulatory standards
+	+ Oversight of production, assembly, integration, and testing processes
+	+ Comprehensive facilities planning and construction management
+	
+- **Project Highlights** — Delivered projects for Maintenance, Repair, and Overhaul (MRO) and Research and Development (R&D) sectors. Significant contributions include:
 	+ MRO facilities:
-		* Air France Industries KLM Engineering & Maintenance (France) — CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, GEnx-2B
-		* GKN Aerospace (Sweden) — Volvo RM12 and RM16 (Gripen fighter jet)
-		* Standard Aero (formerly Vector Aerospace) (Canada) — P&WC JT15D (multiple variants)
-		* Lockheed Martin Commercial Engine Solutions (Canada) — CFM56-2A, CFM56-2B, CFM56-2C, CFM56-3, CFM56-5A, CFM56-5B, CFM56-5C, CFM56-7B, GE CF6-50C2
-		* Safran Aircraft Engine Services Morocco (Morocco) — CFM56 (multiple variants)
-		* Rolls-Royce (UK) — Consoles
-		* GA Telesis Engine Services (Finland) — CFM56-5B, CFM56-7B, GE CF6-80C2
-	+ R&D facilities:
-		* Rolls-Royce/ NASA Stennis Space Center (USA) — Outdoor Jet Engine Test Facility (development and certification testing)
-		* Safran Aircraft Engines (formerly Snecma) (France) — CFM LEAP-1A (certification testing), CFM56 (endurance testing)
-		* MAN Energy Solutions (Germany) — Industrial Gas Turbine MGT6000-2S, MG8000-1S
-		* Siemens (Canada) — Industrial RB211
-		* MDS AeroTest/ GLACIER Test Facility (Canada) — Emissions analyzer system support
-		* AVIC Commercial Aircraft Engines (ACAE) / Aeroengine Corporation of China (AECC) (China) — Fan, Booster, HPC, and Turbine (development testing)
-		* Shanghai Electric Blower Works Co. (China) — Compressor (development testing)
+		* Air France Industries KLM Engineering & Maintenance (France): Worked on engine models including CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, and GEnx-2B.
+		* GKN Aerospace (Sweden): Handled projects involving Volvo RM12 and RM16 engines for the Gripen fighter jet.
+		* StandardAero (Canada) (formerly Vector Aerospace): Focused on various P&WC JT15D engine variants.
+		* Lockheed Martin Commercial Engine Solutions (Canada): Managed a range of CFM56 variants and GE CF6-50C2.
+		* Safran Aircraft Engine Services Morocco (Morocco): Worked on multiple CFM56 engine variants.
+		* Rolls-Royce (UK): Contributed to engine console projects.
+		* GA Telesis Engine Services (Finland): Handled CFM56-5B, CFM56-7B, and GE CF6-80C2 engines.
 
-- **Technical Leadership** — Interpreted and translated client requirements into project specifications, organized work breakdown structures, generated requirements matrices, and executed comprehensive project plans. Steered design, procurement, manufacturing, assembly, installation, commissioning and testing activities while mitigating risks, managing budgets, and ensuring compliance.
-- **Systems Integration** — Oversaw the synergy of multi-disciplinary subsystems while coordinating with internal and external stakeholders. Reviewed engineering designs to ensure holistic conformance.
-- **Procurement Oversight** — Played an active role in vendor selection, oversaw procurement stages, and managed ERP system interfaces, ensuring seamless procurement processes.
-- **Client Engagements** — Represented the company globally for design consultations, on-site inspections, and commissioning. Conducted in-depth Acceptance Test Procedures (ATP) with clients and provided post-deployment support and training.
-- **Data Systems Mastery** — Tailored Data Acquisition System (DAS) and measuring instruments, prepared post-analysis report templates, created real-time display interfaces, and automated test sequences to meet customer needs.
-- **Gas Turbine Expertise** — Defined the relevant engine and facility metrics to be measured and calculated by the Data Acquisition System (DAS) for engine turbine testing, designed operational consoles integrating HMI controls, and developed comprehensive verification and test plans.
-- **Documentation** — Authored and supervised technical documents like Engineering Specifications (ES), Design Briefs (DB), drawings (GA), Purchase Requests (PR), and Engineering Coordination Memos (ECM) for data acquisition software components, control/test systems, console design, and customer support.
-- **Customer Support** — Administered extensive client training, both on-site and remotely. Supported customers' operations of GT engine testing during and beyond the commissioning phase (Field Service Representative) for extended periods (6+ months). Troubleshot system behaviour anomalies and determined the root causes and the appropriate technical resolutions.
-- **Business Development Involvement** — Actively contributed to the company's growth, crafting compelling bids, proposals, and tenders.
+	+ R&D facilities:
+		* Rolls-Royce / NASA Stennis Space Center (USA): Developed and conducted certification testing for an outdoor jet engine test facility.
+		* Safran Aircraft Engines (France): Performed certification testing for the CFM LEAP-1A and endurance testing for the CFM56 engines.
+		* MAN Energy Solutions (Germany): Worked on industrial gas turbines MGT6000-2S and MG8000-1S.
+		* Siemens (Canada): Handled projects involving the industrial RB211 gas turbine.
+		* MDS AeroTest / GLACIER Test Facility (Canada): Provided support for emissions analyzer systems.
+		* AVIC Commercial Aircraft Engines / AECC (China): Conducted development testing for fan, booster, high-pressure compressor (HPC), and turbine components.
+		* Shanghai Electric Blower Works Co. (China): Engaged in development testing for compressors.
+
+- **Technical Leadership & Systems Integration** — Translated client requirements into detailed project specifications, developed work breakdown structures, and executed comprehensive project plans. Managed cross-functional teams through design, procurement, manufacturing, assembly, installation, commissioning, and testing phases. Ensured seamless integration of multidisciplinary subsystems, coordinating with internal departments and external stakeholders to achieve holistic system conformance.
+- **Procurement Oversight** — Played a pivotal role in vendor selection and procurement processes. Managed interfaces with Enterprise Resource Planning (ERP) systems to streamline procurement activities and ensure timely delivery of components and services.
+- **Client Engagements** — Represented the company in international settings for design consultations, on-site inspections, and commissioning activities. Conducted comprehensive Acceptance Test Procedures (ATP) with clients and provided post-deployment support and tailored training sessions.
+- **Data Systems Expertise** — Customized Data Acquisition Systems (DAS) and measurement instruments to meet specific client requirements. Developed post-analysis report templates, real-time display interfaces, and automated test sequences to enhance data accuracy and usability.
+- **Gas Turbine Proficiency** — Defined critical engine and facility metrics for gas turbine testing, ensuring accurate data capture and analysis. Designed operational consoles integrating Human-Machine Interface (HMI) controls and developed comprehensive verification and test plans.
+- **Technical Documentation** — Authored and supervised the creation of key technical documents, including Engineering Specifications (ES), Design Briefs (DB), General Arrangement (GA) drawings, Purchase Requests (PR), and Engineering Coordination Memos (ECM). Focused on documentation for data acquisition software components, control/test systems, console design, and customer support protocols.
+- **Customer Support** — Delivered extensive client training programs, both on-site and remotely, to ensure effective operation of gas turbine testing systems. Provided ongoing support during and beyond the commissioning phase (6+ months), troubleshooting system anomalies and implementing appropriate technical resolutions.
+- **Business Development** — Actively contributed to the company's growth by crafting compelling bids, proposals, and tenders, aligning technical solutions with client needs and market trends.
 
 
 ## Combustion & Pollutant Emissions Engineer — Aerothermal

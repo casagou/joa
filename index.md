@@ -190,8 +190,6 @@ Mechanical and aerospace engineer with over 12 years of experience leading multi
 
 + Languages:  English (Fluent), French (Native), Spanish (Limited working proficiency), Italian (Elementary), Hebrew (Elementary)
 
-+ Interpersonal & Communication:  Strong problem-solving skills, client-facing communication, team leadership, mentoring, and technical documentation
-
 ----
 
 

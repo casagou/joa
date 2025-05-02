@@ -5,7 +5,7 @@ title: Joachim Agou
 
 ### Mechanical Aerospace Engineer | Entrepreneur | Project Management | Systems Integration
 
-Mechanical and aerospace engineer with 12+ years of experience in complex engineering projects (aerospace, energy) and entrepreneurial ventures (marketing, media production, consulting). Proven leader in systems integration, project engineering, and business development. Skilled in innovation, precision, and delivering results under pressure. Bilingual English/French, with a track record of building client trust and driving innovation.
+Mechanical and aerospace engineer with 12+ years of experience in complex engineering projects (aerospace, energy) and entrepreneurial ventures (marketing, media production, consulting). Proven track record in leading cross-functional teams, managing full project lifecycles, and driving operational excellence. Strong expertise in systems integration, data acquisition, and product development. Bilingual (English/French) with a focus on innovation, efficiency, and high-impact delivery in dynamic environments.
 
 ----
 
@@ -16,10 +16,10 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 
 ### Sarah Mae Ives Inc. | Vancouver (BC), Canada | August 2024 — now
 
-- **Financial Operations Management** — Oversee daily financial workflows, including invoicing for over 100+ clients, processing payments for 10–20 contractrors, and managing student account activities using platforms such as Kajabi, Stripe, Dubsado, and PayPal.
-- **Contractor Payment Coordination** — Ensure timely and accurate payments through RBC PayEdge, conducting weekly transaction reconciliations to maintain financial integrity.
-- **Data Infrastructure Development** — Design and maintained a comprehensive Google Sheets database to track student enrollments, subscription statuses, payment histories, and sales activities, enhancing data accessibility and accuracy.
+- **Financial Operations Management** — Oversee daily financial workflows, including invoicing for over 100+ clients, processing payments for 10–20 contractors, and managing student account activities using platforms such as Kajabi, Stripe, Dubsado, and PayPal.
 - **Team Leadership** — Lead a cross-functional administrative team of 4–6 members, including tech support, media support, and moderators. Collaborated closely with the CEO to streamline workflows, enhance reporting processes, and improve overall organizational performance.
+- **Contractor Payment Coordination** — Ensure timely and accurate payments through RBC PayEdge, conducting weekly transaction reconciliations to maintain financial integrity.
+- **Data Infrastructure Development** — Design and maintain a comprehensive Google Sheets database to track student enrollments, subscription statuses, payment histories, and sales activities, enhancing data accessibility and accuracy.
 - **Strategic Reporting** — Generate actionable reports and dashboards to support strategic planning and informed department decision-making.
 - **Customer Support & Issue Resolution** — Deliver responsive customer service via email and Slack, addressing account access issues, troubleshooting payment problems, and following up on failed transactions to ensure client satisfaction
 - **Process Standardization** — Assist in structuring and enforcing standardized procedures for contracts, payments, and data integrity, promoting consistency and compliance across the organization.
@@ -45,6 +45,7 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 - **Staffing & Training** — Recruited and onboarded both front-of-house and kitchen staff. Designed training programs focused on operational efficiency, food safety, and consistent customer service delivery.
 - **Supplier & Vendor Management** — Built and maintained a network of local, sustainable suppliers. Negotiated and renewed vendor contracts for produce, kitchen equipment, cleaning services, and buffet infrastructure.
 
+
 ## Career Break — Personal and Family Development
 
 ###  Victoria, BC, Canada | February 2023 — May 2023
@@ -52,6 +53,7 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 - **Family Focus & Relocation** — Prioritized family commitments, successfully managing the logistics of relocating from Ontario to British Columbia. This period was dedicated to supporting a significant family transition and demonstrating strong organizational and planning skills.
 - **Personal Development** — Engaged in continuous learning through online courses and workshops aimed at professional growth and maintaining industry relevance.
 - **Skill Enhancement** — Utilized the period for self-improvement, including refining time management and adaptability skills, ensuring a smooth transition back into the professional environment with a fresh perspective and renewed focus.
+
 
 ## Senior Systems/ Project Engineer — Robotics & Space Operations
 
@@ -70,7 +72,7 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 
 ### MDS Gas Turbine Engine Solutions | Ottawa (ON), Canada | December 2013 — February 2022
 
-- Developed and deployed custom-built turbine test facilities to complete aero-mechanical testing for aviation, industrial, and marine Gas Turbine (GT) engines, emphasizing the following areas:
+- **Turnkey Facility Development** — Developed and deployed custom-built turbine test facilities to complete aero-mechanical testing for aviation, industrial, and marine Gas Turbine (GT) engines, emphasizing the following areas:
 	+ Data Acquisition System (DAS) applications and software development
 	+ Instrumentation and control systems
 	+ Mechanical static and dynamic systems (including rotor-dynamics)
@@ -106,6 +108,7 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 - **Documentation** — Authored and supervised technical documents like Engineering Specifications (ES), Design Briefs (DB), drawings (GA), Purchase Requests (PR), and Engineering Coordination Memos (ECM) for data acquisition software components, control/test systems, console design, and customer support.
 - **Customer Support** — Administered extensive client training, both on-site and remotely. Supported customers' operations of GT engine testing during and beyond the commissioning phase (Field Service Representative) for extended periods (6+ months). Troubleshot system behaviour anomalies and determined the root causes and the appropriate technical resolutions.
 - **Business Development Involvement** — Actively contributed to the company's growth, crafting compelling bids, proposals, and tenders.
+
 
 ## Combustion & Pollutant Emissions Engineer — Aerothermal
 

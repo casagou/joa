@@ -12,16 +12,16 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 
 # EXPERIENCE
 
-## Administrator Accounting
+## Accounting Administrator
 
-### Sarah Mae Ives Inc. | Vancouver (BC), Canada | August 2024 — now
+### Sarah Mae Ives Inc. (digital marketing firm) | Vancouver (BC), Canada | August 2024 — now
 
-- **Financial Operations Management** — Oversee daily financial workflows, including invoicing for over 100+ clients, processing payments for 10–20 contractors, and managing student account activities using platforms such as Kajabi, Stripe, Dubsado, and PayPal.
-- **Team Leadership** — Lead a cross-functional administrative team of 4–6 members, including tech support, media support, and moderators. Collaborated closely with the CEO to streamline workflows, enhance reporting processes, and improve overall organizational performance.
+- **Financial Operations Management** — Oversee daily financial workflows, including invoicing for over 100 clients, processing payments for 10–20 contractors, and managing student account activities using platforms such as Kajabi, Stripe, Dubsado, and PayPal.
+- **Team Leadership** — Lead a cross-functional administrative team of 4–6 members, including tech support, media support, and moderators. Collaborate closely with the CEO to streamline workflows, enhance reporting processes, and improve overall organizational performance.
 - **Contractor Payment Coordination** — Ensure timely and accurate payments through RBC PayEdge, conducting weekly transaction reconciliations to maintain financial integrity.
 - **Data Infrastructure Development** — Design and maintain a comprehensive Google Sheets database to track student enrollments, subscription statuses, payment histories, and sales activities, enhancing data accessibility and accuracy.
 - **Strategic Reporting** — Generate actionable reports and dashboards to support strategic planning and informed department decision-making.
-- **Customer Support & Issue Resolution** — Deliver responsive customer service via email and Slack, addressing account access issues, troubleshooting payment problems, and following up on failed transactions to ensure client satisfaction
+- **Customer Support & Issue Resolution** — Deliver responsive customer service via email and Slack, addressing account access issues, troubleshooting payment problems, and following up on failed transactions to ensure client satisfaction.
 - **Process Standardization** — Assist in structuring and enforcing standardized procedures for contracts, payments, and data integrity, promoting consistency and compliance across the organization.
 
 

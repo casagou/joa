@@ -57,15 +57,12 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 
 ### MDA | Brampton (ON), Canada | February 2022 — February 2023
 
-- **Space Systems Expertise** — Oversaw systems engineering for on-orbit and planetary robotic systems, conducting space operations.
-- **Project Management** — Coordinated day-to-day execution of the multi-disciplinary project teams, ensuring alignment with technical, budgetary, and scheduling goals.
-- **Requirements Architecture** — Established high-level system requirements from end-user needs and analyzed and decomposed systems-level requirements across subsystems, ensuring cohesiveness and clarity.
-- **Engineering Innovation** — Applied engineering insights for the design, development, test, integration, verification, validation and operation of cutting-edge space products and technologies.
-- **Design Strategy** — Advocated for design methodologies such as 'design to cost', 'design for test', and 'design for manufacture', optimizing commercial space system productions.
-- **Documentation** — Ensured comprehensive documentation of system architecture, interface requirements, and system/subsystem designs.
-- **Analysis and Modelling** — Led rigorous trade studies and modelling endeavours to provide a deeper understanding of system requirements and their progressive evolution.
-- **Test & Verification Leadership** — Crafted meticulous test plans and procedures, coordinated integration & testing activities, and assessed rigorous system requirements verification & validation.
-- **Problem Resolution** — Troubleshot system anomalies, diagnosed root causes, and collaborated on technical resolutions, frequently involving a deep dive into telemetry analysis.
+- **End-to-End Systems Engineering** — Led the full lifecycle development of advanced on-orbit and planetary robotic systems (e.g., robotic arms, autonomous systems for lunar/space station applications), from requirements architecture and trade studies through design, integration, documentation, and on-orbit verification, ensuring alignment with mission goals and timelines.
+- **Project Management** — Managed day-to-day execution across multi-disciplinary teams (mechanical, software, electrical, mission ops), ensuring delivery against technical, budgetary, and schedule commitments.
+- **Test & Verification Leadership** — Developed and executed comprehensive test plans, coordinated integration and verification activities, and validated system performance against rigorous spaceflight criteria.
+- **Design Optimization** — Applied methodologies such as design-to-cost and design-for-manufacture to streamline development, improve system robustness, and reduce integration time.
+- **Technical Documentation & Analysis** — Produced detailed system specifications, interface definitions, and analysis reports to support internal reviews, client deliverables, and mission readiness.
+- **Problem Solving & Support** — Diagnosed system anomalies through telemetry and root cause analysis, proposing corrective actions and supporting successful mission operations and handovers.
 - **Business Synergy** — Worked alongside project managers and stakeholders to keep projects on track and aided in cost estimation and proposals.
 
 

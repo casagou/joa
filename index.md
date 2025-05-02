@@ -8,7 +8,7 @@ title: Joachim Agou
 
 I am a mechanical and aerospace engineer with over a decade of experience leading complex engineering projects in the aerospace and energy sectors. My career has been defined by a commitment to innovation, precision, and delivering results under pressure.​
 
-Beyond engineering, I've channeled my passion for technology and creativity into founding and operating multiple ventures in Victoria, BC. These include a marketing agency, a drone-based aerial photography and video production company, a live-streaming production service, and an industrial consulting firm. These entrepreneurial endeavors have honed my skills in business development, operational management, and strategic planning.​
+Beyond engineering, I've channelled my passion for technology and creativity into founding and operating multiple ventures in Victoria, BC. These include a marketing agency, a drone-based aerial photography and video production company, a live-streaming production service, and an industrial consulting firm. These entrepreneurial endeavors have honed my skills in business development, operational management, and strategic planning.​
 
 Whether integrating advanced systems in space robotics or delivering high-quality visual content for diverse clients, I bring precision, adaptability, and a relentless focus on execution to every project.
 
@@ -26,7 +26,7 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 - **Contractor Payment Coordination** — Ensured timely and accurate payments through RBC PayEdge, conducting weekly transaction reconciliations to maintain financial integrity.
 - **Data Infrastructure Development** — Designed and maintained a comprehensive Google Sheets database to track student enrollments, subscription statuses, payment histories, and sales activities, enhancing data accessibility and accuracy.
 - **Team Leadership** — Led a cross-functional administrative team of 4–6 members, including tech support, media support, and moderators. Collaborated closely with the CEO to streamline workflows, enhance reporting processes, and improve overall organizational performance.
-- **Strategic Reporting** — Generated actionable reports and dashboards to support strategic planning and informed decision-making across departments.
+- **Strategic Reporting** — Generated actionable reports and dashboards to support strategic planning and informed department decision-making.
 - **Customer Support & Issue Resolution** — Delivered responsive customer service via email and Slack, addressing account access issues, troubleshooting payment problems, and following up on failed transactions to ensure client satisfaction
 - **Process Standardization** — Assisted in structuring and enforcing standardized procedures for contracts, payments, and data integrity, promoting consistency and compliance across the organization.
 
@@ -61,7 +61,7 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 - **Engineering Innovation** — Applied engineering insights for the design, development, test, integration, verification, validation and operation of cutting-edge space products and technologies.
 - **Design Strategy** — Advocated for design methodologies such as 'design to cost', 'design for test', and 'design for manufacture', optimizing commercial space system productions.
 - **Documentation** — Ensured comprehensive documentation of system architecture, interface requirements, and system/subsystem designs.
-- **Analysis and Modeling** — Led rigorous trade studies and modelling endeavours to provide a deeper understanding of system requirements and their progressive evolution.
+- **Analysis and Modelling** — Led rigorous trade studies and modelling endeavours to provide a deeper understanding of system requirements and their progressive evolution.
 - **Test & Verification Leadership** — Crafted meticulous test plans and procedures, coordinated integration & testing activities, and assessed rigorous system requirements verification & validation.
 - **Problem Resolution** — Troubleshot system anomalies, diagnosed root causes, and collaborated on technical resolutions, frequently involving a deep dive into telemetry analysis.
 - **Business Synergy** — Worked alongside project managers and stakeholders to keep projects on track and aided in cost estimation and proposals.
@@ -71,7 +71,7 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 
 ### MDS Gas Turbine Engine Solutions | Ottawa (ON), Canada | December 2013 — February 2022
 
-- Developed and deployed custom-built turbine test facilities to accommodate complete aero-mechanical testing for aviation, industrial, and marine Gas Turbine (GT) engines, emphasizing the following areas:
+- Developed and deployed custom-built turbine test facilities to complete aero-mechanical testing for aviation, industrial, and marine Gas Turbine (GT) engines, emphasizing the following areas:
 	+ Data Acquisition System (DAS) applications and software development
 	+ Instrumentation and control systems
 	+ Mechanical static and dynamic systems (including rotor-dynamics)
@@ -105,7 +105,7 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 - **Data Systems Mastery** — Tailored Data Acquisition System (DAS) and measuring instruments, prepared post-analysis report templates, created real-time display interfaces, and automated test sequences to meet customer needs.
 - **Gas Turbine Expertise** — Defined the relevant engine and facility metrics to be measured and calculated by the Data Acquisition System (DAS) for engine turbine testing, designed operational consoles integrating HMI controls, and developed comprehensive verification and test plans.
 - **Documentation** — Authored and supervised technical documents like Engineering Specifications (ES), Design Briefs (DB), drawings (GA), Purchase Requests (PR), and Engineering Coordination Memos (ECM) for data acquisition software components, control/test systems, console design, and customer support.
-- **Customer Support** — Administered extensive client training, both on-site and remotely. Supported customer's operations of GT engine testing during and beyond the commissioning phase (Field Service Representative) for extended periods (6+ months). Troubleshot system behaviour anomalies and determined the root causes and the appropriate technical resolutions.
+- **Customer Support** — Administered extensive client training, both on-site and remotely. Supported customers' operations of GT engine testing during and beyond the commissioning phase (Field Service Representative) for extended periods (6+ months). Troubleshot system behaviour anomalies and determined the root causes and the appropriate technical resolutions.
 - **Business Development Involvement** — Actively contributed to the company's growth, crafting compelling bids, proposals, and tenders.
 
 
@@ -126,13 +126,13 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 
 - **Biofuel Research** — Developed applications of liquid and gaseous biofuels for Gas Turbines and aircraft propulsion.
 - **Emissions Analysis** — Operated cutting-edge FTIR (Fourier Transformation Infrared) spectroscopy technology for a detailed combustion gas emissions study within swirl combustors.
-- **Spray Analysis** — Carried out in-depth experimental spray tests, leveraging Particle Image Velocimetry (PIV) and Computational Fluid Dynamics (CFD) techniques. The focus was predicting biodiesel spray attributes such as droplet size, velocity, and penetration.
+- **Spray Analysis** — Carried out in-depth experimental spray tests, leveraging Particle Image Velocimetry (PIV) and Computational Fluid Dynamics (CFD) techniques. The focus was on predicting biodiesel spray attributes such as droplet size, velocity, and penetration.
 - **Experimental Setup** — Designed and set up equipment for experiments, calibrated instrumentation, optimized data collection methods, and established benchmarks for test results. Executed hands-on tasks, including soldering, wiring, and the assembly of process equipment (mass flow controllers, piping, pumps, pressure chambers, heaters, valves, injectors, and heat exchangers).
 - **Data Management** — Launched a comprehensive Data Acquisition System (DAS), tailored a VBA program for extensive data interpretation, and contrasted test findings against empirical evidence.
 - **Mentorship** — Trained and supervised international summer interns and managed the team's technical proficiency.
 - **Documentation** — Authored detailed technical reports, documenting test protocols, safety measures, and research findings.
 - **Safety Training** — Rigorously completed WHMIS and WORKSMART training modules, ensuring the lab environment upheld paramount safety standards.
-- **Teaching Duties** — Crafted lectures on MAE Thermodynamics, directed laboratory sessions, and critically assessed student submissions in the form of lab reports ensuring academic rigour and understanding.
+- **Teaching Duties** — Crafted lectures on MAE Thermodynamics, directed laboratory sessions, and critically assessed student submissions in the form of lab reports, ensuring academic rigour and understanding.
 
 
 ## Independent Study in Mechanical Engineering — with Dr. Razvan Rusovici
@@ -447,4 +447,4 @@ Personal references are available upon request.
 
 online version available on LinkedIn <https://www.linkedin.com/in/joachimagou/>
 
-updated March 2023	Joachim Agou
+updated March 2025	Joachim Agou

@@ -14,7 +14,7 @@ Mechanical and aerospace engineer with over 12 years of experience leading multi
 
 ## Accounting & Operations Administrator
 
-### Sarah Mae Ives Inc. (Digital Marketing Firm) | Vancouver (BC), Canada | September 2024 — present
+### Sarah Mae Ives Social Media Inc. (Digital Marketing Firm) | Vancouver (BC), Canada | September 2024 — present
 
 - **Financial Management** — Oversee daily financial workflows. Administer invoicing for 100+ clients, process contractor payments via RBC PayEdge, and manage subscription transactions using Kajabi, Stripe, and PayPal.
 - **Team Coordination** — Lead a cross-functional admin team (4–6 people), including tech/media support and moderators; optimize workflows in collaboration with the CEO.

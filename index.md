@@ -5,12 +5,7 @@ title: Joachim Agou
 
 ### Mechanical Aerospace Engineer | Entrepreneur | Project Management | Systems Integration
 
-
-I am a mechanical and aerospace engineer with over a decade of experience leading complex engineering projects in the aerospace and energy sectors. My career has been defined by a commitment to innovation, precision, and delivering results under pressure.​
-
-Beyond engineering, I've channelled my passion for technology and creativity into founding and operating multiple ventures in Victoria, BC. These include a marketing agency, a drone-based aerial photography and video production company, a live-streaming production service, and an industrial consulting firm. These entrepreneurial endeavours have honed my skills in business development, operational management, and strategic planning.​
-
-Whether integrating advanced systems in space robotics or delivering high-quality visual content for diverse clients, I bring precision, adaptability, and a relentless focus on execution to every project.
+Mechanical and aerospace engineer with 12+ years of experience in complex engineering projects (aerospace, energy) and entrepreneurial ventures (marketing, media production, consulting). Proven leader in systems integration, project engineering, and business development. Skilled in innovation, precision, and delivering results under pressure. Bilingual English/French, with a track record of building client trust and driving innovation.
 
 ----
 
@@ -21,7 +16,7 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 
 ### Sarah Mae Ives Inc. | Vancouver (BC), Canada | August 2024 — now
 
-- **Financial Operations Management** — Oversee daily financial workflows, including invoicing for over 1,000 clients, processing contractor payments for 10–20 individuals, and managing student account activities using platforms such as Kajabi, Stripe, Dubsado, and PayPal.
+- **Financial Operations Management** — Oversee daily financial workflows, including invoicing for over 100+ clients, processing payments for 10–20 contractrors, and managing student account activities using platforms such as Kajabi, Stripe, Dubsado, and PayPal.
 - **Contractor Payment Coordination** — Ensure timely and accurate payments through RBC PayEdge, conducting weekly transaction reconciliations to maintain financial integrity.
 - **Data Infrastructure Development** — Design and maintained a comprehensive Google Sheets database to track student enrollments, subscription statuses, payment histories, and sales activities, enhancing data accessibility and accuracy.
 - **Team Leadership** — Lead a cross-functional administrative team of 4–6 members, including tech support, media support, and moderators. Collaborated closely with the CEO to streamline workflows, enhance reporting processes, and improve overall organizational performance.
@@ -41,7 +36,7 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 
 ## Restaurant Operations Manager – New Location Development
 
-### Victoria, BC, Canada | March 2024 – August 2024
+### Victoria, BC, Canada | March 2024 – September 2024
 
 - **Pre-Launch Execution** — Led the full pre-operational development of a new vegetarian buffet restaurant, including site selection, lease negotiation, permitting, and renovations. Although the launch was ultimately canceled, all planning and execution phases were successfully completed.
 - **Business Planning** — Developed a comprehensive business plan encompassing market analysis, brand positioning, pricing strategy, and financial projections aligned with the buffet service model.
@@ -49,6 +44,14 @@ Whether integrating advanced systems in space robotics or delivering high-qualit
 - **Menu & Recipe** — Partnered with chefs to create, cost, and test a diverse, buffet-style farm-to-table menu (where feasible), reflecting the brand’s nutritional and seasonal values.
 - **Staffing & Training** — Recruited and onboarded both front-of-house and kitchen staff. Designed training programs focused on operational efficiency, food safety, and consistent customer service delivery.
 - **Supplier & Vendor Management** — Built and maintained a network of local, sustainable suppliers. Negotiated and renewed vendor contracts for produce, kitchen equipment, cleaning services, and buffet infrastructure.
+
+## Career Break — Personal and Family Development
+
+###  Victoria, BC, Canada | February 2023 — May 2023
+
+- **Family Focus & Relocation** — Prioritized family commitments, successfully managing the logistics of relocating from Ontario to British Columbia. This period was dedicated to supporting a significant family transition and demonstrating strong organizational and planning skills.
+- ** Personal Development** — Engaged in continuous learning through online courses and workshops aimed at professional growth and maintaining industry relevance.
+- ** Skill Enhancement** — Utilized the period for self-improvement, including refining time management and adaptability skills, ensuring a smooth transition back into the professional environment with a fresh perspective and renewed focus.
 
 ## Senior Systems/ Project Engineer — Robotics & Space Operations
 

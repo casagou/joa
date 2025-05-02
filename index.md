@@ -5,7 +5,7 @@ title: Joachim Agou
 
 ### Mechanical Aerospace Engineer | Entrepreneur | Project Management | Systems Integration
 
-Mechanical and aerospace engineer with 12+ years of experience in complex engineering projects (aerospace, energy) and entrepreneurial ventures (marketing, media production, consulting). Proven track record in leading cross-functional teams, managing full project lifecycles, and driving operational excellence. Strong expertise in systems integration, data acquisition, and product development. Bilingual (English/French) with a focus on innovation, efficiency, and high-impact delivery in dynamic environments.
+Mechanical and aerospace engineer with over 12 years of experience leading multidisciplinary engineering projects across aerospace, energy, and technology sectors. Proven track record in systems integration, data acquisition, gas turbine testing, and robotic systems for space applications. Entrepreneurial and adaptable, with additional experience in business operations, media production, and consulting. Skilled in cross-functional leadership, full project lifecycle execution, and aligning technical solutions with organizational goals. Bilingual in French and English, with a collaborative, results-driven approach to innovation and continuous improvement.
 
 ----
 
@@ -16,59 +16,47 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 
 ### Sarah Mae Ives Inc. (Digital Marketing Firm) | Vancouver (BC), Canada | September 2024 — present
 
-- **Financial Operations Management** — Oversee daily financial workflows, including invoicing for over 100 clients, processing payments for 10–20 contractors, and managing student account activities using platforms such as Kajabi, Stripe, Dubsado, and PayPal.
-- **Team Leadership** — Lead a cross-functional administrative team of 4–6 members, including tech support, media support, and moderators. Collaborate closely with the CEO to streamline workflows, enhance reporting processes, and improve overall organizational performance.
-- **Contractor Payment Coordination** — Ensure timely and accurate payments through RBC PayEdge, conducting weekly transaction reconciliations to maintain financial integrity.
-- **Data Infrastructure Development** — Design and maintain a comprehensive Google Sheets database (CRM) to track student enrollments, subscription statuses, payment histories, and sales activities, enhancing data accessibility and accuracy.
-- **Strategic Reporting** — Generate actionable reports and dashboards to support strategic planning and informed department decision-making.
-- **Customer Support & Issue Resolution** — Deliver responsive customer service via email and Slack, addressing account access issues, troubleshooting payment problems, and following up on failed transactions to ensure client satisfaction.
-- **Process Standardization** — Assist in structuring and enforcing standardized procedures for contracts, payments, and data integrity, promoting consistency and compliance across the organization.
-
-
-- **Financial Management** — Administer invoicing for 100+ clients, process contractor payments via RBC PayEdge, and manage subscription transactions using Kajabi, Stripe, and PayPal.
+- **Financial Management** — Oversee daily financial workflows. Administer invoicing for 100+ clients, process contractor payments via RBC PayEdge, and manage subscription transactions using Kajabi, Stripe, and PayPal.
 - **Team Coordination** — Lead a cross-functional admin team (4–6 people), including tech/media support and moderators; optimize workflows in collaboration with the CEO.
-- **Data Systems Development** — Designed a centralized Google Sheets database for tracking student enrollment, subscriptions, payments, and sales, enhancing reporting accuracy.
+- **Data Systems Development** — Designed a centralized Google Sheets database (CRM) for tracking student enrollment, subscriptions, payments, and sales, enhancing reporting accuracy.
 - **Reporting & Analysis** — Produce weekly dashboards to support strategic planning and data-driven decisions.
 - **Customer Support** — Resolve client access and payment issues through email and Slack; track failed transactions to ensure account integrity.
 - **Process Improvement** — Standardize payment and contract workflows to increase efficiency and enforce compliance.
 
 
+## Founder & Consultant — Independent Ventures
 
-## Self-Employed – Entrepreneurship
-
-### Founder & Consultant, Independent Ventures | Victoria (BC) Canada | May 2023 – Present
+### Entrepreneurship | Victoria (BC) Canada | July 2023 – Present (concurrent with other roles)
 
 - **Aerial Media Production** — Establish and operate a drone-based imaging and video production service, delivering high-quality aerial photography and videography for diverse clients. Notable projects include coverage for conferences at the Fairmont Empress Hotel, the University of Victoria, Christ Church Cathedral, and the Alliance Française Victoria. These projects enhanced client marketing efforts and increased audience engagement.​
 - **Live Streaming Services** — Produce and manage live-streaming projects for various events, specializing in remote locations across Vancouver Island. Customized streaming solutions to meet client needs, effectively bridging distances for families and communities, and providing training to remote workers.​
-- **Industrial Engineering Consulting** — Provided expert consulting on the installation of industrial ovens and deployment of power backup systems for production plants. Delivered comprehensive solutions from conceptual design to implementation, focusing on efficiency, reliability, and safety to optimize operational performance.
+- **Engineering Consulting** — Advised industrial clients on the installation of industrial ovens and deployment of power backup systems for production plants. Delivered comprehensive solutions from conceptual design to implementation, focusing on efficiency, reliability, and safety to optimize operational performance.
 
 
-## Restaurant Operations Manager – New Location Development
+## Restaurant Operations Project Manager (Pre-Launch)
 
 ### Victoria (BC), Canada | March 2024 – September 2024
 
-- **Pre-Launch Execution** — Led the full pre-operational development of a new vegetarian buffet restaurant, including site selection, lease negotiation, permitting, and renovations. Although the launch was ultimately canceled, all planning and execution phases were successfully completed.
+- **Pre-Launch Execution** — Led the full pre-operational development of a new vegetarian buffet restaurant, including site selection, lease negotiation, permitting, recruiting and renovations. Although the launch was ultimately canceled, all planning and execution phases were successfully completed.
 - **Business Planning** — Developed a comprehensive business plan encompassing market analysis, brand positioning, pricing strategy, and financial projections aligned with the buffet service model.
 - **Operations & Regulatory Compliance** — Directed procurement, kitchen layout planning, and workflow design in line with the restaurant concept, while ensuring full adherence to local health, safety, and food service regulations, including FoodSafe certification and municipal inspections.
 - **Menu & Recipe** — Partnered with chefs to create, cost, and test a diverse, buffet-style farm-to-table menu (where feasible), reflecting the brand’s nutritional and seasonal values.
-- **Staffing & Training** — Recruited and onboarded both front-of-house and kitchen staff. Designed training programs focused on operational efficiency, food safety, and consistent customer service delivery.
 - **Supplier & Vendor Management** — Built and maintained a network of local, sustainable suppliers. Negotiated and renewed vendor contracts for produce, kitchen equipment, cleaning services, and buffet infrastructure.
 
 
 ## Career Break — Personal and Family Development
 
-###  Victoria (BC), Canada | February 2023 — May 2023
+###  Victoria (BC), Canada | February 2023 — July 2023
 
 - **Family Focus & Relocation** — Prioritized family commitments, successfully managing the logistics of relocating from Ontario to British Columbia. This period was dedicated to supporting a significant family transition and demonstrating strong organizational and planning skills.
 - **Personal Development** — Engaged in continuous learning through online courses and workshops aimed at professional growth and maintaining industry relevance.
-- **Skill Enhancement** — Utilized the period for self-improvement, including refining time management and adaptability skills, ensuring a smooth transition back into the professional environment with a fresh perspective and renewed focus.
 
 
 ## Senior Systems/ Project Engineer — Robotics & Space Operations
 
 ### MDA | Brampton (ON), Canada | February 2022 — February 2023
 
-- **End-to-End Systems Engineering** — Led the full lifecycle development of advanced on-orbit and planetary robotic systems (e.g., robotic arms, autonomous systems for lunar/space station applications), from requirements architecture and trade studies through design, integration, documentation, and on-orbit verification, ensuring alignment with mission goals and timelines.
+- **End-to-End Systems Engineering** — Led the full lifecycle development of advanced on-orbit and planetary robotic systems (e.g., robotic arms, autonomous systems for mars/lunar/international/space station), from requirements architecture and trade studies through design, integration, documentation, and on-orbit verification, ensuring alignment with mission goals and timelines.
 - **Project Management** — Managed day-to-day execution across multi-disciplinary teams (mechanical, software, electrical, mission ops), ensuring delivery against technical, budgetary, and schedule commitments.
 - **Test & Verification Leadership** — Developed and executed comprehensive test plans, coordinated integration and verification activities, and validated system performance against rigorous spaceflight criteria.
 - **Design Optimization** — Applied methodologies such as design-to-cost and design-for-manufacture to streamline development, improve system robustness, and reduce integration time.
@@ -111,7 +99,7 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 - **Technical Leadership** — Interpreted and translated client requirements into project specifications, organized work breakdown structures, generated requirements matrices, and executed comprehensive project plans. Steered design, procurement, manufacturing, assembly, installation, commissioning and testing activities while mitigating risks, managing budgets, and ensuring compliance.
 - **Systems Integration** — Oversaw the synergy of multi-disciplinary subsystems while coordinating with internal and external stakeholders. Reviewed engineering designs to ensure holistic conformance.
 - **Procurement Oversight** — Played an active role in vendor selection, oversaw procurement stages, and managed ERP system interfaces, ensuring seamless procurement processes.
-- **Global Client Engagements** — Represented the company globally for design consultations, on-site inspections, and commissioning. Conducted in-depth Acceptance Test Procedures (ATP) with clients and provided post-deployment support and training.
+- **Client Engagements** — Represented the company globally for design consultations, on-site inspections, and commissioning. Conducted in-depth Acceptance Test Procedures (ATP) with clients and provided post-deployment support and training.
 - **Data Systems Mastery** — Tailored Data Acquisition System (DAS) and measuring instruments, prepared post-analysis report templates, created real-time display interfaces, and automated test sequences to meet customer needs.
 - **Gas Turbine Expertise** — Defined the relevant engine and facility metrics to be measured and calculated by the Data Acquisition System (DAS) for engine turbine testing, designed operational consoles integrating HMI controls, and developed comprehensive verification and test plans.
 - **Documentation** — Authored and supervised technical documents like Engineering Specifications (ES), Design Briefs (DB), drawings (GA), Purchase Requests (PR), and Engineering Coordination Memos (ECM) for data acquisition software components, control/test systems, console design, and customer support.
@@ -189,18 +177,21 @@ Mechanical and aerospace engineer with 12+ years of experience in complex engine
 	- Turbomachinery, Gas Turbines/Jet Engines/Propulsion, Data Acquisition Systems
 	- Aerodynamics, Thermodynamics, Combustion, Fluid Dynamics, Energy and Climate Change
 
-+ Tools & Technologies:
-	- CFD Tools: Ansys Fluent, Ansys CFX, Ansys ICEM CFD, GAMBIT
++ Tools & Software:
+	- CFD & Simulation: Ansys Fluent, Ansys CFX, Ansys ICEM CFD, GAMBIT
 	- CAD/FEA: AutoCAD, SolidWorks, Pro/ENGINEER & Creo, CATIA, ANSYS Workbench & APDL, Cosmos Design, CNC Software/Mastercam
 	- Data Acquisition: NI LabVIEW, proDAS/nxDAS, iDDS, LaVision FlowMaster
-	- Software & Development: MS Excel/VBA, Python, MATLAB, Java, SQL, HTML/CSS, XML, Apache, LaTex, Mediawiki
-	- Computer Skills: MS Office 365, Unix/Linux (CentOS, Red Hat, Ubuntu), Networking, G Suite, Adobe Suite (Photoshop, Lightroom, XD, Premiere Pro), VMware, Wi-Fi Security (e.g., Kali Linux), Git/Subversion, Bug Tracking (e.g., Bugzilla, JIRA)
+	- Programming & Scripting: MS Excel/VBA, Python, MATLAB, Java, SQL, HTML/CSS, XML, Apache, LaTex, Mediawiki
+	- Productivity & Collaboration: MS Office 365, Unix/Linux (CentOS, Red Hat, Ubuntu), Networking, Google Workspace, Adobe Suite (Photoshop, Lightroom, XD, Premiere Pro), VMware, Wi-Fi Security (e.g., Kali Linux), Git/Subversion, Bug Tracking (e.g., Bugzilla, JIRA)
 	- Hardware Skills: Network Configuration, Tech Support, WAN/LAN and Routers
 	- Product Lifecycle Management: PTC Windchill, Omnify Empower
 
 + Interpersonal Skills:  Problem Solving, Team Leadership, Engineering Management, Training, Teaching, Negotiation
 
 + Languages:  English (Fluent), French (Native), Spanish (Limited working proficiency), Italian (Elementary), Hebrew (Elementary)
+
++ Interpersonal & Communication:
+	- Strong problem-solving skills, client-facing communication, team leadership, mentoring, and technical documentation
 
 ----
 

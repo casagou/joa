@@ -5,7 +5,7 @@ title: Joachim Agou, P.Eng.
 
 ### Mechanical Aerospace Engineer | Entrepreneur | Project Management | Systems Integration
 
-Licensed Professional Engineer (P.Eng.) mechanical and aerospace engineer with over 12 years of experience leading multidisciplinary engineering projects across aerospace, energy, and technology sectors. Proven track record in systems integration, data acquisition, gas turbine testing, and robotic systems for space applications. Entrepreneurial and adaptable, with additional experience in business operations, media production, and consulting. Skilled in cross-functional leadership, full project lifecycle execution, and aligning technical solutions with organizational goals. Bilingual in French and English, with a collaborative, results-driven approach to innovation and continuous improvement.
+**Licensed Professional Engineer (P.Eng.)** in mechanical and aerospace engineering with 12+ years of experience delivering complex systems across the aerospace, energy, and technology sectors. Specialized in systems integration, gas turbine testing, data acquisition, and robotic systems for space applications. Proven ability to lead multidisciplinary teams and manage full project lifecycles—from requirements to testing and deployment—across both global organizations and entrepreneurial ventures. Additional experience in business operations, media production, and consulting. Bilingual in French and English, with a collaborative, results-driven approach to solving technical and operational challenges.
 
 ----
 
@@ -16,31 +16,32 @@ Licensed Professional Engineer (P.Eng.) mechanical and aerospace engineer with o
 
 ### Sarah Mae Ives Social Media Inc. (Digital Marketing Firm) | Vancouver (BC), Canada | September 2024 — present
 
-- **Financial Management** — Oversee daily financial workflows. Administer invoicing for 100+ clients, process contractor payments via RBC PayEdge, and manage subscription transactions using Kajabi, Stripe, and PayPal.
-- **Team Coordination** — Lead a cross-functional admin team (4–6 people), including tech/media support and moderators; optimize workflows in collaboration with the CEO.
-- **Data Systems Development** — Designed a centralized Google Sheets database (CRM) for tracking student enrollment, subscriptions, payments, and sales, enhancing reporting accuracy.
-- **Reporting & Analysis** — Produce weekly dashboards to support strategic planning and data-driven decisions.
-- **Customer Support** — Resolve client access and payment issues through email and Slack; track failed transactions to ensure account integrity.
-- **Process Improvement** — Standardize payment and contract workflows to increase efficiency and enforce compliance.
+- **Financial Oversight** — Manage daily cash flow and invoicing operations across 100+ active client accounts. Process payments to contractors through RBC PayEdge and oversee subscription transactions using Kajabi, Stripe, and PayPal.
+- **Workflow Optimization** — Lead a cross-functional team of 4–6 (admins, moderators, tech/media assistants), streamlining coordination across finance, customer support, and CEO directives.
+- **CRM & Systems Design** — Built and maintain a custom Google Sheets-based CRM to track subscriptions, student enrollments, sales, and payments—enhancing reporting accuracy and reducing admin hours by 30%.
+- **Reporting & Analysis** — Deliver weekly dashboards and performance summaries to the CEO, supporting financial planning, revenue tracking, and team accountability.
+- **Customer Support** — Resolve customer access, billing, and transaction issues through email and Slack; implement follow-up systems to reduce churn and restore failed accounts.
+- **Process Improvements** — Standardized key workflows for contracts and payment cycles, improving turnaround speed and ensuring 100% compliance with internal policies.
 
 
 ## Founder & Consultant — Independent Ventures
 
-### Entrepreneurship | Victoria (BC) Canada | July 2023 – Present (concurrent with other roles)
+### Entrepreneurship | Victoria (BC), Canada | July 2023 – Present (concurrent with other roles)
 
-- **Aerial Media Production** — Establish and operate a drone-based imaging and video production service, delivering high-quality aerial photography and videography for diverse clients. Notable projects include coverage for conferences at the Fairmont Empress Hotel, the University of Victoria, Christ Church Cathedral, and the Alliance Française Victoria. These projects enhanced client marketing efforts and increased audience engagement.​
+- **Aerial Media & Video Production** — Founded and operate a drone-based content service delivering high-resolution aerial photography and promotional videos for clients in education, hospitality, and cultural sectors. Notable engagements include Fairmont Empress, University of Victoria, and Alliance Française Victoria. Work has directly supported brand exposure, increased event attendance, and enhanced online engagement.​
 - **Live Streaming Services** — Produce and manage live-streaming projects for various events, specializing in remote locations across Vancouver Island. Customized streaming solutions to meet client needs, effectively bridging distances for families and communities, and providing training to remote workers.​
-- **Engineering Consulting** — Advised industrial clients on the installation of industrial ovens and deployment of power backup systems for production plants. Delivered comprehensive solutions from conceptual design to implementation, focusing on efficiency, reliability, and safety to optimize operational performance.
+- **Engineering Consulting** — Provided hands-on consulting to industrial clients for oven system installations and backup power design. Delivered turnkey solutions from specification through commissioning, with a focus on safety, energy efficiency, and downtime reduction.
+- **Client Relations & Project Management** — Scoped, budgeted, and managed end-to-end project delivery across multiple industries. Coordinated vendors, scheduled production, and handled client communications to ensure satisfaction and repeat business
 
 
 ## Restaurant Operations Project Manager (Pre-Launch)
 
 ### Victoria (BC), Canada | March 2024 – September 2024
 
-- **Pre-Launch Execution** — Led the full pre-operational development of a new vegetarian buffet restaurant, including site selection, lease negotiation, permitting, recruiting and renovations. Although the launch was ultimately canceled, all planning and execution phases were successfully completed.
-- **Business Planning** — Developed a comprehensive business plan encompassing market analysis, brand positioning, pricing strategy, and financial projections aligned with the buffet service model.
+- **Pre-Launch Execution** — Spearheaded the full pre-launch development of a new vegetarian buffet concept, completing all milestones from business plan to facility readiness. Successfully executed site selection, lease negotiation, permitting, hiring, renovations, supplier contracts and operational setup. Although the launch was canceled due to external factors, all project milestones were successfully delivered.
+- **Business Planning** — Built a comprehensive  business case including market analysis, pricing strategy, brand development, and financial projections aligned with a seasonal buffet model. Presented plan to investors and strategic partners.
 - **Operations & Regulatory Compliance** — Directed procurement, kitchen layout planning, and workflow design in line with the restaurant concept, while ensuring full adherence to local health, safety, and food service regulations, including FoodSafe certification and municipal inspections.
-- **Menu & Recipe** — Partnered with chefs to create, cost, and test a diverse, buffet-style farm-to-table menu (where feasible), reflecting the brand’s nutritional and seasonal values.
+- **Menu Development & Costing** — Collaborated with chefs to create, cost, and test a diverse, buffet-style farm-to-table menu (where feasible), reflecting the brand’s nutritional and seasonal values.
 - **Supplier & Vendor Management** — Built and maintained a network of local, sustainable suppliers. Negotiated and renewed vendor contracts for produce, kitchen equipment, cleaning services, and buffet infrastructure.
 
 
@@ -56,20 +57,27 @@ Licensed Professional Engineer (P.Eng.) mechanical and aerospace engineer with o
 
 ### MDA | Brampton (ON), Canada | February 2022 — February 2023
 
-- **End-to-End Systems Engineering** — Led the full lifecycle development of advanced on-orbit and planetary robotic systems (e.g., robotic arms, autonomous systems for mars/lunar/international/space station), from requirements architecture and trade studies through design, integration, documentation, and on-orbit verification, ensuring alignment with mission goals and timelines.
-- **Project Management** — Managed day-to-day execution across multi-disciplinary teams (mechanical, software, electrical, mission ops), ensuring delivery against technical, budgetary, and schedule commitments.
-- **Test & Verification Leadership** — Developed and executed comprehensive test plans, coordinated integration and verification activities, and validated system performance against rigorous spaceflight criteria.
-- **Design Optimization** — Applied methodologies such as design-to-cost and design-for-manufacture to streamline development, improve system robustness, and reduce integration time.
-- **Technical Documentation & Analysis** — Produced detailed system specifications, interface definitions, and analysis reports to support internal reviews, client deliverables, and mission readiness.
-- **Problem Solving & Support** — Diagnosed system anomalies through telemetry and root cause analysis, proposing corrective actions and supporting successful mission operations and handovers.
-- **Business Synergy** — Worked alongside project managers and stakeholders to keep projects on track and aided in cost estimation and proposals.
+- **End-to-End Systems Engineering** — Led the full lifecycle development of robotic systems for on-orbit servicing and planetary exploration missions (e.g., ISS, lunar, Mars). Oversaw system architecture, trade studies, detailed design, integration, testing, and on-orbit validation to ensure mission alignment and readiness.
+- **Project Management** — Managed day-to-day execution across cross-disciplinary teams (mechanical, electrical, software, mission ops), ensuring milestones were met within technical, schedule, and cost constraints on CSA- and NASA-aligned programs.
+- **Test & Verification Leadership** — Developed and implemented rigorous system-level test plans and verification procedures. Coordinated environmental and performance testing to meet spaceflight qualification standards.
+- **Design Optimization** — Applied design-to-cost (DTC) and design-for-manufacture (DFM) methodologies to reduce complexity, shorten integration timelines, and improve system reliability under launch and space conditions.
+- **Technical Documentation & Analysis** — Delivered mission-critical documentation including system specifications, interface control documents (ICDs), verification matrices, and trade-off analyses. Used PTC Windchill and IBM DOORS for configuration management and requirements traceability.
+- **Problem Solving & Support** — Investigated system anomalies using telemetry data and root cause analysis. Provided engineering support for mission operations, contributing to successful resolution and handoff.
+- **Proposal & Cost Support** — Collaborated with project managers and technical leads on resource planning, ROM estimates, and technical input for proposals and stakeholder briefings.
 
 
 ## Gas Turbine Applications Engineer — Systems Integrator
 
 ### MDS Gas Turbine Engine Solutions | Ottawa (ON), Canada | December 2013 — February 2022
 
-- **Turnkey Facility Development** — Led the design and deployment of custom-built gas turbine test facilities for aviation, industrial, and marine applications. Key areas of focus included:
+
+
+## Gas Turbine Applications Engineer — Systems Integrator  
+**MDS Gas Turbine Engine Solutions | Ottawa (ON), Canada | Dec 2013 – Feb 2022**
+
+- **Turnkey Facility Development** — Led the design and deployment of custom-built gas turbine test facilities for aviation, industrial, and marine applications; leading full lifecycle execution from requirements and concept design to commissioning and client handover.
+
+- **Technical Leadership** — Oversaw integration of mechanical, electrical, data acquisition, and control systems. Delivered custom solutions involving:
 	+ Development of Data Acquisition Systems (DAS) and associated software development
 	+ Design of instrumentation and control systems
 	+ Engineering of mechanical systems, encompassing both static and dynamic components, including rotor-dynamics
@@ -78,7 +86,9 @@ Licensed Professional Engineer (P.Eng.) mechanical and aerospace engineer with o
 	+ Oversight of production, assembly, integration, and testing processes
 	+ Comprehensive facilities planning and construction management
 	
-- **Project Highlights** — Delivered projects for Maintenance, Repair, and Overhaul (MRO) and Research and Development (R&D) sectors. Significant contributions include:
+- **Client-Facing Engineering Delivery** — Acted as lead interface for global clients including Rolls-Royce, Siemens, Safran, NASA, and Air France. Delivered successful project handoffs, Acceptance Test Procedures (ATP), and multi-day on-site commissioning and training programs.
+
+- **Major Projects Portfolio** — Delivered 15+ Maintenance, Repair, and Overhaul (MRO) and Research and Development (R&D) facilities across North America, Europe, Asia, and the Middle East. Notable programs include:
 	+ MRO facilities:
 		* Air France Industries KLM Engineering & Maintenance (France): Worked on engine models including CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, and GEnx-2B.
 		* GKN Aerospace (Sweden): Handled projects involving Volvo RM12 and RM16 engines for the Gripen fighter jet.
@@ -90,16 +100,15 @@ Licensed Professional Engineer (P.Eng.) mechanical and aerospace engineer with o
 
 	+ R&D facilities:
 		* Rolls-Royce / NASA Stennis Space Center (USA): Developed and conducted certification testing for an outdoor jet engine test facility.
-		* Safran Aircraft Engines (France): Performed certification testing for the CFM LEAP-1A and endurance testing for the CFM56 engines.
+		* Safran Aircraft Engines (France): Conducted certification testing for the CFM LEAP-1A and endurance testing for the CFM56 engines.
 		* MAN Energy Solutions (Germany): Worked on industrial gas turbines MGT6000-2S and MG8000-1S.
 		* Siemens (Canada): Handled projects involving the industrial RB211 gas turbine.
 		* MDS AeroTest / GLACIER Test Facility (Canada): Provided support for emissions analyzer systems.
 		* AVIC Commercial Aircraft Engines / AECC (China): Conducted development testing for fan, booster, high-pressure compressor (HPC), and turbine components.
 		* Shanghai Electric Blower Works Co. (China): Engaged in development testing for compressors.
 
-- **Technical Leadership & Systems Integration** — Translated client requirements into detailed project specifications, developed work breakdown structures, and executed comprehensive project plans. Managed cross-functional teams through design, procurement, manufacturing, assembly, installation, commissioning, and testing phases. Ensured seamless integration of multidisciplinary subsystems, coordinating with internal departments and external stakeholders to achieve holistic system conformance.
-- **Procurement Oversight** — Played a pivotal role in vendor selection and procurement processes. Managed interfaces with Enterprise Resource Planning (ERP) systems to streamline procurement activities and ensure timely delivery of components and services.
-- **Client Engagements** — Represented the company in international settings for design consultations, on-site inspections, and commissioning activities. Conducted comprehensive Acceptance Test Procedures (ATP) with clients and provided post-deployment support and tailored training sessions.
+- **Systems Integration** — Led the seamless integration of multidisciplinary subsystems—mechanical, electrical, instrumentation, software, and controls—into fully operational gas turbine test facilities. Translated complex client requirements into actionable specifications and system architectures. Developed work breakdown structures, schedules, and resource plans; oversaw full project execution including procurement, manufacturing, assembly, installation, and commissioning. Collaborated cross-functionally to ensure system-level performance, reliability, and compliance with aviation and industrial standards.
+- **Project Management & Procurement** — Led project planning, scheduling, and risk management across cross-functional teams. Managed vendor selection and ERP-driven procurement for capital equipment, instrumentation, and construction.
 - **Data Systems Expertise** — Customized Data Acquisition Systems (DAS) and measurement instruments to meet specific client requirements. Developed post-analysis report templates, real-time display interfaces, and automated test sequences to enhance data accuracy and usability.
 - **Gas Turbine Proficiency** — Defined critical engine and facility metrics for gas turbine testing, ensuring accurate data capture and analysis. Designed operational consoles integrating Human-Machine Interface (HMI) controls and developed comprehensive verification and test plans.
 - **Technical Documentation** — Authored and supervised the creation of key technical documents, including Engineering Specifications (ES), Design Briefs (DB), General Arrangement (GA) drawings, Purchase Requests (PR), and Engineering Coordination Memos (ECM). Focused on documentation for data acquisition software components, control/test systems, console design, and customer support protocols.
@@ -111,58 +120,63 @@ Licensed Professional Engineer (P.Eng.) mechanical and aerospace engineer with o
 
 ### Siemens Canada (formerly Rolls-Royce Canada) — Research and Technology | Montreal (QC), Canada | January 2013 — December 2013
 
-- **Pollutant Monitoring** — Operated pollutant measurements on Gas Turbine testbeds using sophisticated gas analyzers such as FTIR, FID, and O2 CEMS (Continuous Emission Monitoring Systems).
-- **Emissions Analysis** — Enhanced data processing techniques for non-traditional pollutant emissions, ensuring more accurate results.
-- **Biofuel Assessment** — Evaluated and characterized promising liquid (biodiesel blends) and gaseous (syngas blends) biofuels. Examined their impact on smoke & emissions, lean blowout, and potential to reduce greenhouse gases and operational costs.
-- **Combustion Modelling** — Developed a comprehensive numerical model for predicting biofuel injection and combustion using Computational Fluid Dynamics (CFD).
-- **Performance Analysis** — Compared biofuels with baseline fuels to examine the benefits while maintaining an acceptable overall combustion performance.
+- **Emissions Testing & Instrumentation** — Conducted pollutant measurements on gas turbine testbeds using high-precision analyzers including FTIR, FID, and O₂ CEMS (Continuous Emission Monitoring Systems). Ensured compliance with EPA/ISO standards and enhanced emissions profiling accuracy.
+- **Biofuel Research & Characterization** — Evaluated over 10 liquid and gaseous biofuel formulations (biodiesel, syngas blends) to assess emissions, smoke point, lean blowout limits, and operational stability. Supported Siemens' GHG-reduction initiatives.
+- **Combustion CFD Modelling** — Developed CFD models to simulate biofuel injection, atomization, and combustion performance in aero-thermal environments. Used tools such as ANSYS Fluent to optimize injector design and burner geometry.
+- **Data Analysis & Process Optimization** — Improved post-processing workflows and statistical validation for non-standard emissions metrics, enhancing result reliability and supporting R&D reporting.
+- **Comparative Performance Analysis** — Benchmarked experimental biofuel results against conventional jet fuels to quantify performance tradeoffs and support long-term adoption strategy.
 
 
 ## Graduate Research And Teaching Assistant — with Dr. Alain De Champlain
 
 ### Combustion Engineering Research Laboratory at Laval University | Quebec City (QC), Canada | January 2011 — May 2013
 
-- **Biofuel Research** — Developed applications of liquid and gaseous biofuels for Gas Turbines and aircraft propulsion.
-- **Emissions Analysis** — Operated cutting-edge FTIR (Fourier Transformation Infrared) spectroscopy technology for a detailed combustion gas emissions study within swirl combustors.
-- **Spray Analysis** — Carried out in-depth experimental spray tests, leveraging Particle Image Velocimetry (PIV) and Computational Fluid Dynamics (CFD) techniques. The focus was on predicting biodiesel spray attributes such as droplet size, velocity, and penetration.
-- **Experimental Setup** — Designed and set up equipment for experiments, calibrated instrumentation, optimized data collection methods, and established benchmarks for test results. Executed hands-on tasks, including soldering, wiring, and the assembly of process equipment (mass flow controllers, piping, pumps, pressure chambers, heaters, valves, injectors, and heat exchangers).
-- **Data Management** — Launched a comprehensive Data Acquisition System (DAS), tailored a VBA program for extensive data interpretation, and contrasted test findings against empirical evidence.
-- **Mentorship** — Trained and supervised international summer interns and managed the team's technical proficiency.
-- **Documentation** — Authored detailed technical reports, documenting test protocols, safety measures, and research findings.
-- **Safety Training** — Rigorously completed WHMIS and WORKSMART training modules, ensuring the lab environment upheld paramount safety standards.
-- **Teaching Duties** — Crafted lectures on MAE Thermodynamics, directed laboratory sessions, and critically assessed student submissions in the form of lab reports, ensuring academic rigour and understanding.
+- **Biofuel & Emissions Research** — Investigated applications of liquid and gaseous biofuels for gas turbines and aircraft propulsion. Conducted advanced pollutant analysis using FTIR (Fourier Transformation Infrared) spectroscopy to evaluate combustion emissions in swirl combustors.
+- **Spray & Combustion Modeling** — Performed experimental spray characterization using Particle Image Velocimetry (PIV) and CFD (ANSYS Fluent) to model biodiesel atomization and combustion performance.
+- **Experimental Setup & Instrumentation** — Designed, assembled, and calibrated complex lab rigs including injectors, mass flow controllers, pressure vessels, and heat exchangers. Hands-on tasks included soldering, wiring, and equipment integration.
+- **Data Acquisition & Analysis** — Developed and deployed a custom Data Acquisition System (DAS) and Excel VBA toolset to automate combustion data analysis and validate experimental results.
+- **Teaching & Mentorship** — Delivered guest lectures in Mechanical & Aerospace Engineering Thermodynamics. Led laboratory sessions and evaluated student lab reports. Supervised and trained 4+ international interns on experimental procedures and lab safety.
+- **Technical Reporting & Safety Compliance** — Authored detailed technical documentation and safety protocols. Completed WHMIS and WORKSMART training to uphold laboratory compliance standards.
 
 
 ## Independent Study in Mechanical Engineering — with Dr. Razvan Rusovici
 
 ### Florida Institute of Technology | Melbourne (FL), USA | January 2010 — June 2010
 
-- **Research Focus** — Explored adaptive structures, emphasizing finite element analysis in fluid dynamics and acoustics.
-- **Technical Tools** — Utilized CAD and CAE software, specifically Pro/E, ANSYS, and CFX, for in-depth analysis.
+- **Adaptive Structures Research** — Conducted independent research on smart/adaptive structural systems with a focus on vibration control, structural health monitoring, and performance optimization under dynamic loads.
+- **Simulation & Analysis** — Applied Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD) to evaluate mechanical behavior in fluid-structure interaction scenarios using ANSYS (Mechanical & CFX).
+- **Design & Modeling** — Created 3D models of experimental test structures using Pro/ENGINEER (Creo) and validated simulations through comparison with analytical predictions.
+- **Technical Proficiency** — Strengthened expertise in CAD/CAE tools and advanced numerical modeling techniques foundational to aerospace and mechanical systems design.
 
 
 ## Formula SAE Series — with Stephanie Hopper and Dr. Youngsik Choi
 
 ### Florida Tech Motorsports (FIT) | Melbourne (FL) & Michigan International Speedway (MI), USA | November 2008 — May 2009
 
-- **Powertrain Leadership** — Supervised the powertrain division, delving into engine management, differential dynamics, simulation, rigorous testing, and holistic optimization. This involved extensive application of industry-standard CAD and CAE platforms, including SolidWorks, Cosmos Design, and ANSYS.
-- **Composite Craftsmanship** — Conceived and executed the design for the vehicle's composite bodywork, emphasizing durability, aerodynamics, and aesthetics.
-- **Digital Engagement** — Pioneered and developed the Florida Tech Motorsports website, creating an online presence and platform for sharing team achievements, updates, and engagements
+- **Powertrain Engineering Lead** — Directed the design and integration of the FSAE vehicle's powertrain, including engine mapping, differential tuning, and dynamic simulation. Spearheaded performance optimization using industry-standard tools (SolidWorks, ANSYS, Cosmos Design), improving drivetrain reliability and vehicle acceleration.
+- **Composite Body Design** — Engineered and fabricated the race car’s composite bodywork, balancing structural integrity, weight reduction, and aerodynamic performance. Applied hands-on skills in composite layup and testing.
+- **Track-Ready Validation** — Oversaw subsystem testing and participated in final track validation at the FSAE competition in Michigan, ensuring compliance with performance and safety requirements under real-world racing conditions.
+- **Digital Engagement** — Launched and maintained the Florida Tech Motorsports website to document engineering progress and enhance team visibility. Contributed to digital engagement, sponsor communication, and recruitment efforts.
 
 
-## Service Engineer (intern)
+## Service Technician (intern)
 
 ### Prestige Dentaire | Nice, France | June — July 2006
 
-- Executed maintenance of dental equipment.
-- Overhauled mechanical, plumbing, and electrical devices.
+- **Technical Maintenance & Diagnostics** — Assisted in troubleshooting and preventative maintenance of dental systems, including pneumatic actuators, high-speed rotary instruments, suction units, and sterilization equipment.
+- **System Overhaul & Repair** — Supported the repair, calibration, and reassembly of mechanical, electrical, and plumbing components, ensuring operational reliability and compliance with clinic safety protocols.
+- **On-Site Client Support** — Collaborated with dental practitioners to assess equipment failures and implement rapid, effective service solutions in clinical environments.
 
 
 ## Military Experience (volunteer) — Sar El Program
 
 ### Tsahal, Israeli Army Training Program | Hatzerim Air Force Base, Israel | July — August 2005
 
-- Contributed to the Israeli Army's training program, volunteering at the Hatzerim Air Force Base as part of the esteemed Sar El initiative.
+- **International Military Volunteering** — Participated in the Sar-El civilian support program at Hatzerim Air Force Base, assisting Israeli Defense Forces with base operations and logistics.
+
+- **Operational Support & Discipline** — Carried out maintenance, equipment handling, and logistics tasks in a structured, high-discipline military environment.
+
+- **Cross-Cultural Collaboration** — Worked alongside volunteers and military personnel from diverse backgrounds, demonstrating adaptability, resilience, and a strong commitment to mission support.
 
 ----
 

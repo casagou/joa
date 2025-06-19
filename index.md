@@ -18,7 +18,7 @@ title: Joachim Agou, P.Eng.
 
 - **Financial Oversight** — Manage daily cash flow and invoicing operations across 100+ active client accounts. Process payments to contractors through RBC PayEdge and oversee subscription transactions using Kajabi, Stripe, and PayPal.
 - **Workflow Optimization** — Lead a cross-functional team of 4–6 (admins, moderators, tech/media assistants), streamlining coordination across finance, customer support, and CEO directives.
-- **CRM & Systems Design** — Built and maintain a custom Google Sheets-based CRM to track subscriptions, student enrollments, sales, and payments—enhancing reporting accuracy and reducing admin hours by 30%.
+- **CRM & Systems Design** — Built and maintain an end-to-end custom Google Sheets-based CRM to track subscriptions, student enrollments, sales, and payments—enhancing reporting accuracy and reducing admin hours by 30%.
 - **Reporting & Analysis** — Deliver weekly dashboards and performance summaries to the CEO, supporting financial planning, revenue tracking, and team accountability.
 - **Customer Support** — Resolve customer access, billing, and transaction issues through email and Slack; implement follow-up systems to reduce churn and restore failed accounts.
 - **Process Improvements** — Standardized key workflows for contracts and payment cycles, improving turnaround speed and ensuring 100% compliance with internal policies.
@@ -30,11 +30,11 @@ title: Joachim Agou, P.Eng.
 
 - **Aerial Media & Video Production** — Founded and operate a drone-based content service delivering high-resolution aerial photography and promotional videos for clients in education, hospitality, and cultural sectors. Notable engagements include Fairmont Empress, University of Victoria, and Alliance Française Victoria. Work has directly supported brand exposure, increased event attendance, and enhanced online engagement.​
 - **Live Streaming Services** — Produce and manage live-streaming projects for various events, specializing in remote locations across Vancouver Island. Customized streaming solutions to meet client needs, effectively bridging distances for families and communities, and providing training to remote workers.​
-- **Engineering Consulting** — Provided hands-on consulting to industrial clients for oven system installations and backup power design. Delivered turnkey solutions from specification through commissioning, with a focus on safety, energy efficiency, and downtime reduction.
+- **Engineering Consulting** — Provided hands-on technical consulting to industrial clients for oven system installations and backup power design. Delivered turnkey solutions from specification through commissioning, with a focus on safety, energy efficiency, and downtime reduction.
 - **Client Relations & Project Management** — Scoped, budgeted, and managed end-to-end project delivery across multiple industries. Coordinated vendors, scheduled production, and handled client communications to ensure satisfaction and repeat business
 
 
-## Restaurant Operations Project Manager (Pre-Launch)
+## Project Manager — Restaurant Operations (Pre-Launch)
 
 ### Victoria (BC), Canada | March 2024 – September 2024
 
@@ -43,6 +43,8 @@ title: Joachim Agou, P.Eng.
 - **Operations & Regulatory Compliance** — Directed procurement, kitchen layout planning, and workflow design in line with the restaurant concept, while ensuring full adherence to local health, safety, and food service regulations, including FoodSafe certification and municipal inspections.
 - **Menu Development & Costing** — Collaborated with chefs to create, cost, and test a diverse, buffet-style farm-to-table menu (where feasible), reflecting the brand’s nutritional and seasonal values.
 - **Supplier & Vendor Management** — Built and maintained a network of local, sustainable suppliers. Negotiated and renewed vendor contracts for produce, kitchen equipment, cleaning services, and buffet infrastructure.
+
+* This venture further strengthened my project management, vendor negotiation, and regulatory navigation skills—transferable to both technical and business environments.
 
 
 ## Career Break — Personal and Family Development
@@ -69,11 +71,6 @@ title: Joachim Agou, P.Eng.
 ## Gas Turbine Applications Engineer — Systems Integrator
 
 ### MDS Gas Turbine Engine Solutions | Ottawa (ON), Canada | December 2013 — February 2022
-
-
-
-## Gas Turbine Applications Engineer — Systems Integrator  
-**MDS Gas Turbine Engine Solutions | Ottawa (ON), Canada | Dec 2013 – Feb 2022**
 
 - **Turnkey Facility Development** — Led the design and deployment of custom-built gas turbine test facilities for aviation, industrial, and marine applications; leading full lifecycle execution from requirements and concept design to commissioning and client handover.
 
@@ -301,7 +298,7 @@ Engineering Sciences.
 ----
 
 
-# PUBLICATIONS / CONFERENCE PAPERS
+# 📚 PUBLICATIONS & CONFERENCE PRESENTATIONS
 
 * J. Agou, B. Paquet & A. deChamplain.
 	“Emission Measurements of Various Biofuels using a Commercial Swirl-Type Air-Assist Dual Fuel Injector” (with presentation), The Combustion Institute Canadian Section (CICS), Spring Technical Meeting, Université Laval, Quebec
@@ -314,63 +311,75 @@ Engineering Sciences.
 ----
 
 
-# CERTIFICATIONS & TRAININGS
+# 🛠️ CERTIFICATIONS & TRAININGS
 
-* Aerial Lifts & Aerial Work Platforms [Mar 2017], Worksite Safety Compliance Center, Certificate 156AWP-64
-* Airport Security Awareness Training Certificate [Jun 2014], Butterfly Aero Training, License GB81580A20140623
-* AODA Customer Service Training [Sep 2014], MDS Gas Turbine Engine Solutions
-* AODA Training [Feb 2022], MDA
-* COVID-19 Employee Health and Safety Training [Jun 2020], MDS Gas Turbine Engine Solutions
-* Electrical Safety Awareness [Feb 2022], MDA
-* Elevated Work Platform - Safety Training, CRS Contractors Rental Supply
-* Emergency First Aid – Cardiopulmonary resuscitation (CPR) and automated external defibrillator (AED), Canadian Red Cross, Jennifer Sybrandy, Certificate 30200842
-* ESD (Electrostatic Discharge) Control [Feb 2022], MDA
-* Fall Protection - Safety Training, CRS Contractors Rental Supply
-* Instant HR - Workplace Hazards Training, MDS Gas Turbine Engine Solutions
-* IT Risk and Cybersecurity Training for Employees [Aug 2019], MDS Gas Turbine Engine Solutions
-* Laser Safety Certificate [May 2011], Université Laval, License CAN/CSA E-60825-1:03; IEC 60825-1
-* Laser Safety Training [Feb 2022], MDA
-* Lockout/Tagout - Control of Hazardous Energy Training, MDS Gas Turbine Engine Solutions
-* NEXUS [Jan 2019], Canada Border Services Agency
-* Occupational Health and Safety Awareness Training for Workers in Ontario, MDS Gas Turbine Engine Solutions
-* PMP® Exam Prep Seminar [Nov 2018], Instructingcom, LLC, ID 109EPSWB
-* Standard First Aid and CPR level C and AED [Jul 2021], Ottawa Paramedic Service Headquarters
-* Task Area Awareness [Feb 2022], MDA
-* WHMIS Training [Jan 2015], MDS Gas Turbine Engine Solutions
-* WHMIS (Workplace Hazardous Materials Information System), Université Laval
-* WHMIS 2015 New Hire Assessement [Feb 2022], MDA
-* Working at Heights Training [Aug 2019], Safety Training Ottawa, Debbie Desaulniers, WAH-34633
-* Working at Heights Training [Jul 2016], LaborTek Personnel, WAH-34595
+### 🔧 Engineering & Technical Safety
+- PMP® Exam Prep Seminar — Instructingcom, LLC | Nov 2018 | ID 109EPSWB
+- ESD (Electrostatic Discharge) Control — MDA | Feb 2022
+- Electrical Safety Awareness — MDA | Feb 2022
+- Laser Safety Certificate — Université Laval | May 2011 | License: CAN/CSA E-60825-1:03; IEC 60825-1
+- Laser Safety Training — MDA | Feb 2022
+- Lockout/Tagout – Control of Hazardous Energy Training — MDS Gas Turbine Engine Solutions
+- Instant HR – Workplace Hazards Training — MDS Gas Turbine Engine Solutions
+- IT Risk and Cybersecurity Training for Employees — MDS | Aug 2019
+- Occupational Health and Safety Awareness Training for Workers in Ontario — MDS Gas Turbine Engine Solutions
+- Task Area Awareness — MDA | Feb 2022
+- AODA Customer Service Training — MDS | Sep 2014
+- AODA Training — MDA | Feb 2022
+- COVID-19 Employee Health and Safety Training — MDS | Jun 2020
 
-----
+### 🦺 Construction & Site Access Training
+- Working at Heights Training — Safety Training Ottawa | Aug 2019 | Debbie Desaulniers | WAH-34633
+- Working at Heights Training — LaborTek Personnel | Jul 2016 | WAH-34595
+- Aerial Lifts & Aerial Work Platforms — Worksite Safety Compliance Center | Mar 2017 | Certificate 156AWP-64
+- Elevated Work Platform – Safety Training — CRS Contractors Rental Supply
+- Fall Protection – Safety Training — CRS Contractors Rental Supply
 
+### ⛑️ First Aid & Emergency Response
+- Standard First Aid, CPR Level C & AED — Ottawa Paramedic Service HQ | Jul 2021
+- Emergency First Aid – CPR & AED — Canadian Red Cross | Certificate #30200842 | Trainer: Jennifer Sybrandy
 
-# AWARDS
+### 🛃 Security & Compliance
+- Airport Security Awareness Training Certificate — Butterfly Aero Training | Jun 2014 | License GB81580A20140623
+- WHMIS (Workplace Hazardous Materials Information System)
+	- Université Laval | Date Not Specified
+	- MDS Gas Turbine Engine Solutions | Jan 2015
+	- WHMIS 2015 New Hire Assessment — MDA | Feb 2022
 
-## Engineering & Science Student Design Showcase
-
-**April 2009
-Melbourne, FL**
-
-* Best Mechanical Engineering Senior Design Project award with Formula SAE Project (Florida Tech Motorsports).
+### 🌎 Border Security & Identification
+- NEXUS — Canada Border Services Agency | Since Jan 2019
 
 ----
 
 
-# GROUPS & ASSOCIATIONS
+# 🏆 AWARDS
 
-* Professional Engineer (P.Eng.) - Professional Engineer and Geoscientists Newfoundland & Labrador (PEGNL), Member #12071
-* American Society of Mechanical Engineers (ASME), Member #102114839
-* Society of Automotive Engineers International (SAE), Member #6153388042 since 2009
+## Best Mechanical Engineering Senior Design Project
+** Formula SAE Competition — Florida Institute of Technology
+Melbourne, FL | April 2009
 
 ----
 
 
-# INTERESTS
+# 👥 PROFESSIONAL AFFILIATIONS
 
-Soccer, Karate (purple belt), Windsurfing (purple sail), Wakeboarding, Cycling, Skiing.
+* Professional Engineer (P.Eng.) — PEGNL, Member #12071
+* ASME — American Society of Mechanical Engineers, Member #102114839
+* SAE International — Society of Automotive Engineers, Member #6153388042 (Since 2009)
 
-Cinema, Music (DJ), Photography & Graphic Design, Traveling, High-Tech, Innovation.
+----
+
+
+# 🎯 INTERESTS
+
+### Sports & Fitness
+Soccer, Karate (purple belt), Wakeboarding, Windsurfing (purple sail), Skiing, Cycling
+
+### Creative & Cultural
+Cinema, Music (DJ), Photography, Graphic Design, Traveling
+
+### Technology & Innovation
+High-Tech Trends, Engineering Innovation, Aerospace, AI & Robotics
 
 ----
 

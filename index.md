@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Joachim Agou
+title: Joachim Agou, P.Eng.
 ---
 
 ### Mechanical Aerospace Engineer | Entrepreneur | Project Management | Systems Integration
 
-Mechanical and aerospace engineer with over 12 years of experience leading multidisciplinary engineering projects across aerospace, energy, and technology sectors. Proven track record in systems integration, data acquisition, gas turbine testing, and robotic systems for space applications. Entrepreneurial and adaptable, with additional experience in business operations, media production, and consulting. Skilled in cross-functional leadership, full project lifecycle execution, and aligning technical solutions with organizational goals. Bilingual in French and English, with a collaborative, results-driven approach to innovation and continuous improvement.
+Licensed Professional Engineer (P.Eng.) mechanical and aerospace engineer with over 12 years of experience leading multidisciplinary engineering projects across aerospace, energy, and technology sectors. Proven track record in systems integration, data acquisition, gas turbine testing, and robotic systems for space applications. Entrepreneurial and adaptable, with additional experience in business operations, media production, and consulting. Skilled in cross-functional leadership, full project lifecycle execution, and aligning technical solutions with organizational goals. Bilingual in French and English, with a collaborative, results-driven approach to innovation and continuous improvement.
 
 ----
 
@@ -332,9 +332,9 @@ Melbourne, FL**
 
 # GROUPS & ASSOCIATIONS
 
+* Professional Engineer (P.Eng.) - Professional Engineer and Geoscientists Newfoundland & Labrador (PEGNL), Member #12071
 * American Society of Mechanical Engineers (ASME), Member #102114839
 * Society of Automotive Engineers International (SAE), Member #6153388042 since 2009
-* Professional Engineers and Geoscientists Newfoundland & Labrador (PEGNL)
 
 ----
 

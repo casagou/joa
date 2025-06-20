@@ -22,7 +22,7 @@ title: Joachim Agou, P.Eng.
 - **Reporting & Analysis** — Deliver weekly dashboards and performance summaries to the CEO, supporting financial planning, revenue tracking, and team accountability.
 - **Customer Support** — Resolve customer access, billing, and transaction issues through email and Slack; implement follow-up systems to reduce churn and restore failed accounts.
 - **Process Improvements** — Standardized key workflows for contracts and payment cycles, improving turnaround speed and ensuring 100% compliance with internal policies.
-__
+_
 
 ## Founder & Consultant — Independent Ventures
 
@@ -32,7 +32,7 @@ __
 - **Live Streaming Services** — Produce and manage live-streaming projects for various events, specializing in remote locations across Vancouver Island. Customized streaming solutions to meet client needs, effectively bridging distances for families and communities, and providing training to remote workers.​
 - **Engineering Consulting** — Provided hands-on technical consulting to industrial clients for oven system installations and backup power design. Delivered turnkey solutions from specification through commissioning, with a focus on safety, energy efficiency, and downtime reduction.
 - **Client Relations & Project Management** — Scoped, budgeted, and managed end-to-end project delivery across multiple industries. Coordinated vendors, scheduled production, and handled client communications to ensure satisfaction and repeat business
-__
+_
 
 ## Project Manager — Restaurant Operations (Pre-Launch)
 

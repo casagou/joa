@@ -217,7 +217,7 @@ title: Joachim Agou, P.Eng.
 
 ## Laval University
 
-### Master of Science (M.S.), Mechanical Engineering with Experimental Thesis. (ABD) | December 2013 | Quebec City (QC), Canada
+** Master of Science (M.S.), Mechanical Engineering with Experimental Thesis. (ABD) | December 2013 | Quebec City (QC), Canada **
 
 * Research Assistant (Combustion Laboratory).
 * Teaching Assistant (MAE Thermodynamics).
@@ -296,13 +296,15 @@ Engineering Sciences.
 
 # 📚 PUBLICATIONS & CONFERENCE PRESENTATIONS
 
-* J. Agou, B. Paquet & A. deChamplain.
-	“Emission Measurements of Various Biofuels using a Commercial Swirl-Type Air-Assist Dual Fuel Injector” (with presentation), The Combustion Institute Canadian Section (CICS), Spring Technical Meeting, Université Laval, Quebec
-	Canada, May 13-16, 2013  
+- **J. Agou, B. Paquet & A. deChamplain**  
+  *“Emission Measurements of Various Biofuels using a Commercial Swirl-Type Air-Assist Dual Fuel Injector”* (with presentation)  
+  The Combustion Institute – Canadian Section (CICS), Spring Technical Meeting  
+  Université Laval, Québec, Canada — **May 13–16, 2013**
 
-* M. Youssef, J. Agou, B. Paquet & A. deChamplain.
-	“Comparative Study for Biodiesel Properties and Standards for Gas Turbine” (with presentation), The Combustion Institute Canadian Section (CICS), Spring Technical Meeting, University of Toronto, Ontario, Canada
-	May 13-16, 2012
+- **M. Youssef, J. Agou, B. Paquet & A. deChamplain**  
+  *“Comparative Study for Biodiesel Properties and Standards for Gas Turbine”* (with presentation)  
+  The Combustion Institute – Canadian Section (CICS), Spring Technical Meeting  
+  University of Toronto, Ontario, Canada — **May 13–16, 2012**
 
 ----
 

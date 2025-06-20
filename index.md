@@ -22,7 +22,7 @@ title: Joachim Agou, P.Eng.
 - **Reporting & Analysis** — Deliver weekly dashboards and performance summaries to the CEO, supporting financial planning, revenue tracking, and team accountability.
 - **Customer Support** — Resolve customer access, billing, and transaction issues through email and Slack; implement follow-up systems to reduce churn and restore failed accounts.
 - **Process Improvements** — Standardized key workflows for contracts and payment cycles, improving turnaround speed and ensuring 100% compliance with internal policies.
-_
+
 
 ## Founder & Consultant — Independent Ventures
 
@@ -32,18 +32,17 @@ _
 - **Live Streaming Services** — Produce and manage live-streaming projects for various events, specializing in remote locations across Vancouver Island. Customized streaming solutions to meet client needs, effectively bridging distances for families and communities, and providing training to remote workers.​
 - **Engineering Consulting** — Provided hands-on technical consulting to industrial clients for oven system installations and backup power design. Delivered turnkey solutions from specification through commissioning, with a focus on safety, energy efficiency, and downtime reduction.
 - **Client Relations & Project Management** — Scoped, budgeted, and managed end-to-end project delivery across multiple industries. Coordinated vendors, scheduled production, and handled client communications to ensure satisfaction and repeat business
-_
+
 
 ## Project Manager — Restaurant Operations (Pre-Launch)
 
 ### Victoria (BC), Canada | March 2024 – September 2024
 
-- **Pre-Launch Execution** — Spearheaded the full pre-launch development of a new vegetarian buffet concept, completing all milestones from business plan to facility readiness. Successfully executed site selection, lease negotiation, permitting, hiring, renovations, supplier contracts and operational setup. Although the launch was canceled due to external factors, all project milestones were successfully delivered.
-- **Business Planning** — Built a comprehensive  business case including market analysis, pricing strategy, brand development, and financial projections aligned with a seasonal buffet model. Presented plan to investors and strategic partners.
+- **Pre-Launch Execution** — Spearheaded the full pre-launch development of a new vegetarian buffet concept, completing all milestones from business plan to facility readiness. Successfully executed site selection, lease negotiation, permitting, hiring, renovations, supplier contracts and operational setup. While the launch was ultimately canceled due to external factors, all planned milestones were completed on schedule.
+- **Business Planning** — Built a comprehensive business case including market analysis, pricing strategy, brand development, and financial projections aligned with a seasonal buffet model. Presented plan to investors and strategic partners.
 - **Operations & Regulatory Compliance** — Directed procurement, kitchen layout planning, and workflow design in line with the restaurant concept, while ensuring full adherence to local health, safety, and food service regulations, including FoodSafe certification and municipal inspections.
 - **Menu Development & Costing** — Collaborated with chefs to create, cost, and test a diverse, buffet-style farm-to-table menu (where feasible), reflecting the brand’s nutritional and seasonal values.
 - **Supplier & Vendor Management** — Built and maintained a network of local, sustainable suppliers. Negotiated and renewed vendor contracts for produce, kitchen equipment, cleaning services, and buffet infrastructure.
-__
 
 
 ## Career Break — Personal and Family Development
@@ -52,7 +51,6 @@ __
 
 - **Family Focus & Relocation** — Prioritized family commitments, successfully managing the logistics of relocating from Ontario to British Columbia. This period was dedicated to supporting a significant family transition and demonstrating strong organizational and planning skills.
 - **Personal Development** — Engaged in continuous learning through online courses and workshops aimed at professional growth and maintaining industry relevance.
-__
 
 
 ## Senior Systems/ Project Engineer — Robotics & Space Operations
@@ -66,7 +64,6 @@ __
 - **Technical Documentation & Analysis** — Delivered mission-critical documentation including system specifications, interface control documents (ICDs), verification matrices, and trade-off analyses. Used PTC Windchill and IBM DOORS for configuration management and requirements traceability.
 - **Problem Solving & Support** — Investigated system anomalies using telemetry data and root cause analysis. Provided engineering support for mission operations, contributing to successful resolution and handoff.
 - **Proposal & Cost Support** — Collaborated with project managers and technical leads on resource planning, ROM estimates, and technical input for proposals and stakeholder briefings.
-__
 
 
 ## Gas Turbine Applications Engineer — Systems Integrator
@@ -110,7 +107,6 @@ __
 - **Technical Documentation** — Authored and supervised the creation of key technical documents, including Engineering Specifications (ES), Design Briefs (DB), General Arrangement (GA) drawings, Purchase Requests (PR), and Engineering Coordination Memos (ECM). Focused on documentation for data acquisition software components, control/test systems, console design, and customer support protocols.
 - **Customer Support** — Delivered extensive client training programs, both on-site and remotely, to ensure effective operation of gas turbine testing systems. Provided ongoing support during and beyond the commissioning phase (6+ months), troubleshooting system anomalies and implementing appropriate technical resolutions.
 - **Business Development** — Actively contributed to the company's growth by crafting compelling bids, proposals, and tenders, aligning technical solutions with client needs and market trends.
-__
 
 
 ## Combustion & Pollutant Emissions Engineer — Aerothermal
@@ -122,7 +118,6 @@ __
 - **Combustion CFD Modelling** — Developed CFD models to simulate biofuel injection, atomization, and combustion performance in aero-thermal environments. Used tools such as ANSYS Fluent to optimize injector design and burner geometry.
 - **Data Analysis & Process Optimization** — Improved post-processing workflows and statistical validation for non-standard emissions metrics, enhancing result reliability and supporting R&D reporting.
 - **Comparative Performance Analysis** — Benchmarked experimental biofuel results against conventional jet fuels to quantify performance tradeoffs and support long-term adoption strategy.
-__
 
 
 ## Graduate Research And Teaching Assistant — with Dr. Alain De Champlain
@@ -135,7 +130,6 @@ __
 - **Data Acquisition & Analysis** — Developed and deployed a custom Data Acquisition System (DAS) and Excel VBA toolset to automate combustion data analysis and validate experimental results.
 - **Teaching & Mentorship** — Delivered guest lectures in Mechanical & Aerospace Engineering Thermodynamics. Led laboratory sessions and evaluated student lab reports. Supervised and trained 4+ international interns on experimental procedures and lab safety.
 - **Technical Reporting & Safety Compliance** — Authored detailed technical documentation and safety protocols. Completed WHMIS and WORKSMART training to uphold laboratory compliance standards.
-__
 
 
 ## Independent Study in Mechanical Engineering — with Dr. Razvan Rusovici
@@ -146,7 +140,6 @@ __
 - **Simulation & Analysis** — Applied Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD) to evaluate mechanical behavior in fluid-structure interaction scenarios using ANSYS (Mechanical & CFX).
 - **Design & Modeling** — Created 3D models of experimental test structures using Pro/ENGINEER (Creo) and validated simulations through comparison with analytical predictions.
 - **Technical Proficiency** — Strengthened expertise in CAD/CAE tools and advanced numerical modeling techniques foundational to aerospace and mechanical systems design.
-__
 
 
 ## Formula SAE Series — with Stephanie Hopper and Dr. Youngsik Choi
@@ -157,7 +150,6 @@ __
 - **Composite Body Design** — Engineered and fabricated the race car’s composite bodywork, balancing structural integrity, weight reduction, and aerodynamic performance. Applied hands-on skills in composite layup and testing.
 - **Track-Ready Validation** — Oversaw subsystem testing and participated in final track validation at the FSAE competition in Michigan, ensuring compliance with performance and safety requirements under real-world racing conditions.
 - **Digital Engagement** — Launched and maintained the Florida Tech Motorsports website to document engineering progress and enhance team visibility. Contributed to digital engagement, sponsor communication, and recruitment efforts.
-__
 
 
 ## Service Technician (intern)
@@ -167,7 +159,6 @@ __
 - **Technical Maintenance & Diagnostics** — Assisted in troubleshooting and preventative maintenance of dental systems, including pneumatic actuators, high-speed rotary instruments, suction units, and sterilization equipment.
 - **System Overhaul & Repair** — Supported the repair, calibration, and reassembly of mechanical, electrical, and plumbing components, ensuring operational reliability and compliance with clinic safety protocols.
 - **On-Site Client Support** — Collaborated with dental practitioners to assess equipment failures and implement rapid, effective service solutions in clinical environments.
-__
 
 
 ## Military Experience (volunteer) — Sar El Program
@@ -201,7 +192,7 @@ __
 ### 💻 Programming, Data & Analytics:
 - Python (data analysis, automation), MATLAB, Excel/VBA, SQL, Java
 - Visualization & Dashboards: Power BI, Tableau, Google Sheets CRM
-- Machine Learning (Basics), Digital Twins, Process Monitoring
+- Machine Learning (Basics), Process Monitoring
 	
 ### 🧰 Productivity & IT Tools
 - Microsoft 365, Adobe Creative Suite (Lightroom, Photoshop, XD, Premiere), VMware
@@ -209,13 +200,15 @@ __
 - Version Control: Git, Subversion | Bug Tracking: JIRA, Bugzilla
 - Web Tech: HTML/CSS, XML, Apache, LaTeX, MediaWiki
 - Networking: Kali Linux (Wi-Fi security), LAN/WAN Configuration, Tech Support
+- Slack, Kajabi, Stripe, Dubsado, RBC PayEdge
 	
 ### 🤝 Soft Skills & Collaboration
 - Cross-Functional Team Leadership, Stakeholder Engagement, Negotiation, Conflict Resolution
 - Training & Teaching, Change Management, Engineering Management
 - Adaptability to Remote & Cross-Cultural Teams (North America, Europe, Asia)
 
-### 🌍 Languages:  French (Native), English (Fluent), Spanish (Limited Working Proficiency), Italian (Elementary), Hebrew (Elementary)
+### 🌍 Languages
+- French (Native), English (Fluent), Spanish (Limited Working Proficiency), Italian (Elementary), Hebrew (Elementary)
 
 ----
 

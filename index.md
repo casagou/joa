@@ -14,7 +14,7 @@ title: Joachim Agou, P.Eng.
 
 ## Accounting & Operations Administrator
 **Sarah Mae Ives Social Media Inc. (Digital Marketing Firm)**  
-📍 Vancouver, BC, Canada — 🗓️ September 2024 – Present
+📍 Vancouver, BC, Canada | 🗓️ September 2024 – Present
 
 - **Financial Oversight** — Manage daily cash flow and invoicing operations across 100+ active client accounts. Process payments to contractors through RBC PayEdge and oversee subscription transactions using Kajabi, Stripe, and PayPal.
 - **Workflow Optimization** — Lead a cross-functional team of 4–6 (admins, moderators, tech/media assistants), streamlining coordination across finance, customer support, and CEO directives.
@@ -26,7 +26,8 @@ title: Joachim Agou, P.Eng.
 
 ## Founder & Consultant — Independent Ventures
 
-### Entrepreneurship | Victoria (BC), Canada | July 2023 – Present (concurrent with other roles)
+**Entrepreneurship**  
+📍 Victoria, BC, Canada | 🗓️ July 2023 – Present *(concurrent with other roles)*
 
 - **Aerial Media & Video Production** — Founded and operate a drone-based content service delivering high-resolution aerial photography and promotional videos for clients in education, hospitality, and cultural sectors. Notable engagements include Fairmont Empress, University of Victoria, and Alliance Française Victoria. Work has directly supported brand exposure, increased event attendance, and enhanced online engagement.​
 - **Live Streaming Services** — Produce and manage live-streaming projects for various events, specializing in remote locations across Vancouver Island. Customized streaming solutions to meet client needs, effectively bridging distances for families and communities, and providing training to remote workers.​

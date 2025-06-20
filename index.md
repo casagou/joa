@@ -231,7 +231,6 @@ title: Joachim Agou, P.Eng.
   - Control Systems
 
 
-
 * Research Assistant (Combustion Laboratory).
 * Teaching Assistant (MAE Thermodynamics).
 * Laser Safety Certificate & WHMIS (Workplace Hazardous Materials Information System) qualified.

@@ -216,8 +216,21 @@ title: Joachim Agou, P.Eng.
 # 🎓 EDUCATION
 
 ## Laval University
+**Master of Science (M.S.), Mechanical Engineering with Experimental Thesis (ABD)**  
+📍 Quebec City, QC, Canada — 🗓️ December 2013
 
-** Master of Science (M.S.), Mechanical Engineering with Experimental Thesis. (ABD) | December 2013 | Quebec City (QC), Canada **
+- Research Assistant, Combustion Laboratory  
+- Teaching Assistant, MAE Thermodynamics  
+- Certified: Laser Safety & WHMIS  
+- **Relevant Coursework:**
+  - Combustion Fundamentals (+CFD)
+  - Internal Combustion Engines (+CFD)
+  - Propulsion / Air-Breathing Engines (+CFD)
+  - Data Acquisition and Signal Conditioning
+  - Systems Optimization
+  - Control Systems
+
+
 
 * Research Assistant (Combustion Laboratory).
 * Teaching Assistant (MAE Thermodynamics).

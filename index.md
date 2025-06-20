@@ -354,8 +354,8 @@ Engineering Sciences.
 
 # 🏆 AWARDS
 
-## Best Mechanical Engineering Senior Design Project
-** Formula SAE Competition — Florida Institute of Technology
+### Best Mechanical Engineering Senior Design Project
+* Formula SAE Competition — Florida Institute of Technology
 Melbourne, FL | April 2009
 
 ----

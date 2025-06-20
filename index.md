@@ -214,7 +214,7 @@ title: Joachim Agou, P.Eng.
 
 
 # 🎓 EDUCATION
-
+66
 ## Laval University
 **Master of Science (M.S.), Mechanical Engineering with Experimental Thesis (ABD)**  
 📍 Quebec City, QC, Canada — 🗓️ December 2013
@@ -229,7 +229,6 @@ title: Joachim Agou, P.Eng.
   - Data Acquisition and Signal Conditioning
   - Systems Optimization
   - Control Systems
-
 
 * Research Assistant (Combustion Laboratory).
 * Teaching Assistant (MAE Thermodynamics).

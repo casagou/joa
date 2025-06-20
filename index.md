@@ -310,40 +310,63 @@ Engineering Sciences.
 # 🛠️ CERTIFICATIONS & TRAININGS
 
 ### 🔧 Engineering & Technical Safety
-- PMP® Exam Prep Seminar — Instructingcom, LLC ~ Nov 2018 | ID 109EPSWB
-- ESD (Electrostatic Discharge) Control — MDA ~ Feb 2022
-- Electrical Safety Awareness — MDA ~ Feb 2022
-- Laser Safety Certificate — Université Laval ~ May 2011 | License: CAN/CSA E-60825-1:03; IEC 60825-1
-- Laser Safety Training — MDA ~ Feb 2022
-- Lockout/Tagout – Control of Hazardous Energy Training — MDS Gas Turbine Engine Solutions
-- Instant HR – Workplace Hazards Training — MDS Gas Turbine Engine Solutions
-- IT Risk and Cybersecurity Training for Employees — MDS ~ Aug 2019
-- Occupational Health and Safety Awareness Training for Workers in Ontario — MDS Gas Turbine Engine Solutions
-- Task Area Awareness — MDA ~ Feb 2022
-- AODA Customer Service Training — MDS ~ Sep 2014
-- AODA Training — MDA ~ Feb 2022
-- COVID-19 Employee Health and Safety Training — MDS ~ Jun 2020
+- **PMP® Exam Prep Seminar**  
+  *Instructingcom, LLC* — Nov 2018 | *ID:* 109EPSWB  
+- **ESD (Electrostatic Discharge) Control**  
+  *MDA* — Feb 2022  
+- **Electrical Safety Awareness**  
+  *MDA* — Feb 2022  
+- **Laser Safety Certificate**  
+  *Université Laval* — May 2011 | *License:* CAN/CSA E-60825-1:03; IEC 60825-1  
+- **Laser Safety Training**  
+  *MDA* — Feb 2022  
+- **Lockout/Tagout – Control of Hazardous Energy Training**  
+  *MDS Gas Turbine Engine Solutions*  
+- **Instant HR – Workplace Hazards Training**  
+  *MDS Gas Turbine Engine Solutions*  
+- **IT Risk and Cybersecurity Training for Employees**  
+  *MDS* — Aug 2019  
+- **Occupational Health and Safety Awareness Training for Workers in Ontario**  
+  *MDS Gas Turbine Engine Solutions*  
+- **Task Area Awareness**  
+  *MDA* — Feb 2022  
+- **AODA Customer Service Training**  
+  *MDS* — Sep 2014  
+- **AODA Training**  
+  *MDA* — Feb 2022  
+- **COVID-19 Employee Health and Safety Training**  
+  *MDS* — Jun 2020  
 
 ### 🦺 Construction & Site Access Training
-- Working at Heights Training — Safety Training Ottawa ~ Aug 2019 | Debbie Desaulniers | WAH-34633
-- Working at Heights Training — LaborTek Personnel ~ Jul 2016 | WAH-34595
-- Aerial Lifts & Aerial Work Platforms — Worksite Safety Compliance Center ~ Mar 2017 | Certificate 156AWP-64
-- Elevated Work Platform – Safety Training — CRS Contractors Rental Supply
-- Fall Protection – Safety Training — CRS Contractors Rental Supply
+- **Working at Heights Training**  
+  *Safety Training Ottawa* — Aug 2019 | *Trainer:* Debbie Desaulniers | *Cert ID:* WAH-34633  
+- **Working at Heights Training**  
+  *LaborTek Personnel* — Jul 2016 | *Cert ID:* WAH-34595  
+- **Aerial Lifts & Aerial Work Platforms**  
+  *Worksite Safety Compliance Center* — Mar 2017 | *Certificate:* 156AWP-64  
+- **Elevated Work Platform – Safety Training**  
+  *CRS Contractors Rental Supply*  
+- **Fall Protection – Safety Training**  
+  *CRS Contractors Rental Supply*  
 
 ### ⛑️ First Aid & Emergency Response
-- Standard First Aid, CPR Level C & AED — Ottawa Paramedic Service HQ ~ Jul 2021
-- Emergency First Aid – CPR & AED — Canadian Red Cross | Certificate #30200842 | Trainer: Jennifer Sybrandy
+- **Standard First Aid, CPR Level C & AED**  
+  *Ottawa Paramedic Service HQ* — Jul 2021  
+- **Emergency First Aid – CPR & AED**  
+  *Canadian Red Cross* | *Trainer:* Jennifer Sybrandy | *Certificate:* 30200842  
 
 ### 🛃 Security & Compliance
-- Airport Security Awareness Training Certificate — Butterfly Aero Training ~ Jun 2014 | License GB81580A20140623
-- WHMIS (Workplace Hazardous Materials Information System)
-	- Université Laval | Date Not Specified
-	- MDS Gas Turbine Engine Solutions ~ Jan 2015
-	- WHMIS 2015 New Hire Assessment — MDA ~ Feb 2022
+- **Airport Security Awareness Training Certificate**  
+  *Butterfly Aero Training* — Jun 2014 | *License:* GB81580A20140623  
+- **WHMIS (Workplace Hazardous Materials Information System)**  
+  - *Université Laval* — Date Not Specified  
+  - *MDS Gas Turbine Engine Solutions* — Jan 2015  
+  - **WHMIS 2015 New Hire Assessment**  
+    *MDA* — Feb 2022  
 
 ### 🌎 Border Security & Identification
-- NEXUS — Canada Border Services Agency ~ Since Jan 2019
+- **NEXUS**  
+  *Canada Border Services Agency* — Since Jan 2019  
 
 ----
 
@@ -359,9 +382,14 @@ Melbourne, FL | April 2009
 
 # 👥 PROFESSIONAL AFFILIATIONS
 
-* Professional Engineer (P.Eng.) — PEGNL, Member #12071
-* ASME — American Society of Mechanical Engineers, Member #102114839
-* SAE International — Society of Automotive Engineers, Member #6153388042 (Since 2009)
+- **Professional Engineer (P.Eng.)**  
+  *Professional Engineers and Geoscientists Newfoundland & Labrador (PEGNL)* — Member #12071
+  
+- **ASME – American Society of Mechanical Engineers**  
+  Member #102114839
+
+- **SAE International – Society of Automotive Engineers**  
+  Member #6153388042 | *Member since 2009*
 
 ----
 

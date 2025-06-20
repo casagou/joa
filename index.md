@@ -10,7 +10,7 @@ title: Joachim Agou, P.Eng.
 ----
 
 
-# EXPERIENCE
+# 💼 EXPERIENCE
 
 ## Accounting & Operations Administrator
 
@@ -178,46 +178,46 @@ _
 ----
 
 
-# SKILLS & ABILITIES
+# 🧠 SKILLS & ABILITIES
 
-+ Industry Expertise:
++ 🔧 Industry Expertise:
 	- Systems Integration, Systems Engineering, Project Engineering & Management
 	- Aerospace Engineering, Energy Systems, Business Strategy, Testing & Validation, Operations, Robotics
 
-+ Technical Domains:
++ 🚀 Technical Domains:
 	- Gas Turbines, Jet Engines, Turbomachinery, Propulsion, Test Facilities
 	- Data Acquisition Systems, Aerodynamics, Thermodynamics, Combustion, Fluid Dynamics
 	- Emissions Analysis, Predictive Maintenance, Energy & Climate Change
 
-+ Tools & Engineering Software:
++ 🛠️ Tools & Engineering Software:
 	- CFD & Simulation: ANSYS Fluent, CFX, ICEM CFD, GAMBIT
 	- CAD/FEA: SolidWorks, CATIA, Pro/ENGINEER & Creo, AutoCAD, ANSYS Workbench/APDL, Cosmos, CNC/Mastercam
 	- Data Acquisition: NI LabVIEW, proDAS/nxDAS, iDDS, LaVision FlowMaster
 	- MBSE & Requirements: SysML (familiar), IBM DOORS (familiar), PTC Windchill, Omnify Empower
 	
-+ Programming, Data & Analytics:
++ 💻 Programming, Data & Analytics:
 	- Python (data analysis, automation), MATLAB, Excel/VBA, SQL, Java
 	- Visualization & Dashboards: Power BI, Tableau, Google Sheets CRM
 	- Machine Learning (Basics), Digital Twins, Process Monitoring
 	
-+ Productivity & IT Tools
++ 🧰 Productivity & IT Tools
 	- Microsoft 365, Adobe Creative Suite (Lightroom, Photoshop, XD, Premiere), VMware
 	- Unix/Linux (CentOS, Red Hat, Ubuntu), Google Workspace
 	- Version Control: Git, Subversion | Bug Tracking: JIRA, Bugzilla
 	- Web Tech: HTML/CSS, XML, Apache, LaTeX, MediaWiki
 	- Networking: Kali Linux (Wi-Fi security), LAN/WAN Configuration, Tech Support
 	
-+ Soft Skills & Collaboration
++ 🤝 Soft Skills & Collaboration
 	- Cross-Functional Team Leadership, Stakeholder Engagement, Negotiation, Conflict Resolution
 	- Training & Teaching, Change Management, Engineering Management
 	- Adaptability to Remote & Cross-Cultural Teams (North America, Europe, Asia)
 
-+ Languages:  French (Native), English (Fluent), Spanish (Limited Working Proficiency), Italian (Elementary), Hebrew (Elementary)
++ 🌍 Languages:  French (Native), English (Fluent), Spanish (Limited Working Proficiency), Italian (Elementary), Hebrew (Elementary)
 
 ----
 
 
-# EDUCATION
+# 🎓 EDUCATION
 
 ## Laval University
 

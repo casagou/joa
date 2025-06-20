@@ -13,8 +13,8 @@ title: Joachim Agou, P.Eng.
 # 💼 EXPERIENCE
 
 ## Accounting & Operations Administrator
-
-### Sarah Mae Ives Social Media Inc. (Digital Marketing Firm) | Vancouver (BC), Canada | September 2024 — present
+**Sarah Mae Ives Social Media Inc. (Digital Marketing Firm)**  
+📍 Vancouver, BC, Canada — 🗓️ September 2024 – Present
 
 - **Financial Oversight** — Manage daily cash flow and invoicing operations across 100+ active client accounts. Process payments to contractors through RBC PayEdge and oversee subscription transactions using Kajabi, Stripe, and PayPal.
 - **Workflow Optimization** — Lead a cross-functional team of 4–6 (admins, moderators, tech/media assistants), streamlining coordination across finance, customer support, and CEO directives.
@@ -214,49 +214,38 @@ title: Joachim Agou, P.Eng.
 
 
 # 🎓 EDUCATION
-66
+
 ## Laval University
 **Master of Science (M.S.), Mechanical Engineering with Experimental Thesis (ABD)**  
 📍 Quebec City, QC, Canada — 🗓️ December 2013
 
 - Research Assistant, Combustion Laboratory  
 - Teaching Assistant, MAE Thermodynamics  
-- Certified: Laser Safety & WHMIS  
+- Laser Safety Certificate & WHMIS (Workplace Hazardous Materials Information System) qualified.  
 - **Relevant Coursework:**
-  - Combustion Fundamentals (+CFD)
-  - Internal Combustion Engines (+CFD)
-  - Propulsion / Air-Breathing Engines (+CFD)
-  - Data Acquisition and Signal Conditioning
-  - Systems Optimization
-  - Control Systems
-
-* Research Assistant (Combustion Laboratory).
-* Teaching Assistant (MAE Thermodynamics).
-* Laser Safety Certificate & WHMIS (Workplace Hazardous Materials Information System) qualified.
-* Relevant courses completed:
 	- Combustion Fundamentals (+CFD)
 	- Internal Combustion Engines (+CFD)
-	- Propulsion/ Air-breathing Engines (+CFD)
+	- Propulsion / Air-Breathing Engines (+CFD)
 	- Data Acquisition and Signal Conditioning
 	- Systems Optimization
 	- Control Systems
 
+---
 
+## Carleton University  
+**Summer Program, Mechanical Engineering**  
+📍 Ottawa, ON, Canada — 🗓️ Summer 2012
 
+- Conducted experimental research using PIV (Particle Image Velocimetry) and PDPA (Phase Doppler Particle Analyzer)
 
-## Carleton University
+---
 
-### Summer Program, Mechanical Engineering | Summer 2012 | Ottawa (ON), Canada
-
-* Conducted experimental tests using PIV (Particle Image Velocimetry) and PDPA (Phase Doppler Particle Analyzer).
-
-
-## Florida Institute of Technology
-
-### Bachelor of Science, Mechanical Engineering (transfer student) | May 2010 | Melbourne (FL), USA
+## Florida Institute of Technology  
+**Bachelor of Science, Mechanical Engineering (Transfer Student)**  
+📍 Melbourne, FL, USA — 🗓️ May 2010
 
 * Contributed as a Powertrain Division member and Bodywork designer for Formula SAE.
-* Relevant courses completed:
+- **Relevant Coursework:**
 	- Computer-Aided Engineering
 	- Aerodynamics and Flight Mechanics
 	- Design of Machine Elements
@@ -277,12 +266,13 @@ title: Joachim Agou, P.Eng.
 	- Engineering Economy & Planning
 	- Music Theory
 
+---
 
-## SKEMA Business School (formerly Euro-American Institute of Technology)
+## SKEMA Business School *(formerly Euro-American Institute of Technology)*  
+**Bachelor of Science, Mechanical Engineering (Transfer Program)**  
+📍 Sophia Antipolis, France — 🗓️ January 2007
 
-### Bachelor of Science, Mechanical Engineering (transfer student) | January 2007 | Sophia Antipolis, France
-
-* Relevant courses completed:
+- **Relevant Coursework:**
 	- Thermodynamics 1
 	- Aerodynamics
 	- Statics & Dynamics
@@ -293,16 +283,14 @@ title: Joachim Agou, P.Eng.
 	- General Chemistry
 	- Ethics
 
->Florida Institute of Technology and SKEMA Business School were part of a dual-degree program, and thus
+>🔁 Florida Institute of Technology and SKEMA Business School were part of a dual-degree program, and thus
 share a common graduation project.
 
+---
 
-## Lycée Général et Technologique Les Eucalyptus
-
-### High school, Baccalauréat Science Stream (S) | June 2004 |Nice, France
-
-* Specialization Physics & Chemistry, Option
-Engineering Sciences.
+## Lycée Général et Technologique Les Eucalyptus  
+**Baccalauréat — Science Stream (S), Specialization: Physics & Chemistry; Option: Engineering Sciences**  
+📍 Nice, France — 🗓️ June 2004
 
 ----
 

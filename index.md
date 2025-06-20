@@ -35,9 +35,8 @@ title: Joachim Agou, P.Eng.
 - **Client Relations & Project Management** — Scoped, budgeted, and managed end-to-end project delivery across multiple industries. Coordinated vendors, scheduled production, and handled client communications to ensure satisfaction and repeat business
 
 
-## Project Manager — Restaurant Operations (Pre-Launch)
-
-### Victoria (BC), Canada | March 2024 – September 2024
+## Project Manager — Restaurant Operations (Pre-Launch)  
+📍 Victoria, BC, Canada | 🗓️ March 2024 – September 2024
 
 - **Pre-Launch Execution** — Spearheaded the full pre-launch development of a new vegetarian buffet concept, completing all milestones from business plan to facility readiness. Successfully executed site selection, lease negotiation, permitting, hiring, renovations, supplier contracts and operational setup. While the launch was ultimately canceled due to external factors, all planned milestones were completed on schedule.
 - **Business Planning** — Built a comprehensive business case including market analysis, pricing strategy, brand development, and financial projections aligned with a seasonal buffet model. Presented plan to investors and strategic partners.
@@ -45,18 +44,18 @@ title: Joachim Agou, P.Eng.
 - **Menu Development & Costing** — Collaborated with chefs to create, cost, and test a diverse, buffet-style farm-to-table menu (where feasible), reflecting the brand’s nutritional and seasonal values.
 - **Supplier & Vendor Management** — Built and maintained a network of local, sustainable suppliers. Negotiated and renewed vendor contracts for produce, kitchen equipment, cleaning services, and buffet infrastructure.
 
+> This venture strengthened my project management, vendor negotiation, and regulatory compliance skills—fully transferable to both technical and business environments.
 
-## Career Break — Personal and Family Development
-
-###  Victoria (BC), Canada | February 2023 — July 2023
+## Career Break — Personal and Family Development  
+📍 Victoria, BC, Canada | 🗓️ February 2023 – July 2023
 
 - **Family Focus & Relocation** — Prioritized family commitments, successfully managing the logistics of relocating from Ontario to British Columbia. This period was dedicated to supporting a significant family transition and demonstrating strong organizational and planning skills.
 - **Personal Development** — Engaged in continuous learning through online courses and workshops aimed at professional growth and maintaining industry relevance.
 
 
-## Senior Systems/ Project Engineer — Robotics & Space Operations
-
-### MDA | Brampton (ON), Canada | February 2022 — February 2023
+## Senior Systems/Project Engineer — Robotics & Space Operations
+**MDA**    
+📍 Brampton, ON, Canada | 🗓️ February 2022 – February 2023
 
 - **End-to-End Systems Engineering** — Led the full lifecycle development of robotic systems for on-orbit servicing and planetary exploration missions (e.g., ISS, lunar, Mars). Oversaw system architecture, trade studies, detailed design, integration, testing, and on-orbit validation to ensure mission alignment and readiness.
 - **Project Management** — Managed day-to-day execution across cross-disciplinary teams (mechanical, electrical, software, mission ops), ensuring milestones were met within technical, schedule, and cost constraints on CSA- and NASA-aligned programs.
@@ -67,12 +66,11 @@ title: Joachim Agou, P.Eng.
 - **Proposal & Cost Support** — Collaborated with project managers and technical leads on resource planning, ROM estimates, and technical input for proposals and stakeholder briefings.
 
 
-## Gas Turbine Applications Engineer — Systems Integrator
-
-### MDS Gas Turbine Engine Solutions | Ottawa (ON), Canada | December 2013 — February 2022
+## Gas Turbine Applications Engineer — Systems Integrator  
+**MDS Gas Turbine Engine Solutions**  
+📍 Ottawa, ON, Canada | 🗓️ December 2013 – February 2022
 
 - **Turnkey Facility Development** — Led the design and deployment of custom-built gas turbine test facilities for aviation, industrial, and marine applications; leading full lifecycle execution from requirements and concept design to commissioning and client handover.
-
 - **Technical Leadership** — Oversaw integration of mechanical, electrical, data acquisition, and control systems. Delivered custom solutions involving:
 	+ Development of Data Acquisition Systems (DAS) and associated software development
 	+ Design of instrumentation and control systems
@@ -83,7 +81,7 @@ title: Joachim Agou, P.Eng.
 	+ Comprehensive facilities planning and construction management
 - **Client-Facing Engineering Delivery** — Acted as lead interface for global clients including Rolls-Royce, Siemens, Safran, NASA, and Air France. Delivered successful project handoffs, Acceptance Test Procedures (ATP), and multi-day on-site commissioning and training programs.
 - **Major Projects Portfolio** — Delivered 15+ Maintenance, Repair, and Overhaul (MRO) and Research and Development (R&D) facilities across North America, Europe, Asia, and the Middle East. Notable programs include:
-	+ MRO facilities:
+	+ **MRO**:
 		* Air France Industries KLM Engineering & Maintenance (France): Worked on engine models including CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, and GEnx-2B.
 		* GKN Aerospace (Sweden): Handled projects involving Volvo RM12 and RM16 engines for the Gripen fighter jet.
 		* StandardAero (Canada) (formerly Vector Aerospace): Focused on various P&WC JT15D engine variants.
@@ -92,7 +90,7 @@ title: Joachim Agou, P.Eng.
 		* Rolls-Royce (UK): Contributed to engine console projects.
 		* GA Telesis Engine Services (Finland): Handled CFM56-5B, CFM56-7B, and GE CF6-80C2 engines.
 
-	+ R&D facilities:
+	+ **R&D**:
 		* Rolls-Royce / NASA Stennis Space Center (USA): Developed and conducted certification testing for an outdoor jet engine test facility.
 		* Safran Aircraft Engines (France): Conducted certification testing for the CFM LEAP-1A and endurance testing for the CFM56 engines.
 		* MAN Energy Solutions (Germany): Worked on industrial gas turbines MGT6000-2S and MG8000-1S.
@@ -110,9 +108,9 @@ title: Joachim Agou, P.Eng.
 - **Business Development** — Actively contributed to the company's growth by crafting compelling bids, proposals, and tenders, aligning technical solutions with client needs and market trends.
 
 
-## Combustion & Pollutant Emissions Engineer — Aerothermal
-
-### Siemens Canada (formerly Rolls-Royce Canada) — Research and Technology | Montreal (QC), Canada | January 2013 — December 2013
+## Combustion & Pollutant Emissions Engineer — Aerothermal  
+**Siemens Canada (formerly Rolls-Royce Canada) — Research and Technology**  
+📍 Montreal, QC, Canada | 🗓️ January 2013 – December 2013
 
 - **Emissions Testing & Instrumentation** — Conducted pollutant measurements on gas turbine testbeds using high-precision analyzers including FTIR, FID, and O₂ CEMS (Continuous Emission Monitoring Systems). Ensured compliance with EPA/ISO standards and enhanced emissions profiling accuracy.
 - **Biofuel Research & Characterization** — Evaluated over 10 liquid and gaseous biofuel formulations (biodiesel, syngas blends) to assess emissions, smoke point, lean blowout limits, and operational stability. Supported Siemens' GHG-reduction initiatives.
@@ -121,9 +119,9 @@ title: Joachim Agou, P.Eng.
 - **Comparative Performance Analysis** — Benchmarked experimental biofuel results against conventional jet fuels to quantify performance tradeoffs and support long-term adoption strategy.
 
 
-## Graduate Research And Teaching Assistant — with Dr. Alain De Champlain
-
-### Combustion Engineering Research Laboratory at Laval University | Quebec City (QC), Canada | January 2011 — May 2013
+## Graduate Research and Teaching Assistant — with Dr. Alain De Champlain  
+**Combustion Engineering Research Laboratory at Laval University**  
+📍 Quebec City, QC, Canada | 🗓️ January 2011 – May 2013
 
 - **Biofuel & Emissions Research** — Investigated applications of liquid and gaseous biofuels for gas turbines and aircraft propulsion. Conducted advanced pollutant analysis using FTIR (Fourier Transformation Infrared) spectroscopy to evaluate combustion emissions in swirl combustors.
 - **Spray & Combustion Modeling** — Performed experimental spray characterization using Particle Image Velocimetry (PIV) and CFD (ANSYS Fluent) to model biodiesel atomization and combustion performance.
@@ -133,9 +131,9 @@ title: Joachim Agou, P.Eng.
 - **Technical Reporting & Safety Compliance** — Authored detailed technical documentation and safety protocols. Completed WHMIS and WORKSMART training to uphold laboratory compliance standards.
 
 
-## Independent Study in Mechanical Engineering — with Dr. Razvan Rusovici
-
-### Florida Institute of Technology | Melbourne (FL), USA | January 2010 — June 2010
+## Independent Study in Mechanical Engineering — with Dr. Razvan Rusovici  
+**Florida Institute of Technology**  
+📍 Melbourne, FL, USA | 🗓️ January 2010 – June 2010
 
 - **Adaptive Structures Research** — Conducted independent research on smart/adaptive structural systems with a focus on vibration control, structural health monitoring, and performance optimization under dynamic loads.
 - **Simulation & Analysis** — Applied Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD) to evaluate mechanical behavior in fluid-structure interaction scenarios using ANSYS (Mechanical & CFX).
@@ -143,9 +141,9 @@ title: Joachim Agou, P.Eng.
 - **Technical Proficiency** — Strengthened expertise in CAD/CAE tools and advanced numerical modeling techniques foundational to aerospace and mechanical systems design.
 
 
-## Formula SAE Series — with Stephanie Hopper and Dr. Youngsik Choi
-
-### Florida Tech Motorsports (FIT) | Melbourne (FL) & Michigan International Speedway (MI), USA | November 2008 — May 2009
+## Formula SAE Series — with Stephanie Hopper and Dr. Youngsik Choi  
+**Florida Tech Motorsports (FIT)**  
+📍 Melbourne, FL & Michigan International Speedway, MI, USA | 🗓️ November 2008 – May 2009
 
 - **Powertrain Engineering Lead** — Directed the design and integration of the FSAE vehicle's powertrain, including engine mapping, differential tuning, and dynamic simulation. Spearheaded performance optimization using industry-standard tools (SolidWorks, ANSYS, Cosmos Design), improving drivetrain reliability and vehicle acceleration.
 - **Composite Body Design** — Engineered and fabricated the race car’s composite bodywork, balancing structural integrity, weight reduction, and aerodynamic performance. Applied hands-on skills in composite layup and testing.
@@ -153,18 +151,18 @@ title: Joachim Agou, P.Eng.
 - **Digital Engagement** — Launched and maintained the Florida Tech Motorsports website to document engineering progress and enhance team visibility. Contributed to digital engagement, sponsor communication, and recruitment efforts.
 
 
-## Service Technician (intern)
-
-### Prestige Dentaire | Nice, France | June — July 2006
+## Service Technician (Intern)  
+**Prestige Dentaire**  
+📍 Nice, France | 🗓️ June – July 2006
 
 - **Technical Maintenance & Diagnostics** — Assisted in troubleshooting and preventative maintenance of dental systems, including pneumatic actuators, high-speed rotary instruments, suction units, and sterilization equipment.
 - **System Overhaul & Repair** — Supported the repair, calibration, and reassembly of mechanical, electrical, and plumbing components, ensuring operational reliability and compliance with clinic safety protocols.
 - **On-Site Client Support** — Collaborated with dental practitioners to assess equipment failures and implement rapid, effective service solutions in clinical environments.
 
 
-## Military Experience (volunteer) — Sar El Program
-
-### Tsahal, Israeli Army Training Program | Hatzerim Air Force Base, Israel | July — August 2005
+## Military Experience (Volunteer) — Sar-El Program  
+**Tsahal, Israeli Army Training Program**  
+📍 Hatzerim Air Force Base, Israel | 🗓️ July – August 2005
 
 - **International Military Volunteering** — Participated in the Sar-El civilian support program at Hatzerim Air Force Base, assisting Israeli Defense Forces with base operations and logistics.
 - **Operational Support & Discipline** — Carried out maintenance, equipment handling, and logistics tasks in a structured, high-discipline military environment.
@@ -410,9 +408,15 @@ Cinema, Music (DJ), Photography, Graphic Design, Traveling
 High-Tech Trends, Engineering Innovation, Aerospace, AI & Robotics
 
 ----
+Online version available on LinkedIn <https://www.linkedin.com/in/joachimagou/>
+
+Updated March 2025
 
 
-# REFERENCES
+# 📇 REFERENCES
+
+Full list of professional and academic references available upon request.
+Select references can be provided to prospective employers or collaborators
 
 	Jean-Luc Dicaire
 	Manager of Applications
@@ -501,10 +505,3 @@ High-Tech Trends, Engineering Innovation, Aerospace, AI & Robotics
 
 ----
 
-
-
-Personal references are available upon request.
-
-online version available on LinkedIn <https://www.linkedin.com/in/joachimagou/>
-
-updated March 2025	Joachim Agou

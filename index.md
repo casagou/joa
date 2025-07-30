@@ -5,7 +5,12 @@ title: Joachim Agou, P.Eng.
 
 ### Mechanical/Aerospace Engineering Leader (P.Eng.) | Systems Integration • Project & Operations Management
 
-**Licensed Professional Engineer (P.Eng.)** in mechanical and aerospace engineering with 12+ years of experience delivering complex systems across the aerospace, energy, and technology sectors. Specialized in systems integration, gas turbine testing, data acquisition, and robotic systems for space applications. Proven ability to lead multidisciplinary teams and manage full project lifecycles—from requirements to testing and deployment—across both global organizations and entrepreneurial ventures. Additional experience in business operations, media production, and consulting. Bilingual in French and English, with a collaborative, results-driven approach to solving technical and operational challenges.
+**Licensed Professional Engineer (P.Eng.)** in mechanical and aerospace engineering with 12+ years of experience leading multidisciplinary projects in **aerospace, energy, and technology sectors**. Proven track record in **systems integration, gas turbine testing, data acquisition, and robotic systems for space applications**. 
+
+Entrepreneurial and adaptable, with experience spanning **business operations, media production, and consulting**. Skilled in **full project lifecycles**—from requirements to testing and deployment—while **aligning technical solutions with organizational goals**. 
+
+Bilingual in **French and English**, with a **collaborative, results-driven approach** to innovation and continuous improvement.
+
 
 ----
 

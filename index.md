@@ -43,7 +43,7 @@ Bilingual in **French and English**, with a **collaborative, results-driven appr
 ## Project Manager — Restaurant Operations (Pre-Launch)  
 📍 Victoria, BC, Canada | 🗓️ March 2024 – September 2024
 
-- **Pre-Launch Execution** — Spearheaded the full pre-launch development of a new vegetarian buffet concept, completing all milestones from business plan to facility readiness. Successfully executed site selection, lease negotiation, permitting, hiring, renovations, supplier contracts and operational setup. While the launch was ultimately canceled due to external factors, all planned milestones were completed on schedule.
+- **Pre-Launch Execution** — Directed the full pre-launch development of a new vegetarian buffet concept, completing all milestones from business plan to facility readiness. Successfully executed site selection, lease negotiation, permitting, hiring, renovations, supplier contracts and operational setup. While the launch was ultimately canceled due to external factors, all planned milestones were completed on schedule.
 - **Business Planning** — Built a comprehensive business case including market analysis, pricing strategy, brand development, and financial projections aligned with a seasonal buffet model. Presented plan to investors and strategic partners.
 - **Operations & Regulatory Compliance** — Directed procurement, kitchen layout planning, and workflow design in line with the restaurant concept, while ensuring full adherence to local health, safety, and food service regulations, including FoodSafe certification and municipal inspections.
 - **Menu Development & Costing** — Collaborated with chefs to create, cost, and test a diverse, buffet-style farm-to-table menu (where feasible), reflecting the brand’s nutritional and seasonal values.
@@ -52,7 +52,7 @@ Bilingual in **French and English**, with a **collaborative, results-driven appr
 > This venture strengthened my project management, vendor negotiation, and regulatory compliance skills—fully transferable to both technical and business environments.
 
 ## Career Break — Personal and Family Development  
-📍 Victoria, BC, Canada | 🗓️ February 2023 – July 2023
+📍 Ottawa, ON to Victoria, BC, Canada | 🗓️ February 2023 – July 2023
 
 - **Family Focus & Relocation** — Prioritized family commitments, successfully managing the logistics of relocating from Ontario to British Columbia. This period was dedicated to supporting a significant family transition and demonstrating strong organizational and planning skills.
 - **Personal Development** — Engaged in continuous learning through online courses and workshops aimed at professional growth and maintaining industry relevance.

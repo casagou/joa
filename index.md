@@ -196,7 +196,7 @@ Bilingual in **French and English**, with a **collaborative, results-driven appr
 	
 ### 💻 Programming, Data & Analytics:
 - Python (data analysis, automation), MATLAB, Excel/VBA, SQL, Java
-- Visualization & Dashboards: Power BI, Tableau, Google Sheets CRM
+- Visualization & Dashboards: Power BI, Tableau, Google Sheets
 - Machine Learning (Basics), Process Monitoring
 	
 ### 🧰 Productivity & IT Tools:

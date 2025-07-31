@@ -22,11 +22,11 @@ Bilingual in **French and English**, with a **collaborative, results-driven appr
 📍 Vancouver, BC, Canada | 🗓️ September 2024 – Present
 
 - **Financial Oversight** — Manage daily cash flow and invoicing operations across 100+ active client accounts. Process payments to contractors through RBC PayEdge and oversee subscription transactions using Kajabi, Stripe, and PayPal.
-- **Workflow Optimization** — Lead a cross-functional team of 4–6 (admins, moderators, tech/media assistants), streamlining coordination across finance, customer support, and CEO directives.
+- **Team & Workflow Management** — Lead a cross-functional team of 4–6 (admins, moderators, tech/media assistants), streamlining coordination across finance, customer support, and CEO directives.
 - **CRM & Systems Design** — Built and maintain an end-to-end custom Google Sheets-based CRM to track subscriptions, student enrollments, sales, and payments—enhancing reporting accuracy and reducing admin hours by 30%.
 - **Reporting & Analysis** — Deliver weekly dashboards and performance summaries to the CEO, supporting financial planning, revenue tracking, and team accountability.
 - **Customer Support** — Resolve customer access, billing, and transaction issues through email and Slack; implement follow-up systems to reduce churn and restore failed accounts.
-- **Process Improvements** — Standardized key workflows for contracts and payment cycles, improving turnaround speed and ensuring 100% compliance with internal policies.
+- **Process Improvements** — Standardized workflows for contracts and payment cycles, improving turnaround speed and ensuring 100% compliance with internal policies.
 
 
 ## Founder & Consultant — Independent Ventures
@@ -34,10 +34,11 @@ Bilingual in **French and English**, with a **collaborative, results-driven appr
 **Entrepreneurship**  
 📍 Victoria, BC, Canada | 🗓️ July 2023 – Present *(concurrent with other roles)*
 
-- **Aerial Media & Video Production** — Founded and operate a drone-based content service delivering high-resolution aerial photography and promotional videos for clients in education, hospitality, and cultural sectors. Notable engagements include Fairmont Empress, University of Victoria, and Alliance Française Victoria. Work has directly supported brand exposure, increased event attendance, and enhanced online engagement.​
-- **Live Streaming Services** — Produce and manage live-streaming projects for various events, specializing in remote locations across Vancouver Island. Customized streaming solutions to meet client needs, effectively bridging distances for families and communities, and providing training to remote workers.​
-- **Engineering Consulting** — Provided hands-on technical consulting to industrial clients for oven system installations and backup power design. Delivered turnkey solutions from specification through commissioning, with a focus on safety, energy efficiency, and downtime reduction.
-- **Client Relations & Project Management** — Scoped, budgeted, and managed end-to-end project delivery across multiple industries. Coordinated vendors, scheduled production, and handled client communications to ensure satisfaction and repeat business
+- **Aerial Media & Video Production** — Operate a drone-based content service delivering high-resolution aerial photography and promotional videos for clients in education, hospitality, and cultural sectors. Projects include Fairmont Empress, University of Victoria, and Alliance Française Victoria. Work has supported brand exposure, event attendance, and online engagement.
+- **Live Streaming Solutions** — Plan, produce, and manage live-streaming projects for events in both remote and urban locations across Vancouver Island. Provide customized solutions for families, communities, and corporate clients, including remote training for staff to ensure seamless viewing experiences.
+- **Engineering Consulting** — Deliver technical consulting for industrial clients, including oven system installations and backup power design. Provide turnkey solutions from requirements to commissioning, with a focus on safety, energy efficiency, and reducing downtime.
+- **Project & Client Management** — Scope and budget multi-industry projects, coordinate vendors, and manage schedules while maintaining client communication to ensure quality delivery and repeat business.
+
 
 
 ## Project Manager — Restaurant Operations (Pre-Launch)  
@@ -54,63 +55,63 @@ Bilingual in **French and English**, with a **collaborative, results-driven appr
 ## Career Break — Personal and Family Development  
 📍 Ottawa, ON to Victoria, BC, Canada | 🗓️ February 2023 – July 2023
 
-- **Family Focus & Relocation** — Prioritized family commitments, successfully managing the logistics of relocating from Ontario to British Columbia. This period was dedicated to supporting a significant family transition and demonstrating strong organizational and planning skills.
-- **Personal Development** — Engaged in continuous learning through online courses and workshops aimed at professional growth and maintaining industry relevance.
+- **Relocated & Family Support** — Relocated from Ontario to British Columbia to support family needs, managing logistics for a smooth transition and demonstrating strong organizational skills.  
+- **Professional Development** — Completed online courses and workshops to stay current in the industry and prepare for a seamless return to the workforce.
 
 
 ## Senior Systems/Project Engineer — Robotics & Space Operations
 **MDA**    
 📍 Brampton, ON, Canada | 🗓️ February 2022 – February 2023
 
-- **End-to-End Systems Engineering** — Led the full lifecycle development of robotic systems for on-orbit servicing and planetary exploration missions (e.g., ISS, lunar, Mars). Oversaw system architecture, trade studies, detailed design, integration, testing, and on-orbit validation to ensure mission alignment and readiness.
-- **Project Management** — Managed day-to-day execution across cross-disciplinary teams (mechanical, electrical, software, mission ops), ensuring milestones were met within technical, schedule, and cost constraints on CSA- and NASA-aligned programs.
-- **Test & Verification Leadership** — Developed and implemented rigorous system-level test plans and verification procedures. Coordinated environmental and performance testing to meet spaceflight qualification standards.
-- **Design Optimization** — Applied design-to-cost (DTC) and design-for-manufacture (DFM) methodologies to reduce complexity, shorten integration timelines, and improve system reliability under launch and space conditions.
-- **Technical Documentation & Analysis** — Delivered mission-critical documentation including system specifications, interface control documents (ICDs), verification matrices, and trade-off analyses. Used PTC Windchill and IBM DOORS for configuration management and requirements traceability.
-- **Problem Solving & Support** — Investigated system anomalies using telemetry data and root cause analysis. Provided engineering support for mission operations, contributing to successful resolution and handoff.
-- **Proposal & Cost Support** — Collaborated with project managers and technical leads on resource planning, ROM estimates, and technical input for proposals and stakeholder briefings.
+- **End-to-End Systems Engineering** — Led the development of advanced robotic systems for on-orbit servicing and planetary exploration (e.g., ISS, lunar, and Mars missions). Oversaw requirements, architecture, trade studies, design, integration, testing, and on-orbit validation to ensure mission success.
+- **Project Management** — Managed day-to-day execution across multi-disciplinary teams (mechanical, electrical, software, mission ops), keeping CSA- and NASA-aligned programs on track with respect to budget, schedule, and technical goals.
+- **Test & Verification Leadership** — Planned and executed system-level verification campaigns, including environmental and performance testing, to meet rigorous spaceflight qualification standards.
+- **Design Optimization** — Applied design-to-cost (DTC) and design-for-manufacture (DFM) principles to streamline integration, reduce complexity, and improve system reliability under launch and space conditions.
+- **Technical Documentation & Analysis** — Produced mission-critical specifications, interface control documents, verification matrices, and trade studies, ensuring requirements traceability with tools like PTC Windchill and IBM DOORS.
+- **Problem Solving & Operations Support** — Investigated system anomalies using telemetry data and root cause analysis. Provided engineering support for mission operations, contributing to successful resolution and handoff.
+- **Proposal & Cost Support** — Collaborated with project managers and technical leads to prepare ROM estimates, resource planning, and technical inputs for proposals and stakeholder briefings.
 
 
 ## Gas Turbine Applications Engineer — Systems Integrator  
 **MDS Gas Turbine Engine Solutions**  
 📍 Ottawa, ON, Canada | 🗓️ December 2013 – February 2022
 
-- **Turnkey Facility Development** — Led the design and deployment of custom-built gas turbine test facilities for aviation, industrial, and marine applications; leading full lifecycle execution from requirements and concept design to commissioning and client handover.
-- **Technical Leadership** — Oversaw integration of mechanical, electrical, data acquisition, and control systems. Delivered custom solutions involving:
-	+ Development of Data Acquisition Systems (DAS) and associated software development
-	+ Design of instrumentation and control systems
-	+ Engineering of mechanical systems, encompassing both static and dynamic components, including rotor-dynamics
-	+ Aerodynamic and acoustic design considerations
-	+ Environmental engineering to meet regulatory standards
-	+ Oversight of production, assembly, integration, and testing processes
-	+ Comprehensive facilities planning and construction management
-- **Client-Facing Engineering Delivery** — Acted as lead interface for global clients including Rolls-Royce, Siemens, Safran, NASA, and Air France. Delivered successful project handoffs, Acceptance Test Procedures (ATP), and multi-day on-site commissioning and training programs.
-- **Major Projects Portfolio** — Delivered 15+ Maintenance, Repair, and Overhaul (MRO) and Research and Development (R&D) facilities across North America, Europe, Asia, and the Middle East. Notable programs include:
-	+ **MRO**:
-		* Air France Industries KLM Engineering & Maintenance (France): Worked on engine models including CFM56-5B, CFM56-7B, GE90-115B, GE90-94B, EA GP7200, GEnx-1B, and GEnx-2B.
-		* GKN Aerospace (Sweden): Handled projects involving Volvo RM12 and RM16 engines for the Gripen fighter jet.
-		* StandardAero (Canada) (formerly Vector Aerospace): Focused on various P&WC JT15D engine variants.
-		* Lockheed Martin Commercial Engine Solutions (Canada): Managed a range of CFM56 variants and GE CF6-50C2.
-		* Safran Aircraft Engine Services Morocco (Morocco): Worked on multiple CFM56 engine variants.
-		* Rolls-Royce (UK): Contributed to engine console projects.
-		* GA Telesis Engine Services (Finland): Handled CFM56-5B, CFM56-7B, and GE CF6-80C2 engines.
+- **Turnkey Facility Development** — Led the end-to-end delivery of custom-built Gas Turbine test facilities for aviation, industrial, and marine applications, managing all stages from requirements gathering and concept design through construction, commissioning, and client handover. Key areas included:
 
-	+ **R&D**:
-		* Rolls-Royce / NASA Stennis Space Center (USA): Developed and conducted certification testing for an outdoor jet engine test facility.
-		* Safran Aircraft Engines (France): Conducted certification testing for the CFM LEAP-1A and endurance testing for the CFM56 engines.
-		* MAN Energy Solutions (Germany): Worked on industrial gas turbines MGT6000-2S and MG8000-1S.
-		* Siemens (Canada): Handled projects involving the industrial RB211 gas turbine.
-		* MDS AeroTest / GLACIER Test Facility (Canada): Provided support for emissions analyzer systems.
-		* AVIC Commercial Aircraft Engines / AECC (China): Conducted development testing for fan, booster, high-pressure compressor (HPC), and turbine components.
-		* Shanghai Electric Blower Works Co. (China): Engaged in development testing for compressors.
+	+ **Data Acquisition & Software** — Designed and developed Data Acquisition Systems (DAS) with customized software solutions for real-time monitoring and automated testing.
+	+ **Instrumentation & Control Systems** — Engineered and integrated precision instrumentation and automated control systems, ensuring high accuracy and reliability.
+	+ **Mechanical Systems Engineering** — Developed static and dynamic mechanical components, including rotor-dynamic and structural layouts for test cells and facility infrastructure.
+	+ **Aerodynamic, Acoustic & Environmental Design** — Applied aerodynamic and acoustic principles to optimize airflow and noise management, while ensuring compliance with environmental and regulatory standards.
+	+ **Production & Testing Oversight** — Supervised fabrication, assembly, integration, and system-level testing, ensuring quality and performance throughout the build.
+	+ **Facility Planning & Construction Management** — Led facility layout design, utilities planning, and on-site construction coordination, achieving operational readiness for global clients.
 
-- **Systems Integration** — Led the seamless integration of multidisciplinary subsystems—mechanical, electrical, instrumentation, software, and controls—into fully operational gas turbine test facilities. Translated complex client requirements into actionable specifications and system architectures. Developed work breakdown structures, schedules, and resource plans; oversaw full project execution including procurement, manufacturing, assembly, installation, and commissioning. Collaborated cross-functionally to ensure system-level performance, reliability, and compliance with aviation and industrial standards.
-- **Project Management & Procurement** — Led project planning, scheduling, and risk management across cross-functional teams. Managed vendor selection and ERP-driven procurement for capital equipment, instrumentation, and construction.
-- **Data Systems Expertise** — Customized Data Acquisition Systems (DAS) and measurement instruments to meet specific client requirements. Developed post-analysis report templates, real-time display interfaces, and automated test sequences to enhance data accuracy and usability.
-- **Gas Turbine Proficiency** — Defined critical engine and facility metrics for gas turbine testing, ensuring accurate data capture and analysis. Designed operational consoles integrating Human-Machine Interface (HMI) controls and developed comprehensive verification and test plans.
+- **Systems Integration & Technical Leadership** — Directed the integration of mechanical, electrical, instrumentation, software, and control subsystems into fully operational gas turbine test facilities. Translated complex client requirements into actionable specifications, system architectures, and work breakdown structures. Managed full project lifecycles, including design, procurement, manufacturing, assembly, installation, commissioning, and testing, while ensuring system performance, reliability, and regulatory compliance.
+- **Project Management & Procurement** — Oversaw multi-million-dollar projects across cross-functional teams, managing schedules, budgets, and risk mitigation. Led vendor selection and ERP-driven procurement of capital equipment, instrumentation, and construction services. Ensured on-time, on-budget delivery through structured planning, resource allocation, and proactive issue resolution.
+- **Client-Facing Engineering Delivery** — Served as the lead technical interface for international clients including Rolls-Royce, Siemens, Safran, NASA, and Air France. Delivered Acceptance Test Procedures (ATP), on-site commissioning, and multi-day training programs to ensure smooth project handoffs and client satisfaction.
+- **Data Systems Expertise** — Customized Data Acquisition Systems (DAS) and measurement instruments to meet specific engine and facility requirements. Created post-analysis report templates, real-time display dashboards, and automated test sequences to optimize accuracy and usability of test data.
+- **Gas Turbine Proficiency** — Defined critical engine and facility metrics for gas turbine performance testing, ensuring accurate measurement and analysis. Designed operator consoles with Human-Machine Interface (HMI) controls and developed comprehensive verification and test plans.
 - **Technical Documentation** — Authored and supervised the creation of key technical documents, including Engineering Specifications (ES), Design Briefs (DB), General Arrangement (GA) drawings, Purchase Requests (PR), and Engineering Coordination Memos (ECM). Focused on documentation for data acquisition software components, control/test systems, console design, and customer support protocols.
-- **Customer Support** — Delivered extensive client training programs, both on-site and remotely, to ensure effective operation of gas turbine testing systems. Provided ongoing support during and beyond the commissioning phase (6+ months), troubleshooting system anomalies and implementing appropriate technical resolutions.
-- **Business Development** — Actively contributed to the company's growth by crafting compelling bids, proposals, and tenders, aligning technical solutions with client needs and market trends.
+- **Customer Support** — Delivered extensive client training programs, both on-site and remotely, to ensure effective use of gas turbine testing systems. Provided 6+ months of on-site post-commissioning support, troubleshooting system anomalies and implementing corrective technical solutions.
+- **Business Development** — Contributed to company growth by preparing technical proposals, bids, and tenders, aligning solutions with client needs and market trends.
+
+- **Major Projects Portfolio** — Successfully delivered 15+ Maintenance, Repair, and Overhaul (MRO) and Research & Development (R&D) facilities across North America, Europe, Asia, and the Middle East. Key programs included:
+	+ **MRO Facilities**:
+		* Air France Industries KLM Engineering & Maintenance (Paris, France) — Supported engine models including CFM56-5B/7B, GE90-115B/94B, EA GP7200, GEnx-1B/2B.
+		* GKN Aerospace (Trollhättan, Sweden) — Delivered Volvo RM12 and RM16 Gripen fighter engine test capabilities.
+		* StandardAero (Summerside, Prince Edward Island, Canada) (formerly Vector Aerospace) — Developed P&WC JT15D (all variants) test systems.
+		* Lockheed Martin Commercial Engine Solutions (Montreal, Quebec, Canada) — Managed CFM56 (many variants) and GE CF6-50C2 test projects.
+		* Safran Aircraft Engine Services Morocco (Casablanca, Morocco) — Worked on multiple CFM56 engine variants.
+		* Rolls-Royce (Derby, UK) — Contributed to engine console and test system upgrades.
+		* GA Telesis Engine Services (Helsinki, Finland) — Handled CFM56-5B/7B and GE CF6-80C2 engine test capabilities.
+
+	+ **R&D Facilities**:
+		* Rolls-Royce / NASA Stennis Space Center (Mississippi, USA) — Developed and conducted certification testing for an outdoor jet engine test facility.
+		* Safran Aircraft Engines (Paris, France) — Conducted certification testing for the CFM LEAP-1A and endurance testing for the CFM56 engines.
+		* MAN Energy Solutions (Oberhausen, Germany) — Supported industrial MGT6000-2S and MG8000-1S gas turbine development.
+		* Siemens (Montreal, Quebec, Canada) (formerly Rolls-Royce Energy) — Managed RB211 industrial gas turbine test integration.
+		* MDS AeroTest / GLACIER Test Facility (Thompson, Manitoba, Canada) — Provided emissions analyzer system support in -35°C environments.
+		* AVIC Commercial Aircraft Engines / AECC (Shanghai, China) — Conducted development testing for fan, booster, high-pressure compressor (HPC), and turbine components.
+		* Shanghai Electric Blower Works Co. (Shanghai, China) — Engaged in development testing for compressors.
 
 
 ## Combustion & Pollutant Emissions Engineer — Aerothermal  

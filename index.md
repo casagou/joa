@@ -108,7 +108,7 @@ Bilingual in **French and English**, with a **collaborative, results-driven appr
 		* Rolls-Royce / NASA Stennis Space Center (Mississippi, USA) — Developed and conducted certification testing for an outdoor jet engine test facility.
 		* Safran Aircraft Engines (Paris, France) — Conducted certification testing for the CFM LEAP-1A and endurance testing for the CFM56 engines.
 		* MAN Energy Solutions (Oberhausen, Germany) — Supported industrial MGT6000-2S and MG8000-1S gas turbine development.
-		* Siemens (Montreal, Quebec, Canada) (formerly Rolls-Royce Energy) — Managed RB211 industrial gas turbine test integration.
+		* Siemens (Montreal, Quebec, Canada) (formerly Rolls-Royce Canada) — Managed RB211 industrial gas turbine test integration.
 		* MDS AeroTest / GLACIER Test Facility (Thompson, Manitoba, Canada) — Provided emissions analyzer system support in -35°C environments.
 		* AVIC Commercial Aircraft Engines / AECC (Shanghai, China) — Conducted development testing for fan, booster, high-pressure compressor (HPC), and turbine components.
 		* Shanghai Electric Blower Works Co. (Shanghai, China) — Engaged in development testing for compressors.
@@ -129,12 +129,12 @@ Bilingual in **French and English**, with a **collaborative, results-driven appr
 **Combustion Engineering Research Laboratory at Laval University**  
 📍 Quebec City, QC, Canada | 🗓️ January 2011 – May 2013
 
-- **Biofuel & Emissions Research** — Investigated applications of liquid and gaseous biofuels for gas turbines and aircraft propulsion. Conducted advanced pollutant analysis using FTIR (Fourier Transformation Infrared) spectroscopy to evaluate combustion emissions in swirl combustors.
-- **Spray & Combustion Modeling** — Performed experimental spray characterization using Particle Image Velocimetry (PIV) and CFD (ANSYS Fluent) to model biodiesel atomization and combustion performance.
-- **Experimental Setup & Instrumentation** — Designed, assembled, and calibrated complex lab rigs including injectors, mass flow controllers, pressure vessels, and heat exchangers. Hands-on tasks included soldering, wiring, and equipment integration.
-- **Data Acquisition & Analysis** — Developed and deployed a custom Data Acquisition System (DAS) and Excel VBA toolset to automate combustion data analysis and validate experimental results.
+- **Biofuel & Emissions Research** — Investigated applications of liquid and gaseous biofuels for gas turbines and aircraft propulsion. Conducted advanced pollutant analysis using FTIR (Fourier Transform Infrared) spectroscopy to evaluate combustion emissions (like NOx, CO, and unburned hydrocarbons) in swirl combustors.
+- **Spray & Combustion Modeling** — Performed spray characterization with Particle Image Velocimetry (PIV) and developed Computational Fluid Dynamics (CFD) models (ANSYS Fluent) to predict biodiesel atomization, droplet size distribution, velocity, and combustion performance.
+- **Experimental Setup & Instrumentation** — Designed and assembled complex lab rigs with injectors, pressure vessels, mass flow controllers, pumps, heaters, and heat exchangers. Executed hands-on tasks including soldering, wiring, calibration, and integration of measurement systems.
+- **Data Acquisition & Analysis** — Built and deployed a custom Data Acquisition System (DAS) and Excel VBA-based toolset to automate emissions data capture and validation. Improved post-processing accuracy and ensured experimental results validation aligned with empirical benchmarks.
 - **Teaching & Mentorship** — Delivered guest lectures in Mechanical & Aerospace Engineering Thermodynamics. Led laboratory sessions and evaluated student lab reports. Supervised and trained 4+ international interns on experimental procedures and lab safety.
-- **Technical Reporting & Safety Compliance** — Authored detailed technical documentation and safety protocols. Completed WHMIS and WORKSMART training to uphold laboratory compliance standards.
+- **Technical Reporting & Safety Compliance** — Authored detailed technical reports, experimental protocols, and safety documentation. Maintained strict WHMIS and WORKSMART compliance for lab operations.
 
 
 ## Independent Study in Mechanical Engineering — with Dr. Razvan Rusovici  
@@ -189,17 +189,17 @@ Bilingual in **French and English**, with a **collaborative, results-driven appr
 - Emissions Analysis, Predictive Maintenance (vibration analysis, trend detection, anomaly response), Energy & Climate Change
 
 ### 🛠️ Tools & Engineering Software:
-- CFD & Simulation: ANSYS Fluent, CFX, ICEM CFD, GAMBIT
-- CAD/FEA: SolidWorks, CATIA, Pro/ENGINEER & Creo, AutoCAD, ANSYS Workbench/APDL, Cosmos, CNC/Mastercam
-- Data Acquisition: NI LabVIEW, proDAS/nxDAS, iDDS, LaVision FlowMaster
-- MBSE & Requirements: SysML (familiar), IBM DOORS (familiar), PTC Windchill, Omnify Empower
+- **CFD & Simulation:** ANSYS Fluent, CFX, ICEM CFD, GAMBIT
+- **CAD/FEA:** SolidWorks, CATIA, Pro/ENGINEER & Creo, AutoCAD, ANSYS Workbench/APDL, Cosmos, CNC/Mastercam
+- **Data Acquisition:** NI LabVIEW, proDAS/nxDAS, iDDS, LaVision FlowMaster
+- **MBSE & Requirements:** SysML (familiar), IBM DOORS (familiar), PTC Windchill, Omnify Empower
 	
 ### 💻 Programming, Data & Analytics:
 - Python (data analysis, automation), MATLAB, Excel/VBA, SQL, Java
 - Visualization & Dashboards: Power BI, Tableau, Google Sheets CRM
 - Machine Learning (Basics), Process Monitoring
 	
-### 🧰 Productivity & IT Tools
+### 🧰 Productivity & IT Tools:
 - Microsoft 365, Adobe Creative Suite (Lightroom, Photoshop, XD, Premiere), VMware
 - Unix/Linux (CentOS, Red Hat, Ubuntu), Google Workspace
 - Version Control: Git, Subversion | Bug Tracking: JIRA, Bugzilla
@@ -207,12 +207,12 @@ Bilingual in **French and English**, with a **collaborative, results-driven appr
 - Networking: Kali Linux (Wi-Fi security), LAN/WAN Configuration, Tech Support
 - Slack, Kajabi, Stripe, Dubsado, RBC PayEdge
 	
-### 🤝 Soft Skills & Collaboration
+### 🤝 Soft Skills & Collaboration:
 - Cross-Functional Team Leadership, Stakeholder Engagement, Negotiation, Conflict Resolution
 - Training & Teaching, Change Management, Engineering Management
 - Adaptability to Remote & Cross-Cultural Teams (North America, Europe, Asia)
 
-### 🌍 Languages
+### 🌍 Languages:
 - French (Native), English (Fluent), Spanish (Limited Working Proficiency), Italian (Elementary), Hebrew (Elementary)
 
 ----
@@ -303,12 +303,12 @@ share a common graduation project.
 # 📚 PUBLICATIONS & CONFERENCE PRESENTATIONS
 
 - **J. Agou, B. Paquet & A. deChamplain**  
-  *“Emission Measurements of Various Biofuels using a Commercial Swirl-Type Air-Assist Dual Fuel Injector”* (with presentation)  
+  *“Emission Measurements of Various Biofuels using a Commercial Swirl-Type Air-Assist Dual Fuel Injector”* (http://joa.ag/CICS2013article) (with presentation http://joa.ag/CICS2013keynote)  
   The Combustion Institute – Canadian Section (CICS), Spring Technical Meeting  
   Université Laval, Québec, Canada — **May 13–16, 2013**
 
 - **M. Youssef, J. Agou, B. Paquet & A. deChamplain**  
-  *“Comparative Study for Biodiesel Properties and Standards for Gas Turbine”* (with presentation)  
+  *“Comparative Study for Biodiesel Properties and Standards for Gas Turbine”* (http://joa.ag/CICS2012article) (with presentation http://joa.ag/CICS2012keynote)  
   The Combustion Institute – Canadian Section (CICS), Spring Technical Meeting  
   University of Toronto, Ontario, Canada — **May 13–16, 2012**
 
@@ -317,7 +317,7 @@ share a common graduation project.
 
 # 🛠️ CERTIFICATIONS & TRAININGS
 
-### 🔧 Engineering & Technical Safety
+### 🔧 Engineering & Technical Safety:
 - **PMP® Exam Prep Seminar**  
   *Instructingcom, LLC* — Nov 2018 | *ID:* 109EPSWB  
 - **ESD (Electrostatic Discharge) Control**  
@@ -345,7 +345,7 @@ share a common graduation project.
 - **COVID-19 Employee Health and Safety Training**  
   *MDS* — Jun 2020  
 
-### 🦺 Construction & Site Access Training
+### 🦺 Construction & Site Access Training:
 - **Working at Heights Training**  
   *Safety Training Ottawa* — Aug 2019 | *Trainer:* Debbie Desaulniers | *Cert ID:* WAH-34633  
 - **Working at Heights Training**  
@@ -357,13 +357,13 @@ share a common graduation project.
 - **Fall Protection – Safety Training**  
   *CRS Contractors Rental Supply*  
 
-### ⛑️ First Aid & Emergency Response
+### ⛑️ First Aid & Emergency Response:
 - **Standard First Aid, CPR Level C & AED**  
   *Ottawa Paramedic Service HQ* — Jul 2021  
 - **Emergency First Aid – CPR & AED**  
   *Canadian Red Cross* | *Trainer:* Jennifer Sybrandy | *Certificate:* 30200842  
 
-### 🛃 Security & Compliance
+### 🛃 Security & Compliance:
 - **Airport Security Awareness Training Certificate**  
   *Butterfly Aero Training* — Jun 2014 | *License:* GB81580A20140623  
 - **WHMIS (Workplace Hazardous Materials Information System)**  
@@ -372,7 +372,7 @@ share a common graduation project.
   - **WHMIS 2015 New Hire Assessment**  
     *MDA* — Feb 2022  
 
-### 🌎 Border Security & Identification
+### 🌎 Border Security & Identification:
 - **NEXUS**  
   *Canada Border Services Agency* — Since Jan 2019  
 
@@ -382,7 +382,7 @@ share a common graduation project.
 # 🏆 AWARDS
 
 ### Best Mechanical Engineering Senior Design Project
-* Formula SAE Competition — Florida Institute of Technology
+* Formula SAE Project (Florida Tech Motorsports) — Florida Institute of Technology @ Engineering & Science Student Design Showcase
 Melbourne, FL | April 2009
 
 ----

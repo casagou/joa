@@ -61,13 +61,13 @@ title: A Few Photographs
 
 ![photo](https://github.com/casagou/joa/raw/master/pictures/photo29.jpg)
 
-![photo](https://github.com/casagou/joa/raw/master/pictures/photo30.jpg)
+![photo](https://github.com/casagou/joa/raw/master/pictures2/photo30.jpg)
 
-![photo](https://github.com/casagou/joa/raw/master/pictures/photo31.jpg)
+![photo](https://github.com/casagou/joa/raw/master/pictures2/photo31.jpg)
 
-![photo](https://github.com/casagou/joa/raw/master/pictures/photo32.jpg)
+![photo](https://github.com/casagou/joa/raw/master/pictures2/photo32.jpg)
 
-![photo](https://github.com/casagou/joa/raw/master/pictures/photo33.jpg)
+![photo](https://github.com/casagou/joa/raw/master/pictures2/photo33.jpg)
 
 ![photo](https://github.com/casagou/joa/raw/master/pictures/photo34.jpg)
 

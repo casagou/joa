@@ -17,6 +17,7 @@ Recognized for **practical problem solving, cross-functional leadership, safety,
 
 **Bilingual (French/English)** with a **collaborative, results-oriented** approach.  
 
+
 ----
 
 

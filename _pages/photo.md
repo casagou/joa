@@ -50,13 +50,3 @@ title: A Few Photographs
 ![photo](https://github.com/casagou/joa/raw/master/pictures/photo23.jpg)
 
 ![photo](https://github.com/casagou/joa/raw/master/pictures/photo24.jpg)
-
-![photo](https://github.com/casagou/joa/raw/master/pictures/photo25.jpg)
-
-![photo](https://github.com/casagou/joa/raw/master/pictures/photo26.jpg)
-
-![photo](https://github.com/casagou/joa/raw/master/pictures/photo27.jpg)
-
-![photo](https://github.com/casagou/joa/raw/master/pictures/photo28.jpg)
-
-![photo](https://github.com/casagou/joa/raw/master/pictures/photo29.jpg)
